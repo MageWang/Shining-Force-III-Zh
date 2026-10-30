@@ -1,0 +1,517 @@
+[
+  {
+    "key": "f009a34f51a3ecbd",
+    "location": "X5ASPI_1.BIN:00:D1",
+    "zh": "<00>卸下<03>詛咒裝備<00>"
+  },
+  {
+    "key": "fdb3737404caa7d6",
+    "location": "X5ASPI_1.BIN:01:51",
+    "zh": "<00>伯納德<00>"
+  },
+  {
+    "key": "431b635ecec0908c",
+    "location": "X5ASPI_1.BIN:01:52",
+    "zh": "<00>傑洛<00>"
+  },
+  {
+    "key": "ef5070443ae2c8c2",
+    "location": "X5ASPI_1.BIN:01:56",
+    "zh": "<00>格拉西亞<00>"
+  },
+  {
+    "key": "bce8bbfca463e9d2",
+    "location": "X5ASPI_1.BIN:01:60",
+    "zh": "<00>羅根<00>"
+  },
+  {
+    "key": "1e4c067fa61f5815",
+    "location": "X5ASPI_1.BIN:01:68",
+    "zh": "<00>歐妮絲蒂<00>"
+  },
+  {
+    "key": "e8c02ae36658f262",
+    "location": "X5ASPI_1.BIN:01:6B",
+    "zh": "<00>凡達爾<00>"
+  },
+  {
+    "key": "177ddca7e8c51f85",
+    "location": "X5ASPI_1.BIN:01:72",
+    "zh": "<00>珍恩<00>"
+  },
+  {
+    "key": "edb421b790b48edf",
+    "location": "X5ASPI_1.BIN:01:73",
+    "zh": "<00>無<00>"
+  },
+  {
+    "key": "d16afcbc4cd3753c",
+    "location": "X5ASPI_1.BIN:01:78",
+    "zh": "<00>金幣<00>"
+  },
+  {
+    "key": "898a8e7334ecda1d",
+    "location": "X5ASPI_1.BIN:01:9C",
+    "zh": "<00>劍士<00>"
+  },
+  {
+    "key": "c54807b33ffc01ab",
+    "location": "X5ASPI_1.BIN:01:A0",
+    "zh": "<00>魔法師<00>"
+  },
+  {
+    "key": "e16d6404e778d989",
+    "location": "X5ASPI_1.BIN:01:A3",
+    "zh": "<00>鳥人士兵<00>"
+  },
+  {
+    "key": "e5145ff2e3bc1ac8",
+    "location": "X5ASPI_1.BIN:01:A4",
+    "zh": "<00>遊俠<00>"
+  },
+  {
+    "key": "ff35f843730df8e3",
+    "location": "X5ASPI_1.BIN:01:A5",
+    "zh": "<00>企鵝<00>"
+  },
+  {
+    "key": "ccdaae205c960407",
+    "location": "X5ASPI_1.BIN:01:A6",
+    "zh": "<00>後備<00>"
+  },
+  {
+    "key": "26076d026b3dcb36",
+    "location": "X5ASPI_1.BIN:01:BC",
+    "zh": "<00>英雄<00>"
+  },
+  {
+    "key": "02ff5a2402731cdf",
+    "location": "X5ASPI_1.BIN:01:BD",
+    "zh": "<00>重騎士<00>"
+  },
+  {
+    "key": "1abc015c4b21b77e",
+    "location": "X5ASPI_1.BIN:01:BE",
+    "zh": "<00>鬥士<00>"
+  },
+  {
+    "key": "e89743fd4016dd11",
+    "location": "X5ASPI_1.BIN:01:BF",
+    "zh": "<00>司祭<00>"
+  },
+  {
+    "key": "00dcbfa129167481",
+    "location": "X5ASPI_1.BIN:01:C2",
+    "zh": "<00>武僧大師<00>"
+  },
+  {
+    "key": "8dbf40f67872db30",
+    "location": "X5ASPI_1.BIN:01:C3",
+    "zh": "<00>鳥人騎士<00>"
+  },
+  {
+    "key": "7b058b181322c531",
+    "location": "X5ASPI_1.BIN:01:C4",
+    "zh": "<00>弓騎士<00>"
+  },
+  {
+    "key": "80475626466dd1d2",
+    "location": "X5ASPI_1.BIN:01:C5",
+    "zh": "<00>電能企鵝<00>"
+  },
+  {
+    "key": "c667e564182cfb81",
+    "location": "X5ASPI_1.BIN:01:C6",
+    "zh": "<00>蒸汽騎士<00>"
+  },
+  {
+    "key": "279b23fb70f1ebde",
+    "location": "X5ASPI_1.BIN:01:C7",
+    "zh": "<00>狼男爵<00>"
+  },
+  {
+    "key": "c6e8aebe92ceb876",
+    "location": "X5ASPI_1.BIN:01:DC",
+    "zh": "<00>光之使徒<00>"
+  },
+  {
+    "key": "9ba77ee84220f5b9",
+    "location": "X5ASPI_1.BIN:01:DD",
+    "zh": "<00>聖騎士<00>"
+  },
+  {
+    "key": "058b6933befcb626",
+    "location": "X5ASPI_1.BIN:01:DE",
+    "zh": "<00>狂戰士<00>"
+  },
+  {
+    "key": "020f155d1f8b841d",
+    "location": "X5ASPI_1.BIN:01:E0",
+    "zh": "<00>咒術師<00>"
+  },
+  {
+    "key": "4fa384b4c39dcb9b",
+    "location": "X5ASPI_1.BIN:01:E1",
+    "zh": "<00>召喚師<00>"
+  },
+  {
+    "key": "66e39ee39ef14aa0",
+    "location": "X5ASPI_1.BIN:03:1B",
+    "zh": "<00>奪魂<00>"
+  },
+  {
+    "key": "7620428ee58ea135",
+    "location": "X5ASPI_1.BIN:03:1C",
+    "zh": "<00>煉獄<00>"
+  },
+  {
+    "key": "3c434c9c3b85040f",
+    "location": "X5ASPI_1.BIN:03:1F",
+    "zh": "<00>安撫<00>"
+  },
+  {
+    "key": "d6c35eb59b7d654a",
+    "location": "X5ASPI_1.BIN:03:26",
+    "zh": "<00>海嘯<00>"
+  },
+  {
+    "key": "ce0fc076fd719fef",
+    "location": "X5ASPI_1.BIN:03:29",
+    "zh": "<00>吟唱<00>"
+  },
+  {
+    "key": "5f9eaed8b74e5537",
+    "location": "X5ASPI_1.BIN:03:39",
+    "zh": "<00>泡沫吐息<00>"
+  },
+  {
+    "key": "7dc43015746369fd",
+    "location": "X5ASPI_1.BIN:03:41",
+    "zh": "<00>神聖手杖<00>"
+  },
+  {
+    "key": "bb83e29df4ac95a3",
+    "location": "X5ASPI_1.BIN:03:49",
+    "zh": "<00>鮮血手杖<00>"
+  },
+  {
+    "key": "2c7e1defd21f79fb",
+    "location": "X5ASPI_1.BIN:03:52",
+    "zh": "<00>重刺劍<00>"
+  },
+  {
+    "key": "fe5e3b102f480b5e",
+    "location": "X5ASPI_1.BIN:03:53",
+    "zh": "<00>花劍<00>"
+  },
+  {
+    "key": "ff5feca1f67a23d3",
+    "location": "X5ASPI_1.BIN:03:5A",
+    "zh": "<00>鋼忍刀<00>"
+  },
+  {
+    "key": "3c2bdb6b23f8ca85",
+    "location": "X5ASPI_1.BIN:03:64",
+    "zh": "<00>長柄斧<00>"
+  },
+  {
+    "key": "d5c023443943d3b3",
+    "location": "X5ASPI_1.BIN:03:6A",
+    "zh": "<00>力量手斧<00>"
+  },
+  {
+    "key": "d844ebdece3c1df5",
+    "location": "X5ASPI_1.BIN:03:6B",
+    "zh": "<00>戰鬥手斧<00>"
+  },
+  {
+    "key": "62e6c5216478907d",
+    "location": "X5ASPI_1.BIN:03:6D",
+    "zh": "<00>連枷<00>"
+  },
+  {
+    "key": "fca306e6b116551e",
+    "location": "X5ASPI_1.BIN:03:7B",
+    "zh": "<00>護符法杖<00>"
+  },
+  {
+    "key": "e50c6094d604dd6b",
+    "location": "X5ASPI_1.BIN:03:8B",
+    "zh": "<00>破壞砲<00>"
+  },
+  {
+    "key": "574c712768dc82a1",
+    "location": "X5ASPI_1.BIN:03:96",
+    "zh": "<00>疾行戒指<00>"
+  },
+  {
+    "key": "a2c3f74a749ffcf7",
+    "location": "X5ASPI_1.BIN:03:9A",
+    "zh": "<00>阿提米絲胸針<00>"
+  },
+  {
+    "key": "9a81b22d4b853ae6",
+    "location": "X5ASPI_1.BIN:03:9B",
+    "zh": "<00>阿波羅胸針<00>"
+  },
+  {
+    "key": "950f0eb0cdc11a7f",
+    "location": "X5ASPI_1.BIN:03:A1",
+    "zh": "<00>治癒甘霖<00>"
+  },
+  {
+    "key": "c86ac81e72b68a9d",
+    "location": "X5ASPI_1.BIN:03:A3",
+    "zh": "<00>希望之光<00>"
+  },
+  {
+    "key": "0a8afdf3ddba39da",
+    "location": "X5ASPI_1.BIN:03:AA",
+    "zh": "<00>疾行胡椒<00>"
+  },
+  {
+    "key": "514845cb2a0d3361",
+    "location": "X5ASPI_1.BIN:03:E0",
+    "zh": "<00>殺手手斧<00>"
+  },
+  {
+    "key": "a4e1939739efd3fa",
+    "location": "X5ASPI_1.BIN:03:FC",
+    "zh": "<00>派拉魔杖<00>"
+  },
+  {
+    "key": "b9330b6dcc915b53",
+    "location": "X5ASPI_1.BIN:04:00",
+    "zh": "<00>祝福安卡<00>"
+  },
+  {
+    "key": "58819e5ec46d3848",
+    "location": "X5ASPI_1.BIN:04:02",
+    "zh": "<00>月光箭<00>"
+  },
+  {
+    "key": "9cedcad655f84183",
+    "location": "X5ASPI_1.BIN:04:04",
+    "zh": "<00>破壞箭<00>"
+  },
+  {
+    "key": "de3af38b0e749191",
+    "location": "X5ASPI_1.BIN:04:05",
+    "zh": "<00>坎特蕾拉<00>"
+  },
+  {
+    "key": "a516271b286ac3bd",
+    "location": "X5ASPI_1.BIN:04:06",
+    "zh": "<00>穆吉箭<00>"
+  },
+  {
+    "key": "a72b2e8dc9bca2c3",
+    "location": "X5ASPI_1.BIN:04:08",
+    "zh": "<00>火焰弩箭<00>"
+  },
+  {
+    "key": "2ca3dcf819bca65e",
+    "location": "X5ASPI_1.BIN:04:09",
+    "zh": "<00>音速弩箭<00>"
+  },
+  {
+    "key": "aa2f75e1e90c183f",
+    "location": "X5ASPI_1.BIN:04:0A",
+    "zh": "<00>針刺弩箭<00>"
+  },
+  {
+    "key": "3be35d569c55fe23",
+    "location": "X5ASPI_1.BIN:04:0B",
+    "zh": "<00>巨威砲彈<00>"
+  },
+  {
+    "key": "5d708c2c61f60247",
+    "location": "X5ASPI_1.BIN:04:0C",
+    "zh": "<00>風暴砲<00>"
+  },
+  {
+    "key": "0eb0cf7845997414",
+    "location": "X5ASPI_1.BIN:04:0D",
+    "zh": "<00>流星砲<00>"
+  },
+  {
+    "key": "5f164a1b9a90a356",
+    "location": "X5ASPI_1.BIN:04:0E",
+    "zh": "<00>脈衝砲<00>"
+  },
+  {
+    "key": "97fddc5cefb63529",
+    "location": "X5ASPI_1.BIN:04:0F",
+    "zh": "<00>斬風<00>"
+  },
+  {
+    "key": "5239d345b65ae49f",
+    "location": "X5ASPI_1.BIN:04:10",
+    "zh": "<00>噬骨<00>"
+  },
+  {
+    "key": "4d9b599038d9e80f",
+    "location": "X5ASPI_1.BIN:04:11",
+    "zh": "<00>怒海<00>"
+  },
+  {
+    "key": "34633f46c0658c7b",
+    "location": "X5ASPI_1.BIN:04:12",
+    "zh": "<00>草薙<00>"
+  },
+  {
+    "key": "25f7c072adaafc6a",
+    "location": "X5ASPI_1.BIN:04:13",
+    "zh": "<00>村正<00>"
+  },
+  {
+    "key": "3b8c72036a62c617",
+    "location": "X5ASPI_1.BIN:04:14",
+    "zh": "<00>十字手裏劍<00>"
+  },
+  {
+    "key": "2731dd073fdf274c",
+    "location": "X5ASPI_1.BIN:04:15",
+    "zh": "<00>狐手裏劍<00>"
+  },
+  {
+    "key": "09d4e774d1f3660e",
+    "location": "X5ASPI_1.BIN:04:16",
+    "zh": "<00>車劍<00>"
+  },
+  {
+    "key": "8ac46397534c1972",
+    "location": "X5ASPI_1.BIN:04:18",
+    "zh": "<00>八角星<00>"
+  },
+  {
+    "key": "0833c968e11bf387",
+    "location": "X5ASPI_1.BIN:04:1A",
+    "zh": "<00>金屬翼<00>"
+  },
+  {
+    "key": "b7461abe02c3c703",
+    "location": "X5ASPI_1.BIN:04:1D",
+    "zh": "<00>風精靈翼<00>"
+  },
+  {
+    "key": "24c16a8ad100f681",
+    "location": "X5ASPI_1.BIN:04:1E",
+    "zh": "<00>音速翼<00>"
+  },
+  {
+    "key": "69e0dbf872d79106",
+    "location": "X5ASPI_1.BIN:04:1F",
+    "zh": "<00>宇宙翼<00>"
+  },
+  {
+    "key": "6b55efff1808b1e5",
+    "location": "X5ASPI_1.BIN:04:20",
+    "zh": "<00>零式翼<00>"
+  },
+  {
+    "key": "e20674bb615b7634",
+    "location": "X5ASPI_1.BIN:04:21",
+    "zh": "<00>隱形翼<00>"
+  },
+  {
+    "key": "79212e531aaace4c",
+    "location": "X5ASPI_1.BIN:04:25",
+    "zh": "<00>旋轉錨<00>"
+  },
+  {
+    "key": "0ae7215b12437a3c",
+    "location": "X5ASPI_1.BIN:04:26",
+    "zh": "<00>粉碎錨<00>"
+  },
+  {
+    "key": "06a97ff683b080de",
+    "location": "X5ASPI_1.BIN:04:27",
+    "zh": "<00>重力錨<00>"
+  },
+  {
+    "key": "62a45d9c4f1c0d20",
+    "location": "X5ASPI_1.BIN:04:29",
+    "zh": "<00>雞飼料<00>"
+  },
+  {
+    "key": "b8450f83377b0bcf",
+    "location": "X5ASPI_1.BIN:04:2A",
+    "zh": "<00>沃爾卡農魔杖<00>"
+  },
+  {
+    "key": "0e6b83b6ec9a3f4b",
+    "location": "X5ASPI_1.BIN:04:2B",
+    "zh": "<00>大蛋<00>"
+  },
+  {
+    "key": "d6f8ffc2558a51ea",
+    "location": "X5ASPI_1.BIN:04:2C",
+    "zh": "<00>船鑰匙<00>"
+  },
+  {
+    "key": "53387c832019e04a",
+    "location": "X5ASPI_1.BIN:04:2D",
+    "zh": "<00>神像寶石<00>"
+  },
+  {
+    "key": "976b99c8fc4b6d5d",
+    "location": "X5ASPI_1.BIN:04:2E",
+    "zh": "<00>密特拉安卡<00>"
+  },
+  {
+    "key": "b24a9b8af4c665a3",
+    "location": "X5ASPI_1.BIN:04:30",
+    "zh": "<00>神授手杖<00>"
+  },
+  {
+    "key": "0d7aac52cf327369",
+    "location": "X5ASPI_1.BIN:04:34",
+    "zh": "<00>藍色遺跡地圖<00>"
+  },
+  {
+    "key": "aad44c70d9700c06",
+    "location": "X5ASPI_1.BIN:04:35",
+    "zh": "<00>高原地圖<00>"
+  },
+  {
+    "key": "ce0f89c5cfbec085",
+    "location": "X5ASPI_1.BIN:04:36",
+    "zh": "<00>沙漠地圖<00>"
+  },
+  {
+    "key": "c51f225930472ccb",
+    "location": "X5ASPI_1.BIN:04:37",
+    "zh": "<00>塔樓地圖<00>"
+  },
+  {
+    "key": "7ebe6a7cb1e040dd",
+    "location": "X5ASPI_1.BIN:04:48",
+    "zh": "<00>企鵝嘴<00>"
+  },
+  {
+    "key": "fe7eb36c63d0f3a3",
+    "location": "X5ASPI_1.BIN:04:49",
+    "zh": "<00>卸下<00>"
+  },
+  {
+    "key": "126cd0d0ad313789",
+    "location": "X5ASPI_1.BIN:04:D0",
+    "zh": "<00>卡娜<00>"
+  },
+  {
+    "key": "be905b526818e86c",
+    "location": "X5ASPI_1.BIN:04:D1",
+    "zh": "<00>艾瑞克<00>"
+  },
+  {
+    "key": "6217e1a39e7a6665",
+    "location": "X5ASPI_1.BIN:04:D2",
+    "zh": "<00>泰林<00>"
+  },
+  {
+    "key": "d667420fdd3982c4",
+    "location": "X5ASPI_1.BIN:04:D3",
+    "zh": "<00>蘭道夫<00>"
+  }
+]

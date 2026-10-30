@@ -1,0 +1,6 @@
+Source: https://github.com/TakWolf/fusion-pixel-font/releases/tag/2026.10.25
+Asset: fusion-pixel-font-12px-monospaced-bdf-v2026.10.25.zip
+Asset URL: https://github.com/TakWolf/fusion-pixel-font/releases/download/2026.10.25/fusion-pixel-font-12px-monospaced-bdf-v2026.10.25.zip
+SHA-256: d8788cf5ffd6a2dabec397c33c878261195fb9146cdb67d8afd418fe73db15bd
+Extracted font: fusion-pixel-12px-monospaced-zh_tw.bdf
+License: SIL Open Font License 1.1; see OFL.txt and LICENSES/.

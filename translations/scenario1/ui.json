@@ -1,0 +1,6827 @@
+[
+  {
+    "key": "7de3077c8d74c7af",
+    "location": "X5DREAM.BIN:00:00",
+    "zh": "<00>選擇存檔<06><00>"
+  },
+  {
+    "key": "d82063f4d639304a",
+    "location": "X5DREAM.BIN:00:01",
+    "zh": "<00>選擇選項<06><00>"
+  },
+  {
+    "key": "3c4545f08f3e15f8",
+    "location": "X5DREAM.BIN:00:02",
+    "zh": "<00>系統記憶體或卡匣？<06><00>"
+  },
+  {
+    "key": "b5fa5ccc8365df8b",
+    "location": "X5DREAM.BIN:00:03",
+    "zh": "<00>要刪除此存檔嗎？<06><00>"
+  },
+  {
+    "key": "f4aff570cdf2f0f0",
+    "location": "X5DREAM.BIN:00:04",
+    "zh": "<00>要覆寫此存檔嗎？<06><00>"
+  },
+  {
+    "key": "0058ae9ab2189e8e",
+    "location": "X5DREAM.BIN:00:05",
+    "zh": "<00><08><07>系統記憶體不足<03>記憶體<06><00>"
+  },
+  {
+    "key": "d4874c573b5aca6d",
+    "location": "X5DREAM.BIN:00:06",
+    "zh": "<00><08><07>卡匣記憶體不足<03>記憶體<06><00>"
+  },
+  {
+    "key": "f804640bd74ac832",
+    "location": "X5DREAM.BIN:00:07",
+    "zh": "<00><08><07>記憶體不足，無法<03>複製存檔<06><00>"
+  },
+  {
+    "key": "3e2e3c0b0e9372cd",
+    "location": "X5DREAM.BIN:00:08",
+    "zh": "<00><08><07>記憶體不足<03>無法儲存存檔<06><00>"
+  },
+  {
+    "key": "41ddc473985380e0",
+    "location": "X5DREAM.BIN:00:09",
+    "zh": "<00><08><07>找不到卡匣<06><00>"
+  },
+  {
+    "key": "4e6faff0b7d543ee",
+    "location": "X5DREAM.BIN:00:0A",
+    "zh": "<00><08><07>無法寫入<03>卡匣<06><00>"
+  },
+  {
+    "key": "4baed82b68dbd2b2",
+    "location": "X5DREAM.BIN:00:0B",
+    "zh": "<00><08><07>無法使用此存檔<06><00>"
+  },
+  {
+    "key": "6ff6356e7807824c",
+    "location": "X5DREAM.BIN:00:0C",
+    "zh": "<00><08><07>儲存需要 <16> 格記憶體。若要釋出空間，請前往<03>Saturn 控制面板的記憶體管理<03>畫面。<02><00>"
+  },
+  {
+    "key": "c51fbb6e824556c4",
+    "location": "X5DREAM.BIN:00:0D",
+    "zh": "<00><08><07>寫入失敗！<00>"
+  },
+  {
+    "key": "12ebb03d87b586fc",
+    "location": "X5DREAM.BIN:00:0E",
+    "zh": "<00>沒有存檔<00>"
+  },
+  {
+    "key": "3708501719918ccc",
+    "location": "X5DREAM.BIN:00:0F",
+    "zh": "<00><08><07>系統記憶體尚未就緒。<03>請使用 Saturn 記憶體管理員<03>清除系統記憶體。<1E><00>"
+  },
+  {
+    "key": "f8d8d230e1d1d2d9",
+    "location": "X5DREAM.BIN:00:10",
+    "zh": "<00><08><07>卡匣記憶體尚未就緒。<03>請使用 Saturn 記憶體管理員<03>清除卡匣記憶體。<1E><00>"
+  },
+  {
+    "key": "d62efdba28cebd91",
+    "location": "X5DREAM.BIN:00:11",
+    "zh": "<00><08><08>選擇要複製的存檔<02><00>"
+  },
+  {
+    "key": "996bbb0e636e1679",
+    "location": "X5DREAM.BIN:00:12",
+    "zh": "<00><08><08>選擇要刪除的存檔<02><00>"
+  },
+  {
+    "key": "1616c6c68460c310",
+    "location": "X5DREAM.BIN:00:13",
+    "zh": "<00><08><08>選擇要覆寫的存檔<02><00>"
+  },
+  {
+    "key": "9a3c2be4d22c473d",
+    "location": "X5DREAM.BIN:00:14",
+    "zh": "<00><08><08>選擇要讀取的存檔<02><00>"
+  },
+  {
+    "key": "d909b0eca0588282",
+    "location": "X5DREAM.BIN:00:15",
+    "zh": "<00><08><08>選擇要開始的存檔<02><00>"
+  },
+  {
+    "key": "cbe40496f926c4a5",
+    "location": "X5DREAM.BIN:00:16",
+    "zh": "<00>新增<00>"
+  },
+  {
+    "key": "02290a8ecbe3991f",
+    "location": "X5DREAM.BIN:00:17",
+    "zh": "<00>覆寫<00>"
+  },
+  {
+    "key": "ce902a75ed46ec15",
+    "location": "X5DREAM.BIN:00:18",
+    "zh": "<00>從頭開始<00>"
+  },
+  {
+    "key": "a1e347b23bc86b62",
+    "location": "X5DREAM.BIN:00:19",
+    "zh": "<00>存檔編號<00>"
+  },
+  {
+    "key": "ef4fd6e3504ce04f",
+    "location": "X5DREAM.BIN:00:1A",
+    "zh": "<00>系統<00>"
+  },
+  {
+    "key": "068811ebdfb1d8cb",
+    "location": "X5DREAM.BIN:00:1B",
+    "zh": "<00>卡匣<00>"
+  },
+  {
+    "key": "fdfaa0bd9dac1fc3",
+    "location": "X5DREAM.BIN:00:1C",
+    "zh": "<00>開始方式<00>"
+  },
+  {
+    "key": "58c2ce3db10b1c04",
+    "location": "X5DREAM.BIN:00:1D",
+    "zh": "<00>開始<00>"
+  },
+  {
+    "key": "8077f1ef31a21b7d",
+    "location": "X5DREAM.BIN:00:1E",
+    "zh": "<00>繼續<00>"
+  },
+  {
+    "key": "e7515c87e9aa3e23",
+    "location": "X5DREAM.BIN:00:1F",
+    "zh": "<00>複製<00>"
+  },
+  {
+    "key": "2519d4a15151b121",
+    "location": "X5DREAM.BIN:00:20",
+    "zh": "<00>刪除<00>"
+  },
+  {
+    "key": "52da7fed39746808",
+    "location": "X5DREAM.BIN:00:21",
+    "zh": "<00>記憶體<00>"
+  },
+  {
+    "key": "610c509306339365",
+    "location": "X5DREAM.BIN:00:24",
+    "zh": "<00><08><08>沒有可繼續的存檔<05><00>"
+  },
+  {
+    "key": "fe6c3da19d8be4f3",
+    "location": "X5DREAM.BIN:00:25",
+    "zh": "<00><08><08>沒有可覆寫的存檔<05><00>"
+  },
+  {
+    "key": "46166cec9621092e",
+    "location": "X5DREAM.BIN:00:26",
+    "zh": "<00><08><08>沒有可複製的存檔<05><00>"
+  },
+  {
+    "key": "957fed5c1fa92910",
+    "location": "X5DREAM.BIN:00:27",
+    "zh": "<00><08><08>沒有可刪除的存檔<05><00>"
+  },
+  {
+    "key": "f58f7056b9dad060",
+    "location": "X5DREAM.BIN:00:28",
+    "zh": "<00><08><08>沒有可讀取的存檔<05><00>"
+  },
+  {
+    "key": "b318ec1555fef333",
+    "location": "X5DREAM.BIN:00:29",
+    "zh": "<00><08><07>系統記憶體尚未就緒。請使用<03>Saturn 控制面板中的記憶體管理畫面<03>清除系統記憶體。<02><00>"
+  },
+  {
+    "key": "28bf5d945e724825",
+    "location": "X5DREAM.BIN:00:2A",
+    "zh": "<00><08><08>要取代<03>上一章的存檔嗎？<05><00>"
+  },
+  {
+    "key": "83768dbbbc71ade3",
+    "location": "X5DREAM.BIN:00:2B",
+    "zh": "<00><08><08>要刪除此存檔嗎？<05><00>"
+  },
+  {
+    "key": "362b7ca66c290608",
+    "location": "X5DREAM.BIN:00:2C",
+    "zh": "<00><08><08>要覆寫此存檔嗎？<05><00>"
+  },
+  {
+    "key": "a5eb0294628d68ef",
+    "location": "X5DREAM.BIN:00:2D",
+    "zh": "<00>劇本<00>"
+  },
+  {
+    "key": "f10480a64f2df393",
+    "location": "X5DREAM.BIN:00:2E",
+    "zh": "<00><08><06>平假名<00>"
+  },
+  {
+    "key": "006ce6ebfb545d70",
+    "location": "X5DREAM.BIN:00:2F",
+    "zh": "<00><08><06>片假名<00>"
+  },
+  {
+    "key": "85bd442c70667a81",
+    "location": "X5DREAM.BIN:00:30",
+    "zh": "<00><08><06>英文<00>"
+  },
+  {
+    "key": "303cd0f4d2663954",
+    "location": "X5DREAM.BIN:00:31",
+    "zh": "<00><08><06>退格<00>"
+  },
+  {
+    "key": "040ce9f9acae0c6b",
+    "location": "X5DREAM.BIN:00:32",
+    "zh": "<00><08><06>完成<00>"
+  },
+  {
+    "key": "9ff6adb188bb5ef4",
+    "location": "X5DREAM.BIN:00:33",
+    "zh": "<00>已鎖定<02><00>"
+  },
+  {
+    "key": "966b56f4be808dbd",
+    "location": "X5DREAM.BIN:00:34",
+    "zh": "<00>金幣總數<00>"
+  },
+  {
+    "key": "b36649ace77140b5",
+    "location": "X5DREAM.BIN:00:37",
+    "zh": "<00>咒文代碼錯誤<00>"
+  },
+  {
+    "key": "15d4e3f701bd1d6a",
+    "location": "X5DREAM.BIN:00:38",
+    "zh": "<00><12><13><03>加入隊伍！<1E><00>"
+  },
+  {
+    "key": "d99aa198c41f419d",
+    "location": "X5DREAM.BIN:00:3A",
+    "zh": "<00><12><13><03>和<12><13><03>一同加入隊伍！<1E><00>"
+  },
+  {
+    "key": "cd4f7ae955b78da2",
+    "location": "X5DREAM.BIN:00:3B",
+    "zh": "<00><10>收到了道具：<14><1E><00>"
+  },
+  {
+    "key": "a4cde263f3e2f72c",
+    "location": "X5DREAM.BIN:00:3C",
+    "zh": "<00><10><1C>的物品欄已滿，<03>於是把道具交給<12><03>。<14><02><00>"
+  },
+  {
+    "key": "e3d550e34cbdc7bf",
+    "location": "X5DREAM.BIN:00:3D",
+    "zh": "<00><12>找到了<03>。<14><1E><00>"
+  },
+  {
+    "key": "7361975af12d0da6",
+    "location": "X5DREAM.BIN:00:3E",
+    "zh": "<00>查看<00>"
+  },
+  {
+    "key": "79a0c2d655c622ea",
+    "location": "X5DREAM.BIN:00:3F",
+    "zh": "<00>咒文<00>"
+  },
+  {
+    "key": "f555f2392a54f5b5",
+    "location": "X5DREAM.BIN:00:41",
+    "zh": "<00>狀態<00>"
+  },
+  {
+    "key": "3ac7e5ab5b12c708",
+    "location": "X5DREAM.BIN:00:42",
+    "zh": "<00>提示<00>"
+  },
+  {
+    "key": "c231e41a105be38c",
+    "location": "X5DREAM.BIN:00:43",
+    "zh": "<00>交付<00>"
+  },
+  {
+    "key": "e83b59cc730f68e3",
+    "location": "X5DREAM.BIN:00:44",
+    "zh": "<00>拿取<00>"
+  },
+  {
+    "key": "5b8936b8617a3efc",
+    "location": "X5DREAM.BIN:00:45",
+    "zh": "<00>轉交<00>"
+  },
+  {
+    "key": "535653df61fee798",
+    "location": "X5DREAM.BIN:00:48",
+    "zh": "<00>地圖<00>"
+  },
+  {
+    "key": "f4e7b330f702e45a",
+    "location": "X5DREAM.BIN:00:49",
+    "zh": "<00>存檔<00>"
+  },
+  {
+    "key": "e737c85369a9be00",
+    "location": "X5DREAM.BIN:00:4A",
+    "zh": "<00>購買<00>"
+  },
+  {
+    "key": "880f0c33c4467d7b",
+    "location": "X5DREAM.BIN:00:4B",
+    "zh": "<00>出售<00>"
+  },
+  {
+    "key": "7704e2e83c86f39e",
+    "location": "X5DREAM.BIN:00:4C",
+    "zh": "<00>修理<00>"
+  },
+  {
+    "key": "639fb631eca6dddd",
+    "location": "X5DREAM.BIN:00:4D",
+    "zh": "<00>交易<00>"
+  },
+  {
+    "key": "58182c9cf8957439",
+    "location": "X5DREAM.BIN:00:4E",
+    "zh": "<00>攻擊<00>"
+  },
+  {
+    "key": "c651eedd01457777",
+    "location": "X5DREAM.BIN:00:51",
+    "zh": "<00>待命<00>"
+  },
+  {
+    "key": "a611ab49b03ea6fa",
+    "location": "X5DREAM.BIN:00:53",
+    "zh": "<00>交談<00>"
+  },
+  {
+    "key": "b152a3cf747c5777",
+    "location": "X5DREAM.BIN:00:54",
+    "zh": "<00>移動<00>"
+  },
+  {
+    "key": "d247be0b0df8e165",
+    "location": "X5DREAM.BIN:00:55",
+    "zh": "<00>使用<00>"
+  },
+  {
+    "key": "d31d58e24bd4d6e3",
+    "location": "X5DREAM.BIN:00:58",
+    "zh": "<00>丟棄<00>"
+  },
+  {
+    "key": "dad3c5a2a877e534",
+    "location": "X5DREAM.BIN:00:5B",
+    "zh": "<00>佩戴飾品<00>"
+  },
+  {
+    "key": "b54fb41e69149f5f",
+    "location": "X5DREAM.BIN:00:5C",
+    "zh": "<00>使用飾品<00>"
+  },
+  {
+    "key": "8a360d0345f39a49",
+    "location": "X5DREAM.BIN:00:5D",
+    "zh": "<00>未裝備<00>"
+  },
+  {
+    "key": "eb34999e5b4eeda9",
+    "location": "X5DREAM.BIN:00:63",
+    "zh": "<00>無法卸下<00>"
+  },
+  {
+    "key": "a2bf5629a463aa4d",
+    "location": "X5DREAM.BIN:00:64",
+    "zh": "<00>轉職後<00>"
+  },
+  {
+    "key": "4d27b9b2bce21f56",
+    "location": "X5DREAM.BIN:00:65",
+    "zh": "<00>復活<00>"
+  },
+  {
+    "key": "5e8669a889f3e7b9",
+    "location": "X5DREAM.BIN:00:66",
+    "zh": "<00>治療<00>"
+  },
+  {
+    "key": "2d4ed114dd352c8f",
+    "location": "X5DREAM.BIN:00:67",
+    "zh": "<00>轉職<00>"
+  },
+  {
+    "key": "bdec1087b845ca9d",
+    "location": "X5DREAM.BIN:00:68",
+    "zh": "<00>存檔<00>"
+  },
+  {
+    "key": "91a10eae2f118bc0",
+    "location": "X5DREAM.BIN:00:69",
+    "zh": "<00>無法轉職<00>"
+  },
+  {
+    "key": "0726a752c7077fed",
+    "location": "X5DREAM.BIN:00:6B",
+    "zh": "<00>出戰隊伍<00>"
+  },
+  {
+    "key": "a40bfe14694f260e",
+    "location": "X5DREAM.BIN:00:6C",
+    "zh": "<00>預備隊<00>"
+  },
+  {
+    "key": "f884b0915f929602",
+    "location": "X5DREAM.BIN:00:6D",
+    "zh": "<00>要讓誰加入隊伍？<00>"
+  },
+  {
+    "key": "89f83be31264d96b",
+    "location": "X5DREAM.BIN:00:6E",
+    "zh": "<00>要讓誰留在預備隊？<00>"
+  },
+  {
+    "key": "1a104237b02561b7",
+    "location": "X5DREAM.BIN:00:6F",
+    "zh": "<00><11><01>必須留在隊伍中<00>"
+  },
+  {
+    "key": "cfef21debc85f6fe",
+    "location": "X5DREAM.BIN:00:70",
+    "zh": "<00>預備隊沒有人<00>"
+  },
+  {
+    "key": "43a1a22b2ba27145",
+    "location": "X5DREAM.BIN:00:71",
+    "zh": "<00>手動<00>"
+  },
+  {
+    "key": "0a7e7e2b2d419d8d",
+    "location": "X5DREAM.BIN:00:72",
+    "zh": "<00>自動<00>"
+  },
+  {
+    "key": "c95690a530196715",
+    "location": "X5DREAM.BIN:00:73",
+    "zh": "<00>請下達指令<00>"
+  },
+  {
+    "key": "64ea7f7583d2af8a",
+    "location": "X5DREAM.BIN:00:74",
+    "preserve": true
+  },
+  {
+    "key": "a29b74fcbeaaa66c",
+    "location": "X5DREAM.BIN:00:75",
+    "preserve": true
+  },
+  {
+    "key": "85d008e8d5a180a2",
+    "location": "X5DREAM.BIN:00:76",
+    "zh": "<00>是<00>"
+  },
+  {
+    "key": "cd0d5d45177c7adf",
+    "location": "X5DREAM.BIN:00:77",
+    "zh": "<00>否<00>"
+  },
+  {
+    "key": "789f5c793e51c14d",
+    "location": "X5DREAM.BIN:00:7A",
+    "zh": "<00><08><07>平假名<00>"
+  },
+  {
+    "key": "bf1ee3d9e8dc9d70",
+    "location": "X5DREAM.BIN:00:7B",
+    "zh": "<00><08><07>片假名<00>"
+  },
+  {
+    "key": "bbe26ae7edec359a",
+    "location": "X5DREAM.BIN:00:7C",
+    "zh": "<00><08><07>英文<00>"
+  },
+  {
+    "key": "d6c4bf008c813208",
+    "location": "X5DREAM.BIN:00:7D",
+    "zh": "<00><08><07>退格<00>"
+  },
+  {
+    "key": "40da1cc97be248b7",
+    "location": "X5DREAM.BIN:00:7E",
+    "zh": "<00><08><07>完成<00>"
+  },
+  {
+    "key": "54adf5570b731255",
+    "location": "X5DREAM.BIN:00:7F",
+    "zh": "<00>要交換哪兩位？<00>"
+  },
+  {
+    "key": "af601c5d11d3d7c5",
+    "location": "X5DREAM.BIN:00:80",
+    "preserve": true
+  },
+  {
+    "key": "365a1626aa15abbb",
+    "location": "X5DREAM.BIN:00:81",
+    "preserve": true
+  },
+  {
+    "key": "0b56c7aea6e925f3",
+    "location": "X5DREAM.BIN:00:82",
+    "preserve": true
+  },
+  {
+    "key": "83c7f6af131c6efa",
+    "location": "X5DREAM.BIN:00:83",
+    "preserve": true
+  },
+  {
+    "key": "60ce024d2a1941fb",
+    "location": "X5DREAM.BIN:00:84",
+    "preserve": true
+  },
+  {
+    "key": "2f6168808c5da03a",
+    "location": "X5DREAM.BIN:00:85",
+    "preserve": true
+  },
+  {
+    "key": "cbf2a9f982df5369",
+    "location": "X5DREAM.BIN:00:86",
+    "preserve": true
+  },
+  {
+    "key": "b23dfe07a37f9e13",
+    "location": "X5DREAM.BIN:00:87",
+    "zh": "<00>抗魔法<00>"
+  },
+  {
+    "key": "3b121075db0515fa",
+    "location": "X5DREAM.BIN:00:88",
+    "zh": "<00>抗吐息<00>"
+  },
+  {
+    "key": "6ec34db425df3d5c",
+    "location": "X5DREAM.BIN:00:89",
+    "preserve": true
+  },
+  {
+    "key": "1173590ba5904095",
+    "location": "X5DREAM.BIN:00:8A",
+    "zh": "<00><08><07>姓名<07><00>"
+  },
+  {
+    "key": "fd4db3560ae92ba9",
+    "location": "X5DREAM.BIN:00:8B",
+    "zh": "<00><08><07>職業<07><00>"
+  },
+  {
+    "key": "4bd7394ad8842357",
+    "location": "X5DREAM.BIN:00:8C",
+    "zh": "<00>距離升級<00>"
+  },
+  {
+    "key": "95ff8c11a72ceab1",
+    "location": "X5DREAM.BIN:00:8D",
+    "zh": "<00><08><07>最大 HP<07><00>"
+  },
+  {
+    "key": "aa27d4ccd8c2b258",
+    "location": "X5DREAM.BIN:00:8E",
+    "zh": "<00><08><07>最大 MP<07><00>"
+  },
+  {
+    "key": "beba296f487b0d7b",
+    "location": "X5DREAM.BIN:00:8F",
+    "zh": "<00>金幣總數<00>"
+  },
+  {
+    "key": "f1f005f66870a774",
+    "location": "X5DREAM.BIN:00:90",
+    "zh": "<00>搭檔妖精<00>"
+  },
+  {
+    "key": "a9715f8d6691b8ea",
+    "location": "X5DREAM.BIN:00:91",
+    "zh": "<00>遊戲時間<00>"
+  },
+  {
+    "key": "a1fd61a623a57a9d",
+    "location": "X5DREAM.BIN:00:92",
+    "zh": "<00><08><02>詛咒<00>"
+  },
+  {
+    "key": "fdc88547b9384964",
+    "location": "X5DREAM.BIN:00:93",
+    "zh": "<00><08><05>中毒<00>"
+  },
+  {
+    "key": "0a0afad743851a3c",
+    "location": "X5DREAM.BIN:00:94",
+    "zh": "<00><08><05>劇毒<00>"
+  },
+  {
+    "key": "85f4ccd8bf72acb7",
+    "location": "X5DREAM.BIN:00:95",
+    "zh": "<00>健康<00>"
+  },
+  {
+    "key": "7857dd1523d9be69",
+    "location": "X5DREAM.BIN:00:96",
+    "zh": "<00><08><04>倒下<00>"
+  },
+  {
+    "key": "c32b322fc7fe475f",
+    "location": "X5DREAM.BIN:00:97",
+    "zh": "<00><08><07>瀕死<00>"
+  },
+  {
+    "key": "63d434fc6cde626b",
+    "location": "X5DREAM.BIN:00:9A",
+    "zh": "<00>道具<00>"
+  },
+  {
+    "key": "8355c445abe7a89a",
+    "location": "X5DREAM.BIN:00:9B",
+    "zh": "<00>友情<00>"
+  },
+  {
+    "key": "a276a88f4213fcb9",
+    "location": "X5DREAM.BIN:00:9F",
+    "zh": "<00><08><07>移動<07><00>"
+  },
+  {
+    "key": "db247dab7f260905",
+    "location": "X5DREAM.BIN:00:A2",
+    "zh": "<00><08><07>效果<07><00>"
+  },
+  {
+    "key": "596f24ef45ecfff3",
+    "location": "X5DREAM.BIN:00:A3",
+    "zh": "<00><08><07>支援<07><00>"
+  },
+  {
+    "key": "97921ca39fc688f1",
+    "location": "X5DREAM.BIN:00:A4",
+    "zh": "<00><08><07>擊倒<07><00>"
+  },
+  {
+    "key": "6b97c518b8024567",
+    "location": "X5DREAM.BIN:00:A5",
+    "zh": "<00><08><07>敗北<07><00>"
+  },
+  {
+    "key": "95874bf45a6a07f5",
+    "location": "X5DREAM.BIN:00:A6",
+    "zh": "<00><08><07>治療<07><00>"
+  },
+  {
+    "key": "af75523ca8ef154b",
+    "location": "X5DREAM.BIN:00:A7",
+    "zh": "<00><08><07>魔法抗性<07><00>"
+  },
+  {
+    "key": "82698ff2c4920968",
+    "location": "X5DREAM.BIN:00:A8",
+    "zh": "<00>火<00>"
+  },
+  {
+    "key": "042c1f3e8f657f45",
+    "location": "X5DREAM.BIN:00:A9",
+    "zh": "<00>冰<00>"
+  },
+  {
+    "key": "919a470ea85a6dd9",
+    "location": "X5DREAM.BIN:00:AA",
+    "zh": "<00>雷<00>"
+  },
+  {
+    "key": "dcbd18b6f0328c98",
+    "location": "X5DREAM.BIN:00:AB",
+    "zh": "<00>風<00>"
+  },
+  {
+    "key": "41c35b39442d568a",
+    "location": "X5DREAM.BIN:00:AD",
+    "zh": "<00>暗<00>"
+  },
+  {
+    "key": "ec21db8dc13608bd",
+    "location": "X5DREAM.BIN:00:AE",
+    "zh": "<00><08><07>武器<07><00>"
+  },
+  {
+    "key": "9ad24a36e9599d79",
+    "location": "X5DREAM.BIN:00:AF",
+    "zh": "<00><08><07>等級<07><00>"
+  },
+  {
+    "key": "24e63f31c4c1a13b",
+    "location": "X5DREAM.BIN:00:B0",
+    "zh": "<00><08><07>必殺技<07><00>"
+  },
+  {
+    "key": "243b36df240732dc",
+    "location": "X5DREAM.BIN:00:B1",
+    "zh": "<00><08><07>同伴支援<07><00>"
+  },
+  {
+    "key": "baf5452c255d7c21",
+    "location": "X5DREAM.BIN:00:B2",
+    "zh": "<00><08><07>同伴<07><00>"
+  },
+  {
+    "key": "a0e39db146aab47d",
+    "location": "X5DREAM.BIN:00:B5",
+    "zh": "<00><08><07>距離下次升級<07><00>"
+  },
+  {
+    "key": "e5b16a0e6af8737a",
+    "location": "X5DREAM.BIN:00:B8",
+    "zh": "<00><08><07>金幣<07><00>"
+  },
+  {
+    "key": "a9aeca584d978d6a",
+    "location": "X5DREAM.BIN:00:B9",
+    "zh": "<00><08><07>威力<07><00>"
+  },
+  {
+    "key": "f2300a25b7397df6",
+    "location": "X5DREAM.BIN:00:BA",
+    "zh": "<00>頭目<00>"
+  },
+  {
+    "key": "4c31ddaac8552bd8",
+    "location": "X5DREAM.BIN:00:BB",
+    "zh": "<00>安撫<00>"
+  },
+  {
+    "key": "7a01adb555ca25b2",
+    "location": "X5DREAM.BIN:00:BC",
+    "zh": "<00>抗性<00>"
+  },
+  {
+    "key": "5aff06ff9d60ff84",
+    "location": "X5DREAM.BIN:00:BE",
+    "zh": "<00>支援<00>"
+  },
+  {
+    "key": "bf0f8b73b5403972",
+    "location": "X5DREAM.BIN:00:BF",
+    "zh": "<00><08><05>緩速<00>"
+  },
+  {
+    "key": "48cdde04a61f25cc",
+    "location": "X5DREAM.BIN:00:C0",
+    "zh": "<00><08><05>睡眠<00>"
+  },
+  {
+    "key": "724ef1ab9d023931",
+    "location": "X5DREAM.BIN:00:C1",
+    "zh": "<00><08><05>混亂<00>"
+  },
+  {
+    "key": "36aef0c8208d37da",
+    "location": "X5DREAM.BIN:00:C2",
+    "zh": "<00><08><05>幻象<00>"
+  },
+  {
+    "key": "2590fb4ea430d3df",
+    "location": "X5DREAM.BIN:00:C3",
+    "zh": "<00><08><05>沉默<00>"
+  },
+  {
+    "key": "4092fdcaa00251d4",
+    "location": "X5DREAM.BIN:00:C4",
+    "zh": "<00><08><05>麻痺<00>"
+  },
+  {
+    "key": "4df8aa628fc8a583",
+    "location": "X5DREAM.BIN:00:C5",
+    "zh": "<00><08><05>中毒<00>"
+  },
+  {
+    "key": "9e8a2d77570fc61e",
+    "location": "X5DREAM.BIN:00:C6",
+    "zh": "<00><08><05>魅惑<00>"
+  },
+  {
+    "key": "e84ff10cf27aa83c",
+    "location": "X5DREAM.BIN:00:C7",
+    "zh": "<00><08><05>附身<00>"
+  },
+  {
+    "key": "c1641f5e47ed8c5a",
+    "location": "X5DREAM.BIN:00:C8",
+    "zh": "<00><08><05>詛咒<00>"
+  },
+  {
+    "key": "e099bc118c18694e",
+    "location": "X5DREAM.BIN:00:C9",
+    "zh": "<00><08><05>治癒祈禱<00>"
+  },
+  {
+    "key": "42b88bc6cb8faf7b",
+    "location": "X5DREAM.BIN:00:CA",
+    "zh": "<00><08><05>狂暴<00>"
+  },
+  {
+    "key": "b6cabc17974d5716",
+    "location": "X5DREAM.BIN:00:CB",
+    "zh": "<00><08><05>凍結<00>"
+  },
+  {
+    "key": "e20ac664ace241a2",
+    "location": "X5DREAM.BIN:00:CE",
+    "zh": "<00><08><04>倒下<00>"
+  },
+  {
+    "key": "0ec62477bca3f6e5",
+    "location": "X5DREAM.BIN:00:CF",
+    "zh": "<00><08><07>瀕死<00>"
+  },
+  {
+    "key": "6fc5eb5d51c16ba9",
+    "location": "X5DREAM.BIN:00:D0",
+    "zh": "<00>隨時間恢復<00>"
+  },
+  {
+    "key": "78ac3f26b3fd7fcd",
+    "location": "X5DREAM.BIN:00:D3",
+    "zh": "<00>解除詛咒<00>"
+  },
+  {
+    "key": "38b672aaea5224ee",
+    "location": "X5DREAM.BIN:00:D4",
+    "zh": "<00>裝備<00>"
+  },
+  {
+    "key": "d411343b4c6fee43",
+    "location": "X5DREAM.BIN:00:D6",
+    "zh": "<00>陷入沉睡，無法喚醒<00>"
+  },
+  {
+    "key": "9edb3e036564154e",
+    "location": "X5DREAM.BIN:00:D7",
+    "zh": "<00>陷入混亂，敵我不分<00>"
+  },
+  {
+    "key": "a9cfd530f57f2ca8",
+    "location": "X5DREAM.BIN:00:D8",
+    "zh": "<00>暈眩，命中率降低<00>"
+  },
+  {
+    "key": "5acf836f21288391",
+    "location": "X5DREAM.BIN:00:D9",
+    "zh": "<00>遭到沉默，無法施放咒文<00>"
+  },
+  {
+    "key": "00de8c41cf50c3c6",
+    "location": "X5DREAM.BIN:00:DA",
+    "zh": "<00>身體麻痺<00>"
+  },
+  {
+    "key": "78525963092e591a",
+    "location": "X5DREAM.BIN:00:DB",
+    "zh": "<00>身中毒素，每回合損失 HP<00>"
+  },
+  {
+    "key": "2572a89d1f99d4df",
+    "location": "X5DREAM.BIN:00:DC",
+    "zh": "<00>遭敵人魅惑，會攻擊同伴<00>"
+  },
+  {
+    "key": "6e9a76394906779f",
+    "location": "X5DREAM.BIN:00:DD",
+    "zh": "<00>戰鬥中可能麻痺或損失 HP<00>"
+  },
+  {
+    "key": "85340a8021235e7f",
+    "location": "X5DREAM.BIN:00:DE",
+    "zh": "<00>陷入狂暴，會攻擊範圍內所有人<00>"
+  },
+  {
+    "key": "08f714918e9be983",
+    "location": "X5DREAM.BIN:00:DF",
+    "zh": "<00>雙腳凍結，無法移動<00>"
+  },
+  {
+    "key": "bfaf69ed8d15f073",
+    "location": "X5DREAM.BIN:00:E0",
+    "zh": "<00>其他<00>"
+  },
+  {
+    "key": "8779191b90b4d2f2",
+    "location": "X5DREAM.BIN:00:E2",
+    "zh": "<00>頭部防具<00>"
+  },
+  {
+    "key": "e4d64cef45c4681b",
+    "location": "X5DREAM.BIN:00:E3",
+    "zh": "<00>手部防具<00>"
+  },
+  {
+    "key": "19e5fc86d8213ec1",
+    "location": "X5DREAM.BIN:00:E4",
+    "zh": "<00>身體防具<00>"
+  },
+  {
+    "key": "adb963aa9d273b7e",
+    "location": "X5DREAM.BIN:00:E5",
+    "zh": "<00>強化防具<00>"
+  },
+  {
+    "key": "2850787ea6b56577",
+    "location": "X5DREAM.BIN:00:E7",
+    "zh": "<00>魔法<00>"
+  },
+  {
+    "key": "4a1619d5ae6b3b43",
+    "location": "X5DREAM.BIN:00:E8",
+    "zh": "<00>道具<00>"
+  },
+  {
+    "key": "a57fdaa245153b07",
+    "location": "X5DREAM.BIN:00:E9",
+    "zh": "<00>持有道具<00>"
+  },
+  {
+    "key": "fdcb59026b874285",
+    "location": "X5DREAM.BIN:00:EA",
+    "zh": "<00>可使用道具<00>"
+  },
+  {
+    "key": "51322e4c7bd4305e",
+    "location": "X5DREAM.BIN:00:EB",
+    "zh": "<00>可轉交道具<00>"
+  },
+  {
+    "key": "4a3f0b876d620919",
+    "location": "X5DREAM.BIN:00:EC",
+    "zh": "<00>可丟棄道具<00>"
+  },
+  {
+    "key": "c869f5c332074c80",
+    "location": "X5DREAM.BIN:00:ED",
+    "zh": "<00>可裝備道具<00>"
+  },
+  {
+    "key": "312d2b88399411d9",
+    "location": "X5DREAM.BIN:00:EE",
+    "zh": "<00>可交易道具<00>"
+  },
+  {
+    "key": "bd8337b0273372ab",
+    "location": "X5DREAM.BIN:00:EF",
+    "zh": "<00>可出售道具<00>"
+  },
+  {
+    "key": "fd5a52351ddcc216",
+    "location": "X5DREAM.BIN:00:F0",
+    "zh": "<00>損壞道具<00>"
+  },
+  {
+    "key": "0a8fb4d4b8e9d4bc",
+    "location": "X5DREAM.BIN:00:F3",
+    "zh": "<00>沒有此物品<00>"
+  },
+  {
+    "key": "3a197bb1408dee83",
+    "location": "X5DREAM.BIN:00:F4",
+    "zh": "<00>不記得了<00>"
+  },
+  {
+    "key": "3fff1c64b8d28203",
+    "location": "X5DREAM.BIN:00:F5",
+    "zh": "<00>即將損壞<00>"
+  },
+  {
+    "key": "93a90fbbb40d4a1a",
+    "location": "X5DREAM.BIN:00:F6",
+    "zh": "<00>已裝備<00>"
+  },
+  {
+    "key": "5938c8ea248d6ff4",
+    "location": "X5DREAM.BIN:00:F7",
+    "zh": "<00>設定：<00>"
+  },
+  {
+    "key": "b3592a03284dc6ea",
+    "location": "X5DREAM.BIN:00:F8",
+    "zh": "<00>訊息速度<00>"
+  },
+  {
+    "key": "59f33242b19f4c90",
+    "location": "X5DREAM.BIN:00:F9",
+    "zh": "<00>訊息陰影<00>"
+  },
+  {
+    "key": "12459ebfbcc28155",
+    "location": "X5DREAM.BIN:00:FA",
+    "zh": "<00>視窗顏色<00>"
+  },
+  {
+    "key": "b03f80b8dcc4d46d",
+    "location": "X5DREAM.BIN:00:FB",
+    "zh": "<00>視窗亮度<00>"
+  },
+  {
+    "key": "28c6f6303e541ef4",
+    "location": "X5DREAM.BIN:00:FC",
+    "zh": "<00>視窗透明度<00>"
+  },
+  {
+    "key": "be33180e9dc18c88",
+    "location": "X5DREAM.BIN:00:FD",
+    "zh": "<00>音效<00>"
+  },
+  {
+    "key": "2103c8d438893ece",
+    "location": "X5DREAM.BIN:00:FE",
+    "zh": "<00>語音<00>"
+  },
+  {
+    "key": "a1bff94ce39a65e6",
+    "location": "X5DREAM.BIN:00:FF",
+    "zh": "<00>自動鏡頭角度<00>"
+  },
+  {
+    "key": "5e5292f27e312ac3",
+    "location": "X5DREAM.BIN:01:00",
+    "zh": "<00>戰鬥指引<00>"
+  },
+  {
+    "key": "1d3405c5785b37ca",
+    "location": "X5DREAM.BIN:01:01",
+    "zh": "<00>戰鬥訊息<00>"
+  },
+  {
+    "key": "391cbafc4e9069b9",
+    "location": "X5DREAM.BIN:01:02",
+    "zh": "<00>戰鬥難度<00>"
+  },
+  {
+    "key": "4cbc061230a7d865",
+    "location": "X5DREAM.BIN:01:03",
+    "zh": "<00>調整訊息速度<00>"
+  },
+  {
+    "key": "768f395621c64456",
+    "location": "X5DREAM.BIN:01:04",
+    "zh": "<00>文字陰影 開／關<00>"
+  },
+  {
+    "key": "83161bb1e2498b92",
+    "location": "X5DREAM.BIN:01:05",
+    "zh": "<00>調整視窗顏色<00>"
+  },
+  {
+    "key": "fa83b25fb39e8577",
+    "location": "X5DREAM.BIN:01:06",
+    "zh": "<00>調整視窗亮度<00>"
+  },
+  {
+    "key": "12581520e4c6cc54",
+    "location": "X5DREAM.BIN:01:07",
+    "zh": "<00>調整視窗透明度<00>"
+  },
+  {
+    "key": "5e963a56b7b3cd30",
+    "location": "X5DREAM.BIN:01:08",
+    "zh": "<00>選擇立體聲或單聲道<00>"
+  },
+  {
+    "key": "a99ce7c298edbf1f",
+    "location": "X5DREAM.BIN:01:09",
+    "zh": "<00>戰鬥語音 開／關<00>"
+  },
+  {
+    "key": "6079091a528186c3",
+    "location": "X5DREAM.BIN:01:0A",
+    "zh": "<00>自動調整鏡頭<00>"
+  },
+  {
+    "key": "6cad746c3f296eda",
+    "location": "X5DREAM.BIN:01:0B",
+    "zh": "<00>戰鬥自動選擇<00>"
+  },
+  {
+    "key": "b0051d8a03921291",
+    "location": "X5DREAM.BIN:01:0D",
+    "zh": "<00>調整敵人強度<00>"
+  },
+  {
+    "key": "599b58fdb46e0e55",
+    "location": "X5DREAM.BIN:01:0E",
+    "zh": "<00>關<00>"
+  },
+  {
+    "key": "4eda238fd142a3bd",
+    "location": "X5DREAM.BIN:01:0F",
+    "zh": "<00>開<00>"
+  },
+  {
+    "key": "cf5e78e527b4de4e",
+    "location": "X5DREAM.BIN:01:10",
+    "zh": "<00>慢<00>"
+  },
+  {
+    "key": "9b2abd9349403157",
+    "location": "X5DREAM.BIN:01:11",
+    "zh": "<00>一般<00>"
+  },
+  {
+    "key": "30f26e249e2c6f47",
+    "location": "X5DREAM.BIN:01:12",
+    "zh": "<00>快<00>"
+  },
+  {
+    "key": "86cf0404208a7a7c",
+    "location": "X5DREAM.BIN:01:13",
+    "zh": "<00>最快<00>"
+  },
+  {
+    "key": "27dac2f85370013f",
+    "location": "X5DREAM.BIN:01:14",
+    "zh": "<00>單聲道<00>"
+  },
+  {
+    "key": "35e81db71d716993",
+    "location": "X5DREAM.BIN:01:15",
+    "zh": "<00>立體聲<00>"
+  },
+  {
+    "key": "296e050880912d0f",
+    "location": "X5DREAM.BIN:01:16",
+    "zh": "<00>標準<00>"
+  },
+  {
+    "key": "b249bf01e76255d2",
+    "location": "X5DREAM.BIN:01:17",
+    "zh": "<00>困難<00>"
+  },
+  {
+    "key": "fe77d6532b06c221",
+    "location": "X5DREAM.BIN:01:18",
+    "zh": "<00>更困難<00>"
+  },
+  {
+    "key": "42b4ee722f8d83f3",
+    "location": "X5DREAM.BIN:01:19",
+    "zh": "<00>瘋狂<00>"
+  },
+  {
+    "key": "c1171dc998c4835b",
+    "location": "X5DREAM.BIN:01:1A",
+    "zh": "<00>頭像<00>"
+  },
+  {
+    "key": "5180f52cd6befe7e",
+    "location": "X5DREAM.BIN:01:1B",
+    "zh": "<00>樂曲<00>"
+  },
+  {
+    "key": "626cb0b3d1c91be4",
+    "location": "X5DREAM.BIN:01:1C",
+    "zh": "<00>短曲<00>"
+  },
+  {
+    "key": "9c1b14485e28995c",
+    "location": "X5DREAM.BIN:01:1D",
+    "zh": "<00>音效<00>"
+  },
+  {
+    "key": "ed1d05d5e6141166",
+    "location": "X5DREAM.BIN:01:1F",
+    "zh": "<00>開始<00>"
+  },
+  {
+    "key": "9ada086a4bf8726f",
+    "location": "X5DREAM.BIN:01:20",
+    "zh": "<00>讀取<00>"
+  },
+  {
+    "key": "6bd9dcb4a5aa74cc",
+    "location": "X5DREAM.BIN:01:24",
+    "zh": "<00>取代<00>"
+  },
+  {
+    "key": "f0895a6ecc85421e",
+    "location": "X5DREAM.BIN:01:27",
+    "zh": "<00>系統記憶體<00>"
+  },
+  {
+    "key": "8d27dafc9f70b0c9",
+    "location": "X5DREAM.BIN:01:29",
+    "zh": "<00>卡匣記憶體<00>"
+  },
+  {
+    "key": "a8d414f38026e901",
+    "location": "X5DREAM.BIN:01:2B",
+    "zh": "<00>從輸入名稱開始<00>"
+  },
+  {
+    "key": "5e687428b00a6505",
+    "location": "X5DREAM.BIN:01:2D",
+    "zh": "<00>從接手開始<00>"
+  },
+  {
+    "key": "b16549c3c50c40bb",
+    "location": "X5DREAM.BIN:01:2F",
+    "zh": "<00><08><08>金幣<00>"
+  },
+  {
+    "key": "5b6aa9efb6784cf3",
+    "location": "X5DREAM.BIN:01:30",
+    "zh": "<00><08><08>經驗值<00>"
+  },
+  {
+    "key": "01122980e07f7a70",
+    "location": "X5DREAM.BIN:01:31",
+    "zh": "<00><08><08>系統記憶體<00>"
+  },
+  {
+    "key": "ff836a7394fe4021",
+    "location": "X5DREAM.BIN:01:32",
+    "zh": "<00><08><08>卡匣記憶體<00>"
+  },
+  {
+    "key": "c6604a1f8cf553fc",
+    "location": "X5DREAM.BIN:01:33",
+    "zh": "<00><08><07>新增<00>"
+  },
+  {
+    "key": "90aff624751706af",
+    "location": "X5DREAM.BIN:01:37",
+    "zh": "<00>辛比歐斯<00>"
+  },
+  {
+    "key": "7d72e656c0c4c9d7",
+    "location": "X5DREAM.BIN:01:38",
+    "zh": "<00>丹塔雷斯<00>"
+  },
+  {
+    "key": "015348eb5ddee1e8",
+    "location": "X5DREAM.BIN:01:39",
+    "zh": "<00>瑪絲裘琳<00>"
+  },
+  {
+    "key": "995456fdd19b05d9",
+    "location": "X5DREAM.BIN:01:3A",
+    "zh": "<00>葛蕾絲<00>"
+  },
+  {
+    "key": "84cea83236b8b9d0",
+    "location": "X5DREAM.BIN:01:3B",
+    "preserve": true
+  },
+  {
+    "key": "3ef75e18e6106688",
+    "location": "X5DREAM.BIN:01:3C",
+    "preserve": true
+  },
+  {
+    "key": "25ccf76e7c9c5a3f",
+    "location": "X5DREAM.BIN:01:3D",
+    "preserve": true
+  },
+  {
+    "key": "7911ae2d72d2f2ef",
+    "location": "X5DREAM.BIN:01:3E",
+    "zh": "<00>朱利安<00>"
+  },
+  {
+    "key": "a2727a953d7fc6f1",
+    "location": "X5DREAM.BIN:01:3F",
+    "preserve": true
+  },
+  {
+    "key": "311612965c40351b",
+    "location": "X5DREAM.BIN:01:40",
+    "preserve": true
+  },
+  {
+    "key": "18312496213758a8",
+    "location": "X5DREAM.BIN:01:41",
+    "preserve": true
+  },
+  {
+    "key": "0110aed342b1aec3",
+    "location": "X5DREAM.BIN:01:42",
+    "preserve": true
+  },
+  {
+    "key": "424787168c92ac3d",
+    "location": "X5DREAM.BIN:01:43",
+    "preserve": true
+  },
+  {
+    "key": "87e161967a91936a",
+    "location": "X5DREAM.BIN:01:44",
+    "preserve": true
+  },
+  {
+    "key": "a8d5baa410ad0479",
+    "location": "X5DREAM.BIN:01:45",
+    "zh": "<00>潘恩<00>"
+  },
+  {
+    "key": "14e047e059c54291",
+    "location": "X5DREAM.BIN:01:46",
+    "preserve": true
+  },
+  {
+    "key": "253f29d5c330639a",
+    "location": "X5DREAM.BIN:01:47",
+    "preserve": true
+  },
+  {
+    "key": "879b242e314392b1",
+    "location": "X5DREAM.BIN:01:48",
+    "preserve": true
+  },
+  {
+    "key": "c37b06104f372905",
+    "location": "X5DREAM.BIN:01:49",
+    "preserve": true
+  },
+  {
+    "key": "ffafb9cce6c60734",
+    "location": "X5DREAM.BIN:01:4A",
+    "preserve": true
+  },
+  {
+    "key": "4b654183a17ae6a3",
+    "location": "X5DREAM.BIN:01:4B",
+    "zh": "<00>梅迪恩<00>"
+  },
+  {
+    "key": "208c6967568067a9",
+    "location": "X5DREAM.BIN:01:4C",
+    "preserve": true
+  },
+  {
+    "key": "1c2678f00024b406",
+    "location": "X5DREAM.BIN:01:4D",
+    "preserve": true
+  },
+  {
+    "key": "fba0d8fa137cc36b",
+    "location": "X5DREAM.BIN:01:4E",
+    "preserve": true
+  },
+  {
+    "key": "a41cdca3fb6f980a",
+    "location": "X5DREAM.BIN:01:4F",
+    "zh": "<00>貝內特拉姆<00>"
+  },
+  {
+    "key": "a168428803ad997d",
+    "location": "X5DREAM.BIN:01:50",
+    "zh": "<00>康拉德<00>"
+  },
+  {
+    "key": "10476a4179e31145",
+    "location": "X5DREAM.BIN:01:53",
+    "zh": "<00>特里斯托斯<00>"
+  },
+  {
+    "key": "0362231312e92264",
+    "location": "X5DREAM.BIN:01:54",
+    "zh": "<00>瑪格麗特<00>"
+  },
+  {
+    "key": "babd72c96b2ad6cb",
+    "location": "X5DREAM.BIN:01:55",
+    "zh": "<00>阿爾傑農<00>"
+  },
+  {
+    "key": "a0eab15ac25efc8f",
+    "location": "X5DREAM.BIN:01:57",
+    "zh": "<00>威爾默<00>"
+  },
+  {
+    "key": "bb4bc59772a0c7b5",
+    "location": "X5DREAM.BIN:01:58",
+    "zh": "<00>布拉夫<00>"
+  },
+  {
+    "key": "ac645856d3ca0f91",
+    "location": "X5DREAM.BIN:01:59",
+    "zh": "<00>加爾文<00>"
+  },
+  {
+    "key": "9efe2fa3a4bad2a8",
+    "location": "X5DREAM.BIN:01:5A",
+    "zh": "<00>巨神<00>"
+  },
+  {
+    "key": "9d37033ee0fcf518",
+    "location": "X5DREAM.BIN:01:5B",
+    "zh": "<00>加羅許<00>"
+  },
+  {
+    "key": "8a6360a2b15d2354",
+    "location": "X5DREAM.BIN:01:5C",
+    "zh": "<00>多馬里克<00>"
+  },
+  {
+    "key": "e5c990417566d5a1",
+    "location": "X5DREAM.BIN:01:5D",
+    "zh": "<00>布爾佐姆<00>"
+  },
+  {
+    "key": "a6ed5b0ee30a5fbf",
+    "location": "X5DREAM.BIN:01:5E",
+    "zh": "<00>薩拉班德<00>"
+  },
+  {
+    "key": "f1380b2a8051167c",
+    "location": "X5DREAM.BIN:01:5F",
+    "zh": "<00>艾爾貝瑟姆<00>"
+  },
+  {
+    "key": "fca256da91577cbc",
+    "location": "X5DREAM.BIN:01:61",
+    "zh": "<00>艾德蒙<00>"
+  },
+  {
+    "key": "9d8446992c81cdbb",
+    "location": "X5DREAM.BIN:01:62",
+    "zh": "<00>帝國<00>"
+  },
+  {
+    "key": "3823219a359d07b0",
+    "location": "X5DREAM.BIN:01:63",
+    "zh": "<00>共和國<00>"
+  },
+  {
+    "key": "4bb0e04de8664b92",
+    "location": "X5DREAM.BIN:01:64",
+    "zh": "<00>帝國<00>"
+  },
+  {
+    "key": "fc2be5bf3e594fbe",
+    "location": "X5DREAM.BIN:01:65",
+    "zh": "<00>馬洛里<00>"
+  },
+  {
+    "key": "67cbcd90f6439275",
+    "location": "X5DREAM.BIN:01:66",
+    "zh": "<00>弗拉加德<00>"
+  },
+  {
+    "key": "51f266c967997dc1",
+    "location": "X5DREAM.BIN:01:67",
+    "zh": "<00>帕爾西斯<00>"
+  },
+  {
+    "key": "9b9301f2d4cb6407",
+    "location": "X5DREAM.BIN:01:69",
+    "zh": "<00>普羅登<00>"
+  },
+  {
+    "key": "8579c6a1e139a47d",
+    "location": "X5DREAM.BIN:01:6A",
+    "preserve": true
+  },
+  {
+    "key": "0efb5a2b31024f61",
+    "location": "X5DREAM.BIN:01:6C",
+    "zh": "<00>斯皮莉爾<00>"
+  },
+  {
+    "key": "2d27ba7801c76d92",
+    "location": "X5DREAM.BIN:01:6D",
+    "preserve": true
+  },
+  {
+    "key": "c41a15b1a44895eb",
+    "location": "X5DREAM.BIN:01:6E",
+    "preserve": true
+  },
+  {
+    "key": "a4b0235900414924",
+    "location": "X5DREAM.BIN:01:6F",
+    "preserve": true
+  },
+  {
+    "key": "8b4d6ab9f685338c",
+    "location": "X5DREAM.BIN:01:70",
+    "preserve": true
+  },
+  {
+    "key": "09f8da766bab7cde",
+    "location": "X5DREAM.BIN:01:71",
+    "preserve": true
+  },
+  {
+    "key": "960f568336d892eb",
+    "location": "X5DREAM.BIN:01:74",
+    "zh": "<00>攻擊<00>"
+  },
+  {
+    "key": "1bb4d200a7788144",
+    "location": "X5DREAM.BIN:01:75",
+    "zh": "<00>瀕死<00>"
+  },
+  {
+    "key": "56d9d625866ea15e",
+    "location": "X5DREAM.BIN:01:77",
+    "zh": "<00>經驗<00>"
+  },
+  {
+    "key": "3901926a55c6bc17",
+    "location": "X5DREAM.BIN:01:7A",
+    "zh": "<00>防禦<00>"
+  },
+  {
+    "key": "520c756bc586fa22",
+    "location": "X5DREAM.BIN:01:7B",
+    "zh": "<00>抗必殺<00>"
+  },
+  {
+    "key": "af3698dd59b99b16",
+    "location": "X5DREAM.BIN:01:7C",
+    "zh": "<00>迴避<00>"
+  },
+  {
+    "key": "6a7fdb21a986824b",
+    "location": "X5DREAM.BIN:01:7D",
+    "zh": "<00>反擊<00>"
+  },
+  {
+    "key": "339abbfa5be59fc2",
+    "location": "X5DREAM.BIN:01:7E",
+    "zh": "<00>魔法防禦<00>"
+  },
+  {
+    "key": "7e152f25a420012c",
+    "location": "X5DREAM.BIN:01:7F",
+    "zh": "<00>運氣<00>"
+  },
+  {
+    "key": "f191e35c5dabde66",
+    "location": "X5DREAM.BIN:01:80",
+    "zh": "<00>衛兵<00>"
+  },
+  {
+    "key": "ebbc97d880ec243b",
+    "location": "X5DREAM.BIN:01:81",
+    "zh": "<00>支援<00>"
+  },
+  {
+    "key": "66b6a946c99663cd",
+    "location": "X5DREAM.BIN:01:82",
+    "zh": "<00>夥伴<00>"
+  },
+  {
+    "key": "7b063498f874e5c4",
+    "location": "X5DREAM.BIN:01:83",
+    "zh": "<00>搭檔<00>"
+  },
+  {
+    "key": "e5ca01a63daefc19",
+    "location": "X5DREAM.BIN:01:84",
+    "zh": "<00>朋友<00>"
+  },
+  {
+    "key": "3f983cf955f2c7bb",
+    "location": "X5DREAM.BIN:01:85",
+    "zh": "<00>信賴<00>"
+  },
+  {
+    "key": "884c11e1ab58fbe8",
+    "location": "X5DREAM.BIN:01:86",
+    "zh": "<00>知己<00>"
+  },
+  {
+    "key": "9f046faca470cd5e",
+    "location": "X5DREAM.BIN:01:87",
+    "zh": "<00>無效果<00>"
+  },
+  {
+    "key": "c8536f8b18af8561",
+    "location": "X5DREAM.BIN:01:88",
+    "zh": "<00>提升攻擊力<00>"
+  },
+  {
+    "key": "59b6c56e008b3257",
+    "location": "X5DREAM.BIN:01:89",
+    "zh": "<00>提高必殺攻擊機率<00>"
+  },
+  {
+    "key": "c55e6c18329ec1ad",
+    "location": "X5DREAM.BIN:01:8A",
+    "zh": "<00>提升魔法威力<00>"
+  },
+  {
+    "key": "3d4a04f71f10c669",
+    "location": "X5DREAM.BIN:01:8B",
+    "zh": "<00>增加獲得經驗值<00>"
+  },
+  {
+    "key": "33116ee1c4cf75ed",
+    "location": "X5DREAM.BIN:01:8C",
+    "zh": "<00>增加獲得金幣<00>"
+  },
+  {
+    "key": "20529656c5d2c038",
+    "location": "X5DREAM.BIN:01:8D",
+    "zh": "<00>提高道具掉落機率<00>"
+  },
+  {
+    "key": "9326c19ba70d55c1",
+    "location": "X5DREAM.BIN:01:8E",
+    "zh": "<00>提升防禦力<00>"
+  },
+  {
+    "key": "f47aed22f1298ab3",
+    "location": "X5DREAM.BIN:01:8F",
+    "zh": "<00>降低敵人使出必殺攻擊的機率<00>"
+  },
+  {
+    "key": "1bf355ac3d2e6275",
+    "location": "X5DREAM.BIN:01:90",
+    "zh": "<00>提高迴避機率<00>"
+  },
+  {
+    "key": "3c6a6fef95fa8ef5",
+    "location": "X5DREAM.BIN:01:91",
+    "zh": "<00>提高反擊機率<00>"
+  },
+  {
+    "key": "7b83aac0cd709972",
+    "location": "X5DREAM.BIN:01:92",
+    "zh": "<00>提升魔法抗性<00>"
+  },
+  {
+    "key": "115c5de4e9e049c9",
+    "location": "X5DREAM.BIN:01:93",
+    "zh": "<00>降低陷入負面狀態的機率<00>"
+  },
+  {
+    "key": "9ee85bbc7d8c0e48",
+    "location": "X5DREAM.BIN:01:94",
+    "zh": "<00>有機率引開敵人的攻擊<00>"
+  },
+  {
+    "key": "7f8bfae2264100a8",
+    "location": "X5DREAM.BIN:01:95",
+    "zh": "<00>提升魔法抗性與運氣<00>"
+  },
+  {
+    "key": "e7c2685c058bcdb4",
+    "location": "X5DREAM.BIN:01:96",
+    "zh": "<00>提升反擊機率與魔法抗性<00>"
+  },
+  {
+    "key": "aa94472d66431471",
+    "location": "X5DREAM.BIN:01:97",
+    "zh": "<00>提升迴避機率與運氣<00>"
+  },
+  {
+    "key": "5f4d9184dfe6e0a7",
+    "location": "X5DREAM.BIN:01:98",
+    "zh": "<00>提升必殺與反擊機率<00>"
+  },
+  {
+    "key": "60a61c73811a72c4",
+    "location": "X5DREAM.BIN:01:99",
+    "zh": "<00>要記錄目前的冒險進度嗎？<1E><00>"
+  },
+  {
+    "key": "2528c39e472faf2c",
+    "location": "X5DREAM.BIN:01:9A",
+    "zh": "<00>儲存中，請勿關閉電源。<1E><00>"
+  },
+  {
+    "key": "7bb694ab89600629",
+    "location": "X5DREAM.BIN:01:9D",
+    "zh": "<00>騎士<00>"
+  },
+  {
+    "key": "89f151edd55d5a63",
+    "location": "X5DREAM.BIN:01:9E",
+    "zh": "<00>戰士<00>"
+  },
+  {
+    "key": "d6ce86bfacb42cc3",
+    "location": "X5DREAM.BIN:01:9F",
+    "zh": "<00>祭司<00>"
+  },
+  {
+    "key": "2e1122e59c500980",
+    "location": "X5DREAM.BIN:01:A1",
+    "zh": "<00>弓箭手<00>"
+  },
+  {
+    "key": "36e96ed4dbadbea5",
+    "location": "X5DREAM.BIN:01:A2",
+    "zh": "<00>僧侶<00>"
+  },
+  {
+    "key": "3f588440696dd329",
+    "location": "X5DREAM.BIN:01:C0",
+    "zh": "<00>巫師<00>"
+  },
+  {
+    "key": "57c905cbf3b789b1",
+    "location": "X5DREAM.BIN:01:C1",
+    "zh": "<00>狙擊手<00>"
+  },
+  {
+    "key": "ca1d2abd835fe5c4",
+    "location": "X5DREAM.BIN:01:C8",
+    "zh": "<00>忍者<00>"
+  },
+  {
+    "key": "6a9ed0cbf5a8dcd5",
+    "location": "X5DREAM.BIN:01:E3",
+    "zh": "<00>以火焰灼燒<00>"
+  },
+  {
+    "key": "812b7d0ed1228aad",
+    "location": "X5DREAM.BIN:01:E4",
+    "zh": "<00>以冰凍結<00>"
+  },
+  {
+    "key": "0e7adc71f3aeace6",
+    "location": "X5DREAM.BIN:01:E5",
+    "zh": "<00>以雷電轟擊<00>"
+  },
+  {
+    "key": "8ea7437e02edad71",
+    "location": "X5DREAM.BIN:01:E6",
+    "zh": "<00>以狂風擊打<00>"
+  },
+  {
+    "key": "687a2657939db18b",
+    "location": "X5DREAM.BIN:01:E7",
+    "zh": "<00>以黑暗吸取生命<00>"
+  },
+  {
+    "key": "5849ae5353b91272",
+    "location": "X5DREAM.BIN:01:E8",
+    "zh": "<00>以熾熱熔岩與火雨焚燒<00>"
+  },
+  {
+    "key": "b0ca1894ca4eb274",
+    "location": "X5DREAM.BIN:01:E9",
+    "zh": "<00>提升防禦與敏捷<00>"
+  },
+  {
+    "key": "2432c9caa42b6f4d",
+    "location": "X5DREAM.BIN:01:EA",
+    "zh": "<00>降低防禦與敏捷<00>"
+  },
+  {
+    "key": "565f646b2c72099a",
+    "location": "X5DREAM.BIN:01:EC",
+    "zh": "<00>提升魔法防禦<00>"
+  },
+  {
+    "key": "f1aeb1a94d64cdee",
+    "location": "X5DREAM.BIN:01:ED",
+    "zh": "<00>提升攻擊力<00>"
+  },
+  {
+    "key": "30e991d964a66ef9",
+    "location": "X5DREAM.BIN:01:EE",
+    "zh": "<00>使敵人沉默，無法施放咒文<00>"
+  },
+  {
+    "key": "98c6c1f75db7dcbf",
+    "location": "X5DREAM.BIN:01:EF",
+    "zh": "<00>造成幻象；Lv.2 會造成混亂<00>"
+  },
+  {
+    "key": "c7478391f3eb9d3d",
+    "location": "X5DREAM.BIN:01:F0",
+    "zh": "<00>使敵人陷入睡眠<00>"
+  },
+  {
+    "key": "ddf892ba27944282",
+    "location": "X5DREAM.BIN:01:F1",
+    "zh": "<00>使敵人愛上施法者<00>"
+  },
+  {
+    "key": "fa36a8956fab3a3d",
+    "location": "X5DREAM.BIN:01:F2",
+    "zh": "<00>解除魔法效果<00>"
+  },
+  {
+    "key": "4fd331c268e2b149",
+    "location": "X5DREAM.BIN:01:F3",
+    "zh": "<00>恢復 HP<00>"
+  },
+  {
+    "key": "80410f08a540e70b",
+    "location": "X5DREAM.BIN:01:F4",
+    "zh": "<00>恢復多名同伴的 HP<00>"
+  },
+  {
+    "key": "2cf9b65e6196f28f",
+    "location": "X5DREAM.BIN:01:F5",
+    "zh": "<00>持續 4 回合恢復 HP<00>"
+  },
+  {
+    "key": "3df5540bd4aeaf22",
+    "location": "X5DREAM.BIN:01:F6",
+    "zh": "<00>治療中毒與麻痺；Lv.2 可治療大多數異常狀態<00>"
+  },
+  {
+    "key": "5a295ec6ca595e44",
+    "location": "X5DREAM.BIN:01:F7",
+    "zh": "<00>返回最近造訪的教會<00>"
+  },
+  {
+    "key": "d3ae2322b0abc7e5",
+    "location": "X5DREAM.BIN:01:F8",
+    "zh": "<00>*治癒<00>"
+  },
+  {
+    "key": "8e85686d408315e3",
+    "location": "X5DREAM.BIN:01:FB",
+    "zh": "<00>*撤退<00>"
+  },
+  {
+    "key": "dcdaefd1225f6372",
+    "location": "X5DREAM.BIN:02:00",
+    "zh": "<00>火焰吐息<00>"
+  },
+  {
+    "key": "014d9bb69cfbbc23",
+    "location": "X5DREAM.BIN:02:01",
+    "zh": "<00>冰凍吐息<00>"
+  },
+  {
+    "key": "915ac74ffb5c55be",
+    "location": "X5DREAM.BIN:02:02",
+    "zh": "<00>雷電吐息<00>"
+  },
+  {
+    "key": "569cc70a4ad1f2e0",
+    "location": "X5DREAM.BIN:02:03",
+    "zh": "<00>狂風吐息<00>"
+  },
+  {
+    "key": "df4b899553973265",
+    "location": "X5DREAM.BIN:02:04",
+    "zh": "<00>惡魔吐息<00>"
+  },
+  {
+    "key": "fae0b8f621bfdcc8",
+    "location": "X5DREAM.BIN:02:05",
+    "zh": "<00>水之吐息<00>"
+  },
+  {
+    "key": "68616af7c394f8f4",
+    "location": "X5DREAM.BIN:02:06",
+    "zh": "<00>酸液吐息<00>"
+  },
+  {
+    "key": "208b6a0dd393c679",
+    "location": "X5DREAM.BIN:02:07",
+    "zh": "<00>召喚混沌<00>"
+  },
+  {
+    "key": "ee6feef1080bf6c9",
+    "location": "X5DREAM.BIN:02:08",
+    "zh": "<00>召喚鳳凰<00>"
+  },
+  {
+    "key": "7a7dae7e9531ca80",
+    "location": "X5DREAM.BIN:02:09",
+    "zh": "<00>召喚溫蒂戈<00>"
+  },
+  {
+    "key": "a96c65b0863758b8",
+    "location": "X5DREAM.BIN:02:0A",
+    "zh": "<00>召喚提亞馬特<00>"
+  },
+  {
+    "key": "c525b70754d68e37",
+    "location": "X5DREAM.BIN:02:0B",
+    "zh": "<00>召喚塔納托斯<00>"
+  },
+  {
+    "key": "f436c02f3d675818",
+    "location": "X5DREAM.BIN:02:0C",
+    "zh": "<00>狂怒：攻擊力提升，但會失去控制<00>"
+  },
+  {
+    "key": "c3c795160ef0bda7",
+    "location": "X5DREAM.BIN:02:0D",
+    "zh": "<00>對不潔之物使用<00>"
+  },
+  {
+    "key": "0deae645820f5279",
+    "location": "X5DREAM.BIN:02:0E",
+    "zh": "<00>*寶珠<00>"
+  },
+  {
+    "key": "b96a2925c49323a3",
+    "location": "X5DREAM.BIN:02:0F",
+    "zh": "<00>*泰坦 X 雷射<00>"
+  },
+  {
+    "key": "8796d580cf27d3bb",
+    "location": "X5DREAM.BIN:02:10",
+    "zh": "<00>*泰坦之錘<00>"
+  },
+  {
+    "key": "fad070f21de5869b",
+    "location": "X5DREAM.BIN:02:11",
+    "zh": "<00>*泰坦迴力鏢<00>"
+  },
+  {
+    "key": "46829b477e7616cb",
+    "location": "X5DREAM.BIN:02:12",
+    "zh": "<00>造成恐慌與混亂<00>"
+  },
+  {
+    "key": "110eae2497a78206",
+    "location": "X5DREAM.BIN:02:13",
+    "zh": "<00>猛烈震動地面<00>"
+  },
+  {
+    "key": "97739682295eb171",
+    "location": "X5DREAM.BIN:02:14",
+    "zh": "<00>巨石碾碎沿途一切<00>"
+  },
+  {
+    "key": "2e0104f5df7e04e5",
+    "location": "X5DREAM.BIN:02:15",
+    "zh": "<00>恢復所有人<00>"
+  },
+  {
+    "key": "b742f03179a56962",
+    "location": "X5DREAM.BIN:02:17",
+    "zh": "<00>短刀<00>"
+  },
+  {
+    "key": "92c635b029dc0ae9",
+    "location": "X5DREAM.BIN:02:1A",
+    "zh": "<00>劍<00>"
+  },
+  {
+    "key": "e17fe9908a04ceb4",
+    "location": "X5DREAM.BIN:02:1E",
+    "zh": "<00>細劍：必殺 +4<00>"
+  },
+  {
+    "key": "a649a5f29a1045ea",
+    "location": "X5DREAM.BIN:02:1F",
+    "zh": "<00>細劍：必殺 +5<00>"
+  },
+  {
+    "key": "3534f69e7ee18486",
+    "location": "X5DREAM.BIN:02:20",
+    "zh": "<00>細劍：必殺 +5, 反擊 +3<00>"
+  },
+  {
+    "key": "7ccf3a47c6024564",
+    "location": "X5DREAM.BIN:02:21",
+    "zh": "<00>刀刃<00>"
+  },
+  {
+    "key": "3b81ae6f5564e775",
+    "location": "X5DREAM.BIN:02:24",
+    "zh": "<00>太刀<00>"
+  },
+  {
+    "key": "469ee9235e354b77",
+    "location": "X5DREAM.BIN:02:27",
+    "zh": "<00>長槍<00>"
+  },
+  {
+    "key": "ad9d40fc88b79e97",
+    "location": "X5DREAM.BIN:02:2B",
+    "zh": "<00>長矛<00>"
+  },
+  {
+    "key": "6868dd55e6448471",
+    "location": "X5DREAM.BIN:02:2E",
+    "zh": "<00>戟<00>"
+  },
+  {
+    "key": "5201af5326a6da07",
+    "location": "X5DREAM.BIN:02:31",
+    "zh": "<00>斧<00>"
+  },
+  {
+    "key": "c0dba9f0053cdd40",
+    "location": "X5DREAM.BIN:02:35",
+    "zh": "<00>戰斧<00>"
+  },
+  {
+    "key": "b5ee3520a05c7471",
+    "location": "X5DREAM.BIN:02:38",
+    "zh": "<00>錘<00>"
+  },
+  {
+    "key": "a96f460c0eeac089",
+    "location": "X5DREAM.BIN:02:3B",
+    "zh": "<00>爪：反擊 +4<00>"
+  },
+  {
+    "key": "a647c6cbac9e5d80",
+    "location": "X5DREAM.BIN:02:3C",
+    "zh": "<00>爪：反擊 +5<00>"
+  },
+  {
+    "key": "9ba231281971ba9b",
+    "location": "X5DREAM.BIN:02:3F",
+    "zh": "<00>手套：必殺 +4, 反擊 +4<00>"
+  },
+  {
+    "key": "0f342a4d75a9fadf",
+    "location": "X5DREAM.BIN:02:40",
+    "zh": "<00>手套：必殺 +5, 反擊 +5<00>"
+  },
+  {
+    "key": "e4f6b889d8f68845",
+    "location": "X5DREAM.BIN:02:42",
+    "zh": "<00>拳套：必殺 +4<00>"
+  },
+  {
+    "key": "4899429d2e927658",
+    "location": "X5DREAM.BIN:02:43",
+    "zh": "<00>拳套：必殺 +5<00>"
+  },
+  {
+    "key": "488e04e951f97dc9",
+    "location": "X5DREAM.BIN:02:45",
+    "zh": "<00>法杖<00>"
+  },
+  {
+    "key": "7f9d1ac51bca3cbe",
+    "location": "X5DREAM.BIN:02:46",
+    "zh": "<00>法杖：驅散 Lv.1<00>"
+  },
+  {
+    "key": "f02caf126ce2ff84",
+    "location": "X5DREAM.BIN:02:47",
+    "zh": "<00>法杖：冰凍 Lv.3<00>"
+  },
+  {
+    "key": "9cdf8e2d72c41488",
+    "location": "X5DREAM.BIN:02:48",
+    "zh": "<00>魔杖<00>"
+  },
+  {
+    "key": "eec673ba25c80059",
+    "location": "X5DREAM.BIN:02:49",
+    "zh": "<00>魔杖：睡眠 Lv.1<00>"
+  },
+  {
+    "key": "8641ed71dd099aad",
+    "location": "X5DREAM.BIN:02:4A",
+    "zh": "<00>魔杖：烈焰 Lv.3<00>"
+  },
+  {
+    "key": "18df797755b07e9b",
+    "location": "X5DREAM.BIN:02:4B",
+    "zh": "<00>安卡：龍捲風 Lv.3<00>"
+  },
+  {
+    "key": "c7b17e8adfb30757",
+    "location": "X5DREAM.BIN:02:4C",
+    "zh": "<00>安卡：支援 Lv.2<00>"
+  },
+  {
+    "key": "d58e6256107d3828",
+    "location": "X5DREAM.BIN:02:4D",
+    "zh": "<00>安卡：抗性 Lv.2<00>"
+  },
+  {
+    "key": "a5e3c1864c2a51a0",
+    "location": "X5DREAM.BIN:02:4E",
+    "zh": "<00>箭<00>"
+  },
+  {
+    "key": "f9c1d3f1d5eb42d9",
+    "location": "X5DREAM.BIN:02:50",
+    "zh": "<00>箭：必殺 +3<00>"
+  },
+  {
+    "key": "169fff8b38abfb88",
+    "location": "X5DREAM.BIN:02:52",
+    "zh": "<00>弩箭：必殺 +4<00>"
+  },
+  {
+    "key": "13e4c4cabc882001",
+    "location": "X5DREAM.BIN:02:53",
+    "zh": "<00>弩箭：必殺 +5<00>"
+  },
+  {
+    "key": "a0a4913948d430da",
+    "location": "X5DREAM.BIN:02:55",
+    "zh": "<00>砲彈<00>"
+  },
+  {
+    "key": "63c7c37bf2f1f940",
+    "location": "X5DREAM.BIN:02:5A",
+    "zh": "<00>戒指：攻擊力 +5；防禦力 +5<00>"
+  },
+  {
+    "key": "e54f65ceb68122a0",
+    "location": "X5DREAM.BIN:02:5B",
+    "zh": "<00>戒指：防禦力 +5；使用時可施展治癒 Lv.2<00>"
+  },
+  {
+    "key": "5309a11846aa28db",
+    "location": "X5DREAM.BIN:02:5C",
+    "zh": "<00>戒指：四屬性抗性 +5；每回合恢復 10 MP（使用時）<00>"
+  },
+  {
+    "key": "9b46e80422e16acd",
+    "location": "X5DREAM.BIN:02:5D",
+    "zh": "<00>戒指：防禦力 +5；敏捷 +5<00>"
+  },
+  {
+    "key": "1e24fe2601008164",
+    "location": "X5DREAM.BIN:02:5E",
+    "zh": "<00>戒指：攻擊力 +5；使用時可施展攻擊 Lv.1<00>"
+  },
+  {
+    "key": "32f847cbccb8ff12",
+    "location": "X5DREAM.BIN:02:5F",
+    "zh": "<00>戒指：必殺 +10；反擊 +10<00>"
+  },
+  {
+    "key": "1cff845281ddd3f1",
+    "location": "X5DREAM.BIN:02:60",
+    "zh": "<00>戒指：防禦力 +2；運氣 +1<00>"
+  },
+  {
+    "key": "a33a1d4675dffc07",
+    "location": "X5DREAM.BIN:02:61",
+    "zh": "<00>戒指：防禦力 +4；每回合恢復 2 HP<00>"
+  },
+  {
+    "key": "53cc9372c3efc24b",
+    "location": "X5DREAM.BIN:02:62",
+    "zh": "<00>戒指：移動力 +2<00>"
+  },
+  {
+    "key": "0c8829103674c352",
+    "location": "X5DREAM.BIN:02:63",
+    "zh": "<00>戒指：防禦力 +10<00>"
+  },
+  {
+    "key": "27747b2c68832945",
+    "location": "X5DREAM.BIN:02:64",
+    "zh": "<00>戒指：攻擊力 +10；必殺 +10；使用時可施展烈焰 Lv.2；遭到詛咒<00>"
+  },
+  {
+    "key": "79d76c4c9947e013",
+    "location": "X5DREAM.BIN:02:65",
+    "zh": "<00>戒指：攻擊力 +15；使用時可施展雷電 Lv.2；遭到詛咒<00>"
+  },
+  {
+    "key": "c8d664475106492f",
+    "location": "X5DREAM.BIN:02:66",
+    "zh": "<00>飾物：防禦力 +5；反擊 +5；運氣 +2<00>"
+  },
+  {
+    "key": "55165d3cc602aecc",
+    "location": "X5DREAM.BIN:02:67",
+    "zh": "<00>飾物：攻擊力 +5；必殺 +5；運氣 +2<00>"
+  },
+  {
+    "key": "6ed2bbfade84c3ab",
+    "location": "X5DREAM.BIN:02:68",
+    "zh": "<00>護腕：攻擊力 +2<00>"
+  },
+  {
+    "key": "ee9b5ffe5e27e60b",
+    "location": "X5DREAM.BIN:02:69",
+    "zh": "<00>護腕：防禦力 +3<00>"
+  },
+  {
+    "key": "f93395544c841012",
+    "location": "X5DREAM.BIN:02:6A",
+    "zh": "<00>恢復約 10 HP<00>"
+  },
+  {
+    "key": "0ee5cc6d3b1be933",
+    "location": "X5DREAM.BIN:02:6B",
+    "zh": "<00>恢復約 30 HP<00>"
+  },
+  {
+    "key": "f15634cab35d5a6a",
+    "location": "X5DREAM.BIN:02:6C",
+    "zh": "<00>完全恢復 HP<00>"
+  },
+  {
+    "key": "1d3671a85687a322",
+    "location": "X5DREAM.BIN:02:6D",
+    "zh": "<00>完全恢復所有人的 HP<00>"
+  },
+  {
+    "key": "acb123ba0c1877e5",
+    "location": "X5DREAM.BIN:02:6E",
+    "zh": "<00>恢復約 20 MP<00>"
+  },
+  {
+    "key": "0a67f56af8e3a1e6",
+    "location": "X5DREAM.BIN:02:6F",
+    "zh": "<00>完全恢復所有人的 MP<00>"
+  },
+  {
+    "key": "e47d8d342119bfdf",
+    "location": "X5DREAM.BIN:02:70",
+    "zh": "<00>治療中毒與麻痺<00>"
+  },
+  {
+    "key": "e69635cff4ba36e2",
+    "location": "X5DREAM.BIN:02:71",
+    "zh": "<00>治療大多數異常狀態<00>"
+  },
+  {
+    "key": "c9367636cdcc6e95",
+    "location": "X5DREAM.BIN:02:73",
+    "zh": "<00>永久提升攻擊力<00>"
+  },
+  {
+    "key": "7404e9fa66fd96b0",
+    "location": "X5DREAM.BIN:02:74",
+    "zh": "<00>永久提升防禦力<00>"
+  },
+  {
+    "key": "e348943415df504e",
+    "location": "X5DREAM.BIN:02:75",
+    "zh": "<00>永久提升敏捷<00>"
+  },
+  {
+    "key": "95e9221ba00a39d3",
+    "location": "X5DREAM.BIN:02:76",
+    "zh": "<00>永久提升移動力<00>"
+  },
+  {
+    "key": "66f26801096fbd0b",
+    "location": "X5DREAM.BIN:02:77",
+    "zh": "<00>永久提升運氣<00>"
+  },
+  {
+    "key": "790f9e370899c931",
+    "location": "X5DREAM.BIN:02:78",
+    "zh": "<00>永久提升最大 HP<00>"
+  },
+  {
+    "key": "ab819eadcd61d918",
+    "location": "X5DREAM.BIN:02:79",
+    "zh": "<00>永久提升最大 MP<00>"
+  },
+  {
+    "key": "b8eae1058b0d385f",
+    "location": "X5DREAM.BIN:02:7A",
+    "zh": "<00>立即提升等級<00>"
+  },
+  {
+    "key": "d23326a49821f1b7",
+    "location": "X5DREAM.BIN:02:7B",
+    "zh": "<00>可請鐵匠鍛造<00>"
+  },
+  {
+    "key": "8ee4de6fe401cf14",
+    "location": "X5DREAM.BIN:02:7E",
+    "zh": "<00>頭環：防禦力 +4<00>"
+  },
+  {
+    "key": "c092fe0578a30eda",
+    "location": "X5DREAM.BIN:02:7F",
+    "zh": "<00>頭環：防禦力 +7；運氣 +2；每回合恢復 2 MP<00>"
+  },
+  {
+    "key": "7298db75e9666f19",
+    "location": "X5DREAM.BIN:02:80",
+    "zh": "<00>服飾：敏捷 +5；使用時可施展支援 Lv.1<00>"
+  },
+  {
+    "key": "98690aa26f717d38",
+    "location": "X5DREAM.BIN:02:81",
+    "zh": "<00>忍者頭盔：防禦力 +3<00>"
+  },
+  {
+    "key": "629c6565e625049f",
+    "location": "X5DREAM.BIN:02:82",
+    "zh": "<00>忍者頭盔：防禦力 +5；必殺 +10<00>"
+  },
+  {
+    "key": "07f17fedaa12e80a",
+    "location": "X5DREAM.BIN:02:83",
+    "zh": "<00>服飾：必殺 +12<00>"
+  },
+  {
+    "key": "bfad26ad62b1e824",
+    "location": "X5DREAM.BIN:02:84",
+    "zh": "<00>服飾：反擊 +12<00>"
+  },
+  {
+    "key": "498556e6235c7582",
+    "location": "X5DREAM.BIN:02:85",
+    "zh": "<00>短刀：必殺 +10<00>"
+  },
+  {
+    "key": "bec7d704e467c2ff",
+    "location": "X5DREAM.BIN:02:86",
+    "zh": "<00>短刀：特殊攻擊<00>"
+  },
+  {
+    "key": "d1e345a0ca2349df",
+    "location": "X5DREAM.BIN:02:8A",
+    "zh": "<00>劍：反擊 +20<00>"
+  },
+  {
+    "key": "89f4ef7b40f45bef",
+    "location": "X5DREAM.BIN:02:8B",
+    "zh": "<00>劍：雷屬性抗性 +30；特殊攻擊<00>"
+  },
+  {
+    "key": "9f77563204e06d64",
+    "location": "X5DREAM.BIN:02:8C",
+    "zh": "<00>劍：火屬性抗性 +30；特殊攻擊<00>"
+  },
+  {
+    "key": "a26b98a6de1eac93",
+    "location": "X5DREAM.BIN:02:8D",
+    "zh": "<00>劍：光屬性抗性 +20；特殊攻擊；遭到詛咒<00>"
+  },
+  {
+    "key": "0cfaa5a1f9e4b6f0",
+    "location": "X5DREAM.BIN:02:8E",
+    "zh": "<00>劍：火、雷與風屬性抗性 +30；使用時可召喚鳳凰 Lv.2<00>"
+  },
+  {
+    "key": "8d743f6e8bf4d4d0",
+    "location": "X5DREAM.BIN:02:8F",
+    "zh": "<00>劍：光與暗屬性抗性 +20；特殊攻擊<00>"
+  },
+  {
+    "key": "aa50861ad7d58ebc",
+    "location": "X5DREAM.BIN:02:90",
+    "zh": "<00>細劍：必殺 +5；特殊攻擊<00>"
+  },
+  {
+    "key": "c6befc706999de4d",
+    "location": "X5DREAM.BIN:02:91",
+    "zh": "<00>細劍：必殺 +5；特殊攻擊；每回合恢復 2 MP<00>"
+  },
+  {
+    "key": "e912b0b9862b6ef7",
+    "location": "X5DREAM.BIN:02:92",
+    "zh": "<00>細劍：必殺 +5；特殊攻擊；每回合恢復 3 HP<00>"
+  },
+  {
+    "key": "cc5d7bd135c44238",
+    "location": "X5DREAM.BIN:02:93",
+    "zh": "<00>細劍：特殊攻擊；遭到詛咒<00>"
+  },
+  {
+    "key": "54e96d7ab3797eb9",
+    "location": "X5DREAM.BIN:02:94",
+    "zh": "<00>刀刃：特殊攻擊<00>"
+  },
+  {
+    "key": "712b6f0e9e945197",
+    "location": "X5DREAM.BIN:02:97",
+    "zh": "<00>刀刃：暗屬性抗性 +20；特殊攻擊<00>"
+  },
+  {
+    "key": "e252e9c7a5b82c03",
+    "location": "X5DREAM.BIN:02:98",
+    "zh": "<00>刀刃：光與暗屬性抗性 +30；特殊攻擊<00>"
+  },
+  {
+    "key": "4d7f4eb923b5e6c5",
+    "location": "X5DREAM.BIN:02:99",
+    "zh": "<00>長槍：使用時可施展支援 Lv.2<00>"
+  },
+  {
+    "key": "46f3a0974bb3f01f",
+    "location": "X5DREAM.BIN:02:9A",
+    "zh": "<00>長槍：每回合恢復 3 HP<00>"
+  },
+  {
+    "key": "0a358656c16e1a1f",
+    "location": "X5DREAM.BIN:02:9B",
+    "zh": "<00>長槍：特殊攻擊<00>"
+  },
+  {
+    "key": "e5b85fc65c6a9518",
+    "location": "X5DREAM.BIN:02:9D",
+    "zh": "<00>長矛：必殺 +10<00>"
+  },
+  {
+    "key": "8f821520360c0489",
+    "location": "X5DREAM.BIN:02:9E",
+    "zh": "<00>長矛：反擊 +20<00>"
+  },
+  {
+    "key": "28f10e561c90eaa0",
+    "location": "X5DREAM.BIN:02:9F",
+    "zh": "<00>長矛：光屬性抗性 +25；特殊攻擊<00>"
+  },
+  {
+    "key": "452200e01c842c73",
+    "location": "X5DREAM.BIN:02:A1",
+    "zh": "<00>長矛：特殊攻擊<00>"
+  },
+  {
+    "key": "936eda0623715b08",
+    "location": "X5DREAM.BIN:02:A2",
+    "zh": "<00>戟：每回合恢復 2 HP<00>"
+  },
+  {
+    "key": "79116218334ef25c",
+    "location": "X5DREAM.BIN:02:A3",
+    "zh": "<00>戟：反擊 +10；特殊攻擊<00>"
+  },
+  {
+    "key": "f4ae05cc8d6f65a3",
+    "location": "X5DREAM.BIN:02:A4",
+    "zh": "<00>戟：特殊攻擊；使用時可施展雷電 Lv.3<00>"
+  },
+  {
+    "key": "4fad31a7e41d9092",
+    "location": "X5DREAM.BIN:02:A5",
+    "zh": "<00>戟：特殊攻擊；遭到詛咒<00>"
+  },
+  {
+    "key": "c2f2c467e61d1dfb",
+    "location": "X5DREAM.BIN:02:A6",
+    "zh": "<00>斧：火屬性抗性 +10；使用時可施展烈焰 Lv.2<00>"
+  },
+  {
+    "key": "3e9cd99e217aeb5a",
+    "location": "X5DREAM.BIN:02:A7",
+    "zh": "<00>斧：特殊攻擊<00>"
+  },
+  {
+    "key": "66973b61de911605",
+    "location": "X5DREAM.BIN:02:A8",
+    "zh": "<00>斧：必殺 +5；火與冰屬性抗性 +20<00>"
+  },
+  {
+    "key": "f8d0196996026fd8",
+    "location": "X5DREAM.BIN:02:A9",
+    "zh": "<00>斧：特殊攻擊；使用時可施展靈氣 Lv.1；每回合恢復 2 HP<00>"
+  },
+  {
+    "key": "ba1504e171863b55",
+    "location": "X5DREAM.BIN:02:AA",
+    "zh": "<00>斧：暗屬性抗性 +20；特殊攻擊；遭到詛咒<00>"
+  },
+  {
+    "key": "800eeec0adb773a3",
+    "location": "X5DREAM.BIN:02:AB",
+    "zh": "<00>戰斧：必殺 +10<00>"
+  },
+  {
+    "key": "2411ee6fc0954eb7",
+    "location": "X5DREAM.BIN:02:AC",
+    "zh": "<00>戰斧：特殊攻擊<00>"
+  },
+  {
+    "key": "6afd74099be5d9c3",
+    "location": "X5DREAM.BIN:02:AD",
+    "zh": "<00>戰斧：射程 1–3<00>"
+  },
+  {
+    "key": "3686c42529e7e8a4",
+    "location": "X5DREAM.BIN:02:AF",
+    "zh": "<00>錘：每回合恢復 3 HP<00>"
+  },
+  {
+    "key": "0b24a64cda19a521",
+    "location": "X5DREAM.BIN:02:B0",
+    "zh": "<00>錘：反擊 +20<00>"
+  },
+  {
+    "key": "e08669fe806eeaf0",
+    "location": "X5DREAM.BIN:02:B1",
+    "zh": "<00>錘：反擊 +5；特殊攻擊<00>"
+  },
+  {
+    "key": "1c338cf5745a3e19",
+    "location": "X5DREAM.BIN:02:B2",
+    "zh": "<00>錘：特殊攻擊<00>"
+  },
+  {
+    "key": "b83a0174e476c44c",
+    "location": "X5DREAM.BIN:02:B3",
+    "zh": "<00>爪：必殺 +10；反擊 +5<00>"
+  },
+  {
+    "key": "06fdd356abbaa3fe",
+    "location": "X5DREAM.BIN:02:B4",
+    "zh": "<00>爪：必殺 +5；反擊 +5；特殊攻擊<00>"
+  },
+  {
+    "key": "cfa86b33aae0cfaf",
+    "location": "X5DREAM.BIN:02:B5",
+    "zh": "<00>爪：反擊 +20；使用時可施展狂暴 Lv.1<00>"
+  },
+  {
+    "key": "48e9b3b7002f9d61",
+    "location": "X5DREAM.BIN:02:B6",
+    "zh": "<00>爪：反擊 +5；特殊攻擊；遭到詛咒<00>"
+  },
+  {
+    "key": "a3c56772f43047d8",
+    "location": "X5DREAM.BIN:02:B7",
+    "zh": "<00>手套：必殺 +20；反擊 +5<00>"
+  },
+  {
+    "key": "6bdd94c4b853bd27",
+    "location": "X5DREAM.BIN:02:B8",
+    "zh": "<00>手套：必殺 +5；反擊 +5；特殊攻擊；使用時可施展攻擊 Lv.1<00>"
+  },
+  {
+    "key": "da6ff02362112281",
+    "location": "X5DREAM.BIN:02:B9",
+    "zh": "<00>手套：必殺 +5；反擊 +5；雷屬性抗性 +40；使用時可施展雷電 Lv.2<00>"
+  },
+  {
+    "key": "48d202a0f980987f",
+    "location": "X5DREAM.BIN:02:BA",
+    "zh": "<00>手套：必殺 +10；反擊 +5；特殊攻擊<00>"
+  },
+  {
+    "key": "1828b5d5f364be58",
+    "location": "X5DREAM.BIN:02:BB",
+    "zh": "<00>手套：必殺 +5；反擊 +5；特殊攻擊<00>"
+  },
+  {
+    "key": "4dc06b1c7594c181",
+    "location": "X5DREAM.BIN:02:BC",
+    "zh": "<00>拳套：必殺 +15<00>"
+  },
+  {
+    "key": "585e1cf5759573ed",
+    "location": "X5DREAM.BIN:02:BD",
+    "zh": "<00>拳套：必殺 +5；特殊攻擊<00>"
+  },
+  {
+    "key": "cee4c656cafd08a4",
+    "location": "X5DREAM.BIN:02:BE",
+    "zh": "<00>拳套：必殺 +5；反擊 +15；特殊攻擊<00>"
+  },
+  {
+    "key": "b744cecca9ac27b4",
+    "location": "X5DREAM.BIN:02:BF",
+    "zh": "<00>拳套：每回合恢復 4 HP<00>"
+  },
+  {
+    "key": "10628774edaf7db5",
+    "location": "X5DREAM.BIN:02:C0",
+    "zh": "<00>法杖：特殊攻擊；附帶混亂 Lv.2<00>"
+  },
+  {
+    "key": "91b68257d4569358",
+    "location": "X5DREAM.BIN:02:C1",
+    "zh": "<00>法杖：特殊攻擊；附帶睡眠 Lv.1；每回合恢復 2 MP<00>"
+  },
+  {
+    "key": "4bed7d5bbd62ede7",
+    "location": "X5DREAM.BIN:02:C2",
+    "zh": "<00>法杖：特殊攻擊；使用時可施展奪魂 Lv.2；每回合恢復 3 HP<00>"
+  },
+  {
+    "key": "3cc8424db903c711",
+    "location": "X5DREAM.BIN:02:C3",
+    "zh": "<00>法杖：附帶提亞馬特 Lv.2<00>"
+  },
+  {
+    "key": "9738e098f2c257a4",
+    "location": "X5DREAM.BIN:02:C4",
+    "zh": "<00>法杖：特殊攻擊；遭到詛咒<00>"
+  },
+  {
+    "key": "92a1e6db4098c537",
+    "location": "X5DREAM.BIN:02:C5",
+    "zh": "<00>魔杖：特殊攻擊；附帶緩速 Lv.2<00>"
+  },
+  {
+    "key": "92cc50901ae0b002",
+    "location": "X5DREAM.BIN:02:C6",
+    "zh": "<00>魔杖：特殊攻擊<00>"
+  },
+  {
+    "key": "2e2f1c84d9a4ed82",
+    "location": "X5DREAM.BIN:02:C7",
+    "zh": "<00>魔杖：附帶攻擊 Lv.2<00>"
+  },
+  {
+    "key": "cf14b58eaf1e58da",
+    "location": "X5DREAM.BIN:02:C8",
+    "zh": "<00>魔杖：特殊攻擊；附帶雷電 Lv.3<00>"
+  },
+  {
+    "key": "7c2015719bd57edb",
+    "location": "X5DREAM.BIN:02:C9",
+    "zh": "<00>魔杖：附帶溫蒂戈 Lv.2<00>"
+  },
+  {
+    "key": "58bc0d39b3846d7d",
+    "location": "X5DREAM.BIN:02:CA",
+    "zh": "<00>安卡：反擊 +20；特殊攻擊；附帶龍捲風 Lv.4<00>"
+  },
+  {
+    "key": "78823fb043f5909d",
+    "location": "X5DREAM.BIN:02:CB",
+    "zh": "<00>安卡：特殊攻擊；附帶驅散 Lv.1<00>"
+  },
+  {
+    "key": "bfe652090f7ef84a",
+    "location": "X5DREAM.BIN:02:CC",
+    "zh": "<00>安卡：必殺 +15；特殊攻擊；附帶支援 Lv.2<00>"
+  },
+  {
+    "key": "b5d35c471daded76",
+    "location": "X5DREAM.BIN:02:CD",
+    "zh": "<00>安卡：附帶靈氣 Lv.2；每回合恢復 4 HP<00>"
+  },
+  {
+    "key": "3b634a467905e1fa",
+    "location": "X5DREAM.BIN:02:CE",
+    "zh": "<00>箭：特殊攻擊；使用時可施展狂暴 Lv.1；每回合恢復 3 HP<00>"
+  },
+  {
+    "key": "332e3ec544ad96e9",
+    "location": "X5DREAM.BIN:02:CF",
+    "zh": "<00>箭：特殊攻擊<00>"
+  },
+  {
+    "key": "144130b3857d957b",
+    "location": "X5DREAM.BIN:02:D1",
+    "zh": "<00>箭：特殊攻擊；遭到詛咒<00>"
+  },
+  {
+    "key": "de0cea4e26e1388e",
+    "location": "X5DREAM.BIN:02:D3",
+    "zh": "<00>弩箭：必殺 +15<00>"
+  },
+  {
+    "key": "37e6558f3c96aaf1",
+    "location": "X5DREAM.BIN:02:D4",
+    "zh": "<00>弩箭：必殺 +5；火與光屬性抗性 +30；特殊攻擊<00>"
+  },
+  {
+    "key": "e8e33cf3b60975b5",
+    "location": "X5DREAM.BIN:02:D5",
+    "zh": "<00>弩箭：必殺 +5；風與暗屬性抗性 +30；特殊攻擊<00>"
+  },
+  {
+    "key": "828cef741b1ce706",
+    "location": "X5DREAM.BIN:02:D6",
+    "zh": "<00>弩箭：特殊攻擊<00>"
+  },
+  {
+    "key": "21bafa283036e6b4",
+    "location": "X5DREAM.BIN:02:D7",
+    "zh": "<00>砲彈：必殺 +10<00>"
+  },
+  {
+    "key": "1ad778b0a1835cf8",
+    "location": "X5DREAM.BIN:02:D8",
+    "zh": "<00>砲彈：特殊攻擊<00>"
+  },
+  {
+    "key": "62f905a2e531ddd3",
+    "location": "X5DREAM.BIN:02:DB",
+    "zh": "<00>太刀：特殊攻擊；使用時可施展龍捲風 Lv.2<00>"
+  },
+  {
+    "key": "054c4659061fd268",
+    "location": "X5DREAM.BIN:02:DC",
+    "zh": "<00>太刀：特殊攻擊<00>"
+  },
+  {
+    "key": "1009ed0806400982",
+    "location": "X5DREAM.BIN:02:DF",
+    "zh": "<00>太刀：特殊攻擊；遭到詛咒<00>"
+  },
+  {
+    "key": "3a16fc8fe8e277aa",
+    "location": "X5DREAM.BIN:02:E0",
+    "zh": "<00>手裏劍<00>"
+  },
+  {
+    "key": "9c70bcbe6e2bd1e8",
+    "location": "X5DREAM.BIN:02:E3",
+    "zh": "<00>手裏劍：雷屬性抗性 +30；特殊攻擊<00>"
+  },
+  {
+    "key": "1716a3a21de70358",
+    "location": "X5DREAM.BIN:02:E4",
+    "zh": "<00>手裏劍：特殊攻擊<00>"
+  },
+  {
+    "key": "b329d4f83409af33",
+    "location": "X5DREAM.BIN:02:E6",
+    "zh": "<00>翼：反擊 +4<00>"
+  },
+  {
+    "key": "5b85fe130f85f832",
+    "location": "X5DREAM.BIN:02:E7",
+    "zh": "<00>翼：反擊 +5<00>"
+  },
+  {
+    "key": "bd50f336586d06a2",
+    "location": "X5DREAM.BIN:02:E9",
+    "zh": "<00>翼：反擊 +5；每回合恢復 3 HP<00>"
+  },
+  {
+    "key": "65387e281f473ada",
+    "location": "X5DREAM.BIN:02:EA",
+    "zh": "<00>翼：反擊 +5；特殊攻擊<00>"
+  },
+  {
+    "key": "71fabcd9eb52189c",
+    "location": "X5DREAM.BIN:02:ED",
+    "zh": "<00>翼：使用時可施展混亂 Lv.1<00>"
+  },
+  {
+    "key": "54a7aba393495182",
+    "location": "X5DREAM.BIN:02:EE",
+    "zh": "<00>錨<00>"
+  },
+  {
+    "key": "cdb2939da638fe19",
+    "location": "X5DREAM.BIN:02:F1",
+    "zh": "<00>錨：反擊 +15；特殊攻擊<00>"
+  },
+  {
+    "key": "0b83bfd657043792",
+    "location": "X5DREAM.BIN:02:F2",
+    "zh": "<00>錨：必殺 +10；特殊攻擊<00>"
+  },
+  {
+    "key": "061f0ca9ee385941",
+    "location": "X5DREAM.BIN:02:F3",
+    "zh": "<00>錨：特殊攻擊<00>"
+  },
+  {
+    "key": "a12af23b029b8cb7",
+    "location": "X5DREAM.BIN:02:F4",
+    "zh": "<00>美麗的花朵，不能食用<00>"
+  },
+  {
+    "key": "c6f4658f4f2545e1",
+    "location": "X5DREAM.BIN:02:F5",
+    "zh": "<00>很好吃，雞最愛了！<00>"
+  },
+  {
+    "key": "236f645a1b92343b",
+    "location": "X5DREAM.BIN:02:F6",
+    "zh": "<00>魔杖：火屬性抗性 +30；附帶鳳凰 Lv.2<00>"
+  },
+  {
+    "key": "fc15cdaa330cbd65",
+    "location": "X5DREAM.BIN:02:F7",
+    "zh": "<00>蛋：和它說話會發出啾啾聲。<00>"
+  },
+  {
+    "key": "2a6f00676efdf519",
+    "location": "X5DREAM.BIN:02:F8",
+    "zh": "<00>一把刻有船錨的鑰匙……？<00>"
+  },
+  {
+    "key": "fdee91a53901cf96",
+    "location": "X5DREAM.BIN:02:F9",
+    "zh": "<00>從阿斯皮亞雕像取下的寶石<00>"
+  },
+  {
+    "key": "37d77ffa787f4d37",
+    "location": "X5DREAM.BIN:02:FA",
+    "zh": "<00>安卡：光屬性抗性 +20；暗屬性抗性 +10；使用時可召喚塔納托斯 Lv.2<00>"
+  },
+  {
+    "key": "6d8b2c745698e050",
+    "location": "X5DREAM.BIN:02:FB",
+    "zh": "<00>暗屬性抗性 +5；使用後釋放神聖力量<00>"
+  },
+  {
+    "key": "309bdb1425b712a6",
+    "location": "X5DREAM.BIN:02:FC",
+    "zh": "<00>法杖：使用後可復活<00>"
+  },
+  {
+    "key": "300e80988772b6d3",
+    "location": "X5DREAM.BIN:02:FD",
+    "zh": "<00>法杖：可控制泰坦<00>"
+  },
+  {
+    "key": "4f283b82297a4b0a",
+    "location": "X5DREAM.BIN:02:FF",
+    "zh": "<00>遺跡地圖：矮人丘陵<00>"
+  },
+  {
+    "key": "12f29d79f6f484e6",
+    "location": "X5DREAM.BIN:03:00",
+    "zh": "<00>遺跡地圖：鐵路鎮 北方平原<00>"
+  },
+  {
+    "key": "b700d93951c3c39d",
+    "location": "X5DREAM.BIN:03:01",
+    "zh": "<00>遺跡地圖：巴蘭德北方高原<00>"
+  },
+  {
+    "key": "ae5b946c0fc348ac",
+    "location": "X5DREAM.BIN:03:02",
+    "zh": "<00>遺跡地圖：斯托里奇南方沙漠<00>"
+  },
+  {
+    "key": "dec71863aebb875a",
+    "location": "X5DREAM.BIN:03:03",
+    "zh": "<00>遺跡地圖：瞭望塔<00>"
+  },
+  {
+    "key": "80306ba25ea9de4f",
+    "location": "X5DREAM.BIN:03:04",
+    "zh": "<00>遺跡地圖：阿斯皮亞地下墓穴<00>"
+  },
+  {
+    "key": "d8a0f86880a4d20a",
+    "location": "X5DREAM.BIN:03:14",
+    "zh": "<00>喙：必殺 +5；反擊 +5<00>"
+  },
+  {
+    "key": "c033fc44eded05e7",
+    "location": "X5DREAM.BIN:03:15",
+    "zh": "<00>卸下已裝備道具！<00>"
+  },
+  {
+    "key": "a4778a27ca721499",
+    "location": "X5DREAM.BIN:03:17",
+    "zh": "<00>烈焰<00>"
+  },
+  {
+    "key": "dc6e41e9cb726ad9",
+    "location": "X5DREAM.BIN:03:18",
+    "zh": "<00>冰凍<00>"
+  },
+  {
+    "key": "9f57b1b744e68445",
+    "location": "X5DREAM.BIN:03:19",
+    "zh": "<00>雷電<00>"
+  },
+  {
+    "key": "ed37ebb92256cca0",
+    "location": "X5DREAM.BIN:03:1A",
+    "zh": "<00>龍捲風<00>"
+  },
+  {
+    "key": "c22ee90c434b5dba",
+    "location": "X5DREAM.BIN:03:20",
+    "zh": "<00>抗性<00>"
+  },
+  {
+    "key": "16cf165b142dcb01",
+    "location": "X5DREAM.BIN:03:22",
+    "zh": "<00>驅散<00>"
+  },
+  {
+    "key": "59ae9a87d20cde9d",
+    "location": "X5DREAM.BIN:03:23",
+    "zh": "<00>混亂<00>"
+  },
+  {
+    "key": "1f5fb173811d914c",
+    "location": "X5DREAM.BIN:03:24",
+    "zh": "<00>睡眠<00>"
+  },
+  {
+    "key": "bfc4be5e3ab48998",
+    "location": "X5DREAM.BIN:03:25",
+    "zh": "<00>魅惑<00>"
+  },
+  {
+    "key": "4f68312289ac7f2c",
+    "location": "X5DREAM.BIN:03:27",
+    "zh": "<00>治癒<00>"
+  },
+  {
+    "key": "f34eb2dd52870973",
+    "location": "X5DREAM.BIN:03:28",
+    "zh": "<00>靈氣<00>"
+  },
+  {
+    "key": "428cbfb5010ef656",
+    "location": "X5DREAM.BIN:03:2A",
+    "zh": "<00>解毒<00>"
+  },
+  {
+    "key": "4ab41d3556372eef",
+    "location": "X5DREAM.BIN:03:2B",
+    "zh": "<00>撤退<00>"
+  },
+  {
+    "key": "31be75b66d0fa59a",
+    "location": "X5DREAM.BIN:03:34",
+    "zh": "<00>火焰吐息<00>"
+  },
+  {
+    "key": "fff13e52b7f69134",
+    "location": "X5DREAM.BIN:03:35",
+    "zh": "<00>暴風雪吐息<00>"
+  },
+  {
+    "key": "e3eeff02d2174822",
+    "location": "X5DREAM.BIN:03:36",
+    "zh": "<00>雷電 吐息<00>"
+  },
+  {
+    "key": "24574bd6d252cad7",
+    "location": "X5DREAM.BIN:03:37",
+    "zh": "<00>風 翼<00>"
+  },
+  {
+    "key": "bee91cef469b4309",
+    "location": "X5DREAM.BIN:03:38",
+    "zh": "<00>惡魔 吐息<00>"
+  },
+  {
+    "key": "d512c6ac5af4b207",
+    "location": "X5DREAM.BIN:03:3A",
+    "zh": "<00>酸液 吐息<00>"
+  },
+  {
+    "key": "b400c23568406b54",
+    "location": "X5DREAM.BIN:03:3B",
+    "zh": "<00>混沌<00>"
+  },
+  {
+    "key": "6704592a0d60ffb8",
+    "location": "X5DREAM.BIN:03:3C",
+    "zh": "<00>鳳凰<00>"
+  },
+  {
+    "key": "af0f91eb91098fc7",
+    "location": "X5DREAM.BIN:03:3D",
+    "zh": "<00>溫蒂戈<00>"
+  },
+  {
+    "key": "3ebd3c86bde749c2",
+    "location": "X5DREAM.BIN:03:3E",
+    "zh": "<00>提亞馬特<00>"
+  },
+  {
+    "key": "eae15f8b91fe74a6",
+    "location": "X5DREAM.BIN:03:3F",
+    "zh": "<00>塔納托斯<00>"
+  },
+  {
+    "key": "026684f691544870",
+    "location": "X5DREAM.BIN:03:40",
+    "zh": "<00>狂暴<00>"
+  },
+  {
+    "key": "692daf2a0c5bea42",
+    "location": "X5DREAM.BIN:03:44",
+    "zh": "<00>錘<00>"
+  },
+  {
+    "key": "6244b5c2fda93984",
+    "location": "X5DREAM.BIN:03:45",
+    "zh": "<00>迴力鏢<00>"
+  },
+  {
+    "key": "a9f1b50fce48f7c1",
+    "location": "X5DREAM.BIN:03:46",
+    "zh": "<00>恐慌<00>"
+  },
+  {
+    "key": "851aefdedd90ecf2",
+    "location": "X5DREAM.BIN:03:47",
+    "zh": "<00>地震<00>"
+  },
+  {
+    "key": "64ad5bbc35637859",
+    "location": "X5DREAM.BIN:03:48",
+    "zh": "<00>落石<00>"
+  },
+  {
+    "key": "ac5917b45caf236f",
+    "location": "X5DREAM.BIN:03:4B",
+    "zh": "<00>青銅 短刀<00>"
+  },
+  {
+    "key": "94b5845c654419fe",
+    "location": "X5DREAM.BIN:03:4C",
+    "zh": "<00>鋼 短刀<00>"
+  },
+  {
+    "key": "42785f9fba8c4a76",
+    "location": "X5DREAM.BIN:03:4D",
+    "zh": "<00>獵人 短刀<00>"
+  },
+  {
+    "key": "1a9026b293600d85",
+    "location": "X5DREAM.BIN:03:4E",
+    "zh": "<00>鋼 劍<00>"
+  },
+  {
+    "key": "669b2b2f40aeb653",
+    "location": "X5DREAM.BIN:03:4F",
+    "zh": "<00>寬刃 劍<00>"
+  },
+  {
+    "key": "768663d9f10a115d",
+    "location": "X5DREAM.BIN:03:50",
+    "zh": "<00>重型 劍<00>"
+  },
+  {
+    "key": "4509cfcb0e087fe4",
+    "location": "X5DREAM.BIN:03:51",
+    "zh": "<00>巨型 劍<00>"
+  },
+  {
+    "key": "cf2421bcdad915c1",
+    "location": "X5DREAM.BIN:03:54",
+    "zh": "<00>細劍<00>"
+  },
+  {
+    "key": "eaf3def09a7bf78d",
+    "location": "X5DREAM.BIN:03:55",
+    "zh": "<00>鐵 刀刃<00>"
+  },
+  {
+    "key": "fc85b31ff326fb07",
+    "location": "X5DREAM.BIN:03:56",
+    "zh": "<00>戰鬥 刀刃<00>"
+  },
+  {
+    "key": "7d9ec3246247c32e",
+    "location": "X5DREAM.BIN:03:57",
+    "zh": "<00>鋼 刀刃<00>"
+  },
+  {
+    "key": "0544aed1ee6928bf",
+    "location": "X5DREAM.BIN:03:58",
+    "zh": "<00>小型 太刀<00>"
+  },
+  {
+    "key": "f768b4ce07b5eb35",
+    "location": "X5DREAM.BIN:03:59",
+    "zh": "<00>忍者 太刀<00>"
+  },
+  {
+    "key": "5886ab1c29489bcd",
+    "location": "X5DREAM.BIN:03:5B",
+    "zh": "<00>青銅 長槍<00>"
+  },
+  {
+    "key": "365e835aaf53db18",
+    "location": "X5DREAM.BIN:03:5C",
+    "zh": "<00>鐵 長槍<00>"
+  },
+  {
+    "key": "c1fe43831e4885cd",
+    "location": "X5DREAM.BIN:03:5D",
+    "zh": "<00>重型 長槍<00>"
+  },
+  {
+    "key": "ce2792bbe50bd00d",
+    "location": "X5DREAM.BIN:03:5E",
+    "zh": "<00>鋼 長槍<00>"
+  },
+  {
+    "key": "b3fb6cee8fa0a44d",
+    "location": "X5DREAM.BIN:03:60",
+    "zh": "<00>力量 長矛<00>"
+  },
+  {
+    "key": "3435e4afdddaf2ea",
+    "location": "X5DREAM.BIN:03:61",
+    "zh": "<00>戰鬥 長矛<00>"
+  },
+  {
+    "key": "e1a6d7202942ec9c",
+    "location": "X5DREAM.BIN:03:63",
+    "zh": "<00>重型 戟<00>"
+  },
+  {
+    "key": "13258a605480ebea",
+    "location": "X5DREAM.BIN:03:65",
+    "zh": "<00>小型 斧<00>"
+  },
+  {
+    "key": "f2847eea534f509c",
+    "location": "X5DREAM.BIN:03:66",
+    "zh": "<00>力量 斧<00>"
+  },
+  {
+    "key": "b8fc40ef3b2f5f11",
+    "location": "X5DREAM.BIN:03:67",
+    "zh": "<00>戰鬥 斧<00>"
+  },
+  {
+    "key": "8e19711b95277761",
+    "location": "X5DREAM.BIN:03:68",
+    "zh": "<00>巨型 斧<00>"
+  },
+  {
+    "key": "ce2ea262f4400da6",
+    "location": "X5DREAM.BIN:03:6E",
+    "zh": "<00>戰鬥 錘<00>"
+  },
+  {
+    "key": "5472059ea8bd64e8",
+    "location": "X5DREAM.BIN:03:6F",
+    "zh": "<00>青銅 爪<00>"
+  },
+  {
+    "key": "b462c77d91da5809",
+    "location": "X5DREAM.BIN:03:70",
+    "zh": "<00>鐵 爪<00>"
+  },
+  {
+    "key": "163ea7cef75154bd",
+    "location": "X5DREAM.BIN:03:71",
+    "zh": "<00>鋼 爪<00>"
+  },
+  {
+    "key": "00346587907ff1f3",
+    "location": "X5DREAM.BIN:03:72",
+    "zh": "<00>戰鬥 爪<00>"
+  },
+  {
+    "key": "abd40bd0d583643d",
+    "location": "X5DREAM.BIN:03:73",
+    "zh": "<00>皮革 手套<00>"
+  },
+  {
+    "key": "771ad4dfe0a2f85f",
+    "location": "X5DREAM.BIN:03:74",
+    "zh": "<00>鐵 手套<00>"
+  },
+  {
+    "key": "5919315451c7befc",
+    "location": "X5DREAM.BIN:03:75",
+    "zh": "<00>鋼 手套<00>"
+  },
+  {
+    "key": "b5218ae9c99f9a04",
+    "location": "X5DREAM.BIN:03:76",
+    "zh": "<00>拳套<00>"
+  },
+  {
+    "key": "6219e27845d9aa4f",
+    "location": "X5DREAM.BIN:03:77",
+    "zh": "<00>鐵 拳套<00>"
+  },
+  {
+    "key": "fef41bac75727529",
+    "location": "X5DREAM.BIN:03:78",
+    "zh": "<00>鋼 拳套<00>"
+  },
+  {
+    "key": "fdb5060ebd08b297",
+    "location": "X5DREAM.BIN:03:79",
+    "zh": "<00>木製 法杖<00>"
+  },
+  {
+    "key": "d72b935934e294ba",
+    "location": "X5DREAM.BIN:03:7A",
+    "zh": "<00>青銅 法杖<00>"
+  },
+  {
+    "key": "858a27da935b2193",
+    "location": "X5DREAM.BIN:03:7C",
+    "zh": "<00>小型 魔杖<00>"
+  },
+  {
+    "key": "6d844dd2983e1c21",
+    "location": "X5DREAM.BIN:03:7D",
+    "zh": "<00>魔法 魔杖<00>"
+  },
+  {
+    "key": "a9c24b84869f260c",
+    "location": "X5DREAM.BIN:03:7E",
+    "zh": "<00>憤怒 魔杖<00>"
+  },
+  {
+    "key": "144bca4a4ef82e90",
+    "location": "X5DREAM.BIN:03:7F",
+    "zh": "<00>力量 安卡<00>"
+  },
+  {
+    "key": "88fec397e30b6068",
+    "location": "X5DREAM.BIN:03:80",
+    "zh": "<00>聖者 安卡<00>"
+  },
+  {
+    "key": "21f01950606cac7e",
+    "location": "X5DREAM.BIN:03:81",
+    "zh": "<00>神秘 安卡<00>"
+  },
+  {
+    "key": "16244ef0182a3298",
+    "location": "X5DREAM.BIN:03:82",
+    "zh": "<00>木製 箭<00>"
+  },
+  {
+    "key": "b5f81def4b72edd5",
+    "location": "X5DREAM.BIN:03:83",
+    "zh": "<00>鋼 箭<00>"
+  },
+  {
+    "key": "f2f1f419f8a13f15",
+    "location": "X5DREAM.BIN:03:84",
+    "zh": "<00>知更鳥 箭<00>"
+  },
+  {
+    "key": "daed56e3c791996b",
+    "location": "X5DREAM.BIN:03:85",
+    "zh": "<00>王者 箭<00>"
+  },
+  {
+    "key": "e75244bafc210d2f",
+    "location": "X5DREAM.BIN:03:86",
+    "zh": "<00>光 弩箭<00>"
+  },
+  {
+    "key": "2519cece4fe6f752",
+    "location": "X5DREAM.BIN:03:87",
+    "zh": "<00>中型 弩箭<00>"
+  },
+  {
+    "key": "2df92698257f038f",
+    "location": "X5DREAM.BIN:03:88",
+    "zh": "<00>重型 弩箭<00>"
+  },
+  {
+    "key": "c51d6a63276296f7",
+    "location": "X5DREAM.BIN:03:89",
+    "zh": "<00>突擊 砲彈<00>"
+  },
+  {
+    "key": "7e14fd811b50d5c1",
+    "location": "X5DREAM.BIN:03:8A",
+    "zh": "<00>巨型 砲彈<00>"
+  },
+  {
+    "key": "e33518297ab7ce24",
+    "location": "X5DREAM.BIN:03:8C",
+    "zh": "<00>彎刀<00>"
+  },
+  {
+    "key": "e95ccccd95148646",
+    "location": "X5DREAM.BIN:03:8D",
+    "zh": "<00>短劍<00>"
+  },
+  {
+    "key": "c798244579703fbd",
+    "location": "X5DREAM.BIN:03:8E",
+    "zh": "<00>力量 戒指<00>"
+  },
+  {
+    "key": "e50be68ff043d20d",
+    "location": "X5DREAM.BIN:03:8F",
+    "zh": "<00>守護 戒指<00>"
+  },
+  {
+    "key": "9f51d89cd6447cfa",
+    "location": "X5DREAM.BIN:03:90",
+    "zh": "<00>魔法 戒指<00>"
+  },
+  {
+    "key": "b87142f3db0d9159",
+    "location": "X5DREAM.BIN:03:91",
+    "zh": "<00>疾風 戒指<00>"
+  },
+  {
+    "key": "062658b4e87fe4c2",
+    "location": "X5DREAM.BIN:03:92",
+    "zh": "<00>攻擊 戒指<00>"
+  },
+  {
+    "key": "75d94dbf78f570d6",
+    "location": "X5DREAM.BIN:03:93",
+    "zh": "<00>大師 戒指<00>"
+  },
+  {
+    "key": "123bf7c2512e3e40",
+    "location": "X5DREAM.BIN:03:94",
+    "zh": "<00>白銀 戒指<00>"
+  },
+  {
+    "key": "23c1d25a86e952f8",
+    "location": "X5DREAM.BIN:03:95",
+    "zh": "<00>生命 戒指<00>"
+  },
+  {
+    "key": "af8eebc1586e9ec2",
+    "location": "X5DREAM.BIN:03:97",
+    "zh": "<00>白 戒指<00>"
+  },
+  {
+    "key": "e3b810fc433a13c5",
+    "location": "X5DREAM.BIN:03:98",
+    "zh": "<00>黑 戒指<00>"
+  },
+  {
+    "key": "87e244ac4a7d3428",
+    "location": "X5DREAM.BIN:03:99",
+    "zh": "<00>邪惡 戒指<00>"
+  },
+  {
+    "key": "a8ba9f0d24838cd5",
+    "location": "X5DREAM.BIN:03:9C",
+    "zh": "<00>戰鬥 護腕<00>"
+  },
+  {
+    "key": "96d67b1a21eb5b89",
+    "location": "X5DREAM.BIN:03:9D",
+    "zh": "<00>守護 護腕<00>"
+  },
+  {
+    "key": "2bc4d85fc6080b5c",
+    "location": "X5DREAM.BIN:03:9E",
+    "zh": "<00>藥用 草藥<00>"
+  },
+  {
+    "key": "46a065fd0bca9c5c",
+    "location": "X5DREAM.BIN:03:9F",
+    "zh": "<00>治癒 露滴<00>"
+  },
+  {
+    "key": "335778b12570bad6",
+    "location": "X5DREAM.BIN:03:A0",
+    "zh": "<00>藥水<00>"
+  },
+  {
+    "key": "2b4d0ed7b6a0d5c2",
+    "location": "X5DREAM.BIN:03:A2",
+    "zh": "<00>女神 之淚<00>"
+  },
+  {
+    "key": "5e3134a1c2f616f6",
+    "location": "X5DREAM.BIN:03:A4",
+    "zh": "<00>解毒 草藥<00>"
+  },
+  {
+    "key": "59b9d2b3dd97f316",
+    "location": "X5DREAM.BIN:03:A5",
+    "zh": "<00>妖精 粉末<00>"
+  },
+  {
+    "key": "fa2db5b28f09389d",
+    "location": "X5DREAM.BIN:03:A6",
+    "zh": "<00>天使 翼<00>"
+  },
+  {
+    "key": "72c517e5ef290535",
+    "location": "X5DREAM.BIN:03:A7",
+    "zh": "<00>力量 酒<00>"
+  },
+  {
+    "key": "563fff4d6a13bfbc",
+    "location": "X5DREAM.BIN:03:A8",
+    "zh": "<00>守護 牛奶<00>"
+  },
+  {
+    "key": "e085252c4bc7687f",
+    "location": "X5DREAM.BIN:03:A9",
+    "zh": "<00>敏捷 雞<00>"
+  },
+  {
+    "key": "ddcec98c958076ef",
+    "location": "X5DREAM.BIN:03:AB",
+    "zh": "<00>幸運 餅乾<00>"
+  },
+  {
+    "key": "cfbaa1843882e5af",
+    "location": "X5DREAM.BIN:03:AC",
+    "zh": "<00>活力 麵包<00>"
+  },
+  {
+    "key": "fd26531fb0a822fb",
+    "location": "X5DREAM.BIN:03:AD",
+    "zh": "<00>光亮 蜂蜜<00>"
+  },
+  {
+    "key": "bca3c90cc038af22",
+    "location": "X5DREAM.BIN:03:AE",
+    "zh": "<00>勇氣 蘋果<00>"
+  },
+  {
+    "key": "9a2ad2b02dfcf346",
+    "location": "X5DREAM.BIN:03:AF",
+    "zh": "<00>大型 秘銀<00>"
+  },
+  {
+    "key": "2ddc8dbf75ac3b36",
+    "location": "X5DREAM.BIN:03:B0",
+    "zh": "<00>小型 秘銀<00>"
+  },
+  {
+    "key": "4fa8688117bf8d48",
+    "location": "X5DREAM.BIN:03:B1",
+    "zh": "<00>暗物質<00>"
+  },
+  {
+    "key": "6f7a19bf7febb50e",
+    "location": "X5DREAM.BIN:03:B2",
+    "zh": "<00>白金 頭環<00>"
+  },
+  {
+    "key": "7fef2e02bb453c00",
+    "location": "X5DREAM.BIN:03:B3",
+    "zh": "<00>鋼 頭冠<00>"
+  },
+  {
+    "key": "07102933faa002bd",
+    "location": "X5DREAM.BIN:03:B4",
+    "zh": "<00>迅捷 靴<00>"
+  },
+  {
+    "key": "a1f33e84f31e611d",
+    "location": "X5DREAM.BIN:03:B5",
+    "zh": "<00>暗影 頭盔<00>"
+  },
+  {
+    "key": "67f033495f37cb99",
+    "location": "X5DREAM.BIN:03:B6",
+    "zh": "<00>暗 頭盔<00>"
+  },
+  {
+    "key": "8479d3c06b9aac83",
+    "location": "X5DREAM.BIN:03:B7",
+    "zh": "<00>兜襠布<00>"
+  },
+  {
+    "key": "bd9e8a6e0ef391d3",
+    "location": "X5DREAM.BIN:03:B8",
+    "zh": "<00>力量 內褲<00>"
+  },
+  {
+    "key": "026a3e991058e570",
+    "location": "X5DREAM.BIN:03:B9",
+    "zh": "<00>秘銀 匕首<00>"
+  },
+  {
+    "key": "6e67ba9e7826c283",
+    "location": "X5DREAM.BIN:03:BA",
+    "zh": "<00>蝴蝶 短刀<00>"
+  },
+  {
+    "key": "242f718c16b67b29",
+    "location": "X5DREAM.BIN:03:BB",
+    "zh": "<00>刺客 短刀<00>"
+  },
+  {
+    "key": "666c7d8c5e152816",
+    "location": "X5DREAM.BIN:03:BC",
+    "zh": "<00>盜賊 短刀<00>"
+  },
+  {
+    "key": "307c49097ecf8c02",
+    "location": "X5DREAM.BIN:03:BD",
+    "zh": "<00>小丑 短刀<00>"
+  },
+  {
+    "key": "6c716f1cb6ea0f16",
+    "location": "X5DREAM.BIN:03:BE",
+    "zh": "<00>反擊 劍<00>"
+  },
+  {
+    "key": "2bdc54513a28ea09",
+    "location": "X5DREAM.BIN:03:BF",
+    "zh": "<00>濕婆 劍<00>"
+  },
+  {
+    "key": "9e58e563b07aedf7",
+    "location": "X5DREAM.BIN:03:C0",
+    "zh": "<00>利維坦<00>"
+  },
+  {
+    "key": "cd86b00c1a301e4a",
+    "location": "X5DREAM.BIN:03:C1",
+    "zh": "<00>暗 劍<00>"
+  },
+  {
+    "key": "003f0347cd33f18d",
+    "location": "X5DREAM.BIN:03:C2",
+    "zh": "<00>鳳凰 劍<00>"
+  },
+  {
+    "key": "20c91251e2cad928",
+    "location": "X5DREAM.BIN:03:C3",
+    "zh": "<00>正義 劍<00>"
+  },
+  {
+    "key": "2886aaacc2be42c7",
+    "location": "X5DREAM.BIN:03:C4",
+    "zh": "<00>薄霧 細劍<00>"
+  },
+  {
+    "key": "00214a60657f63eb",
+    "location": "X5DREAM.BIN:03:C5",
+    "zh": "<00>魔法 細劍<00>"
+  },
+  {
+    "key": "537997d33e581425",
+    "location": "X5DREAM.BIN:03:C6",
+    "zh": "<00>閃耀 細劍<00>"
+  },
+  {
+    "key": "904433b61f119ccb",
+    "location": "X5DREAM.BIN:03:C7",
+    "zh": "<00>暗 細劍<00>"
+  },
+  {
+    "key": "62acd0a0e80f9c62",
+    "location": "X5DREAM.BIN:03:C8",
+    "zh": "<00>光輝 刀刃<00>"
+  },
+  {
+    "key": "315b9f39b146cbb2",
+    "location": "X5DREAM.BIN:03:C9",
+    "zh": "<00>符文 刀刃<00>"
+  },
+  {
+    "key": "7ac0af33ba373289",
+    "location": "X5DREAM.BIN:03:CA",
+    "zh": "<00>光子 刀刃<00>"
+  },
+  {
+    "key": "801ff7d534d2c74f",
+    "location": "X5DREAM.BIN:03:CB",
+    "zh": "<00>劇毒 刀刃<00>"
+  },
+  {
+    "key": "56240d4db8832115",
+    "location": "X5DREAM.BIN:03:CC",
+    "zh": "<00>力量 刀刃<00>"
+  },
+  {
+    "key": "c1908b729497d6aa",
+    "location": "X5DREAM.BIN:03:CD",
+    "zh": "<00>疾風 長槍<00>"
+  },
+  {
+    "key": "b97e92b88e19df6b",
+    "location": "X5DREAM.BIN:03:CE",
+    "zh": "<00>神聖 長槍<00>"
+  },
+  {
+    "key": "8e9a50c5ebeca69a",
+    "location": "X5DREAM.BIN:03:CF",
+    "zh": "<00>龍 長槍<00>"
+  },
+  {
+    "key": "96ff78d5fca004a0",
+    "location": "X5DREAM.BIN:03:D0",
+    "zh": "<00>岡格尼爾<00>"
+  },
+  {
+    "key": "e62f42fb2c926254",
+    "location": "X5DREAM.BIN:03:D1",
+    "zh": "<00>白銀 長矛<00>"
+  },
+  {
+    "key": "cb696592cdadbc5e",
+    "location": "X5DREAM.BIN:03:D2",
+    "zh": "<00>反擊 長矛<00>"
+  },
+  {
+    "key": "a35dc6222efeed1b",
+    "location": "X5DREAM.BIN:03:D3",
+    "zh": "<00>符文 長矛<00>"
+  },
+  {
+    "key": "2134125cff05b567",
+    "location": "X5DREAM.BIN:03:D4",
+    "zh": "<00>野獸 長矛<00>"
+  },
+  {
+    "key": "c6d12103a93cf99c",
+    "location": "X5DREAM.BIN:03:D5",
+    "zh": "<00>彗星 長矛<00>"
+  },
+  {
+    "key": "fb118808d35f38c0",
+    "location": "X5DREAM.BIN:03:D6",
+    "zh": "<00>神聖 戟<00>"
+  },
+  {
+    "key": "43bb2dda5c35b7c9",
+    "location": "X5DREAM.BIN:03:D7",
+    "zh": "<00>領主 戟<00>"
+  },
+  {
+    "key": "e65d4fd238aceaf4",
+    "location": "X5DREAM.BIN:03:D8",
+    "zh": "<00>方舟 戟<00>"
+  },
+  {
+    "key": "6326782f71396a37",
+    "location": "X5DREAM.BIN:03:D9",
+    "zh": "<00>暗 戟<00>"
+  },
+  {
+    "key": "75a8b42a4c9338bb",
+    "location": "X5DREAM.BIN:03:DA",
+    "zh": "<00>熾熱 斧<00>"
+  },
+  {
+    "key": "a4cd8361327f2162",
+    "location": "X5DREAM.BIN:03:DB",
+    "zh": "<00>巨人 斧<00>"
+  },
+  {
+    "key": "d267e2fbe1688cb8",
+    "location": "X5DREAM.BIN:03:DC",
+    "zh": "<00>龍 斧<00>"
+  },
+  {
+    "key": "7860efbdd4fdd5fb",
+    "location": "X5DREAM.BIN:03:DD",
+    "zh": "<00>蓋亞 斧<00>"
+  },
+  {
+    "key": "e3ece8a66718e3e8",
+    "location": "X5DREAM.BIN:03:DE",
+    "zh": "<00>邪惡 斧<00>"
+  },
+  {
+    "key": "1e76c55b3ffa8e16",
+    "location": "X5DREAM.BIN:03:DF",
+    "zh": "<00>符文 戰斧<00>"
+  },
+  {
+    "key": "c68b2803057cc74e",
+    "location": "X5DREAM.BIN:03:E1",
+    "zh": "<00>天空 戰斧<00>"
+  },
+  {
+    "key": "8fb935832355ff8f",
+    "location": "X5DREAM.BIN:03:E2",
+    "zh": "<00>究極 戰斧<00>"
+  },
+  {
+    "key": "6fd28ff975f5ae35",
+    "location": "X5DREAM.BIN:03:E3",
+    "zh": "<00>聖者 錘<00>"
+  },
+  {
+    "key": "3d2b68a0a7c94fa7",
+    "location": "X5DREAM.BIN:03:E4",
+    "zh": "<00>復仇 錘<00>"
+  },
+  {
+    "key": "6330c94ade52440d",
+    "location": "X5DREAM.BIN:03:E5",
+    "zh": "<00>索爾 錘<00>"
+  },
+  {
+    "key": "ab74000e286ab8ae",
+    "location": "X5DREAM.BIN:03:E6",
+    "zh": "<00>強力 錘<00>"
+  },
+  {
+    "key": "9f7b9b38cb5f7bce",
+    "location": "X5DREAM.BIN:03:E7",
+    "zh": "<00>秘銀 爪<00>"
+  },
+  {
+    "key": "0757867269f9afa2",
+    "location": "X5DREAM.BIN:03:E8",
+    "zh": "<00>猛虎 爪<00>"
+  },
+  {
+    "key": "be1c0fac386f9b99",
+    "location": "X5DREAM.BIN:03:E9",
+    "zh": "<00>狂暴 爪<00>"
+  },
+  {
+    "key": "920434d9b005280f",
+    "location": "X5DREAM.BIN:03:EA",
+    "zh": "<00>毛地黃 爪<00>"
+  },
+  {
+    "key": "b7737d788fe1611b",
+    "location": "X5DREAM.BIN:03:EB",
+    "zh": "<00>尖刺 手套<00>"
+  },
+  {
+    "key": "0289c123976fee41",
+    "location": "X5DREAM.BIN:03:EC",
+    "zh": "<00>肌肉 手套<00>"
+  },
+  {
+    "key": "d2f9699317027268",
+    "location": "X5DREAM.BIN:03:ED",
+    "zh": "<00>雷電 手套<00>"
+  },
+  {
+    "key": "24f362542b0c0b36",
+    "location": "X5DREAM.BIN:03:EE",
+    "zh": "<00>強力 手套<00>"
+  },
+  {
+    "key": "6cbf32885d758ec5",
+    "location": "X5DREAM.BIN:03:EF",
+    "zh": "<00>可愛 手套<00>"
+  },
+  {
+    "key": "db9f2fc9ce7c0af7",
+    "location": "X5DREAM.BIN:03:F0",
+    "zh": "<00>巨人 拳套<00>"
+  },
+  {
+    "key": "e65fe3fa95f39950",
+    "location": "X5DREAM.BIN:03:F1",
+    "zh": "<00>薄霧 拳套<00>"
+  },
+  {
+    "key": "39c5ccc459d7db69",
+    "location": "X5DREAM.BIN:03:F2",
+    "zh": "<00>鋼絲 拳套<00>"
+  },
+  {
+    "key": "2b223f0ba4fc705d",
+    "location": "X5DREAM.BIN:03:F3",
+    "zh": "<00>龍 拳套<00>"
+  },
+  {
+    "key": "fc87cb8273304578",
+    "location": "X5DREAM.BIN:03:F4",
+    "zh": "<00>酷刑 法杖<00>"
+  },
+  {
+    "key": "0cdbe9684a302114",
+    "location": "X5DREAM.BIN:03:F5",
+    "zh": "<00>睡意 法杖<00>"
+  },
+  {
+    "key": "506ee7f67efdcf69",
+    "location": "X5DREAM.BIN:03:F6",
+    "zh": "<00>鍊金 法杖<00>"
+  },
+  {
+    "key": "e040a27ddce29b4a",
+    "location": "X5DREAM.BIN:03:F7",
+    "zh": "<00>水晶 法杖<00>"
+  },
+  {
+    "key": "208a3da11e229e19",
+    "location": "X5DREAM.BIN:03:F8",
+    "zh": "<00>惡魔 法杖<00>"
+  },
+  {
+    "key": "c9437d1d29d9e7a6",
+    "location": "X5DREAM.BIN:03:F9",
+    "zh": "<00>弄臣 魔杖<00>"
+  },
+  {
+    "key": "2a4058b83beb2473",
+    "location": "X5DREAM.BIN:03:FA",
+    "zh": "<00>魅惑 魔杖<00>"
+  },
+  {
+    "key": "ae9cd99df5a216f6",
+    "location": "X5DREAM.BIN:03:FB",
+    "zh": "<00>女巫 魔杖<00>"
+  },
+  {
+    "key": "9c46d129ef364044",
+    "location": "X5DREAM.BIN:03:FD",
+    "zh": "<00>溫蒂戈 魔杖<00>"
+  },
+  {
+    "key": "d2bbe19d20e431b6",
+    "location": "X5DREAM.BIN:03:FE",
+    "zh": "<00>德魯伊 安卡<00>"
+  },
+  {
+    "key": "9c25b22ed327875e",
+    "location": "X5DREAM.BIN:03:FF",
+    "zh": "<00>沉默 安卡<00>"
+  },
+  {
+    "key": "4fe170c841bc2d23",
+    "location": "X5DREAM.BIN:04:01",
+    "zh": "<00>神聖 安卡<00>"
+  },
+  {
+    "key": "5e83af3ae07dc80a",
+    "location": "X5DREAM.BIN:04:03",
+    "zh": "<00>龍 箭<00>"
+  },
+  {
+    "key": "b7079b3a0ef89496",
+    "location": "X5DREAM.BIN:04:07",
+    "zh": "<00>秘銀 弩箭<00>"
+  },
+  {
+    "key": "63ccd78fb48b2291",
+    "location": "X5DREAM.BIN:04:17",
+    "zh": "<00>雷電 手裏劍<00>"
+  },
+  {
+    "key": "7e0e91127a63512b",
+    "location": "X5DREAM.BIN:04:19",
+    "zh": "<00>風 手裏劍<00>"
+  },
+  {
+    "key": "4de95d5726c2c97e",
+    "location": "X5DREAM.BIN:04:1B",
+    "zh": "<00>白銀 翼<00>"
+  },
+  {
+    "key": "474ef95fee9b4da0",
+    "location": "X5DREAM.BIN:04:1C",
+    "zh": "<00>戰鬥 翼<00>"
+  },
+  {
+    "key": "a4b518a9efa900af",
+    "location": "X5DREAM.BIN:04:22",
+    "zh": "<00>光 錨<00>"
+  },
+  {
+    "key": "15663dbb7dd34c7f",
+    "location": "X5DREAM.BIN:04:23",
+    "zh": "<00>重型 錨<00>"
+  },
+  {
+    "key": "03243745a3270f97",
+    "location": "X5DREAM.BIN:04:24",
+    "zh": "<00>力量 錨<00>"
+  },
+  {
+    "key": "dbd5c4ae14f7075b",
+    "location": "X5DREAM.BIN:04:28",
+    "zh": "<00>鮮花<00>"
+  },
+  {
+    "key": "6651f664076c0283",
+    "location": "X5DREAM.BIN:04:2F",
+    "zh": "<00>艾爾貝瑟姆寶珠<00>"
+  },
+  {
+    "key": "16eec7e03108c516",
+    "location": "X5DREAM.BIN:04:31",
+    "zh": "<00>消魔法杖<00>"
+  },
+  {
+    "key": "f6e3019ce1a032dd",
+    "location": "X5DREAM.BIN:04:32",
+    "zh": "<00>雷電 刀刃<00>"
+  },
+  {
+    "key": "8cd69cfb403ae878",
+    "location": "X5DREAM.BIN:04:33",
+    "zh": "<00>矮人丘陵 地圖<00>"
+  },
+  {
+    "key": "44c460043cecd070",
+    "location": "X5DREAM.BIN:04:38",
+    "zh": "<00>地下墓穴 地圖<00>"
+  },
+  {
+    "key": "7613669df37ea64d",
+    "location": "X5DREAM.BIN:04:4B",
+    "zh": "<00>薩拉班德衛兵<00>"
+  },
+  {
+    "key": "ef21d424927877ba",
+    "location": "X5DREAM.BIN:04:4C",
+    "zh": "<00>傭兵<00>"
+  },
+  {
+    "key": "1364ec271b962168",
+    "location": "X5DREAM.BIN:04:4E",
+    "zh": "<00>帝國騎士<00>"
+  },
+  {
+    "key": "b730edeb4b05f9bf",
+    "location": "X5DREAM.BIN:04:4F",
+    "zh": "<00>白銀騎士<00>"
+  },
+  {
+    "key": "ee242f9437a8150d",
+    "location": "X5DREAM.BIN:04:50",
+    "zh": "<00>天馬騎士<00>"
+  },
+  {
+    "key": "eb1e96e3a92ae502",
+    "location": "X5DREAM.BIN:04:52",
+    "zh": "<00>騎兵<00>"
+  },
+  {
+    "key": "17446bb8043e43d8",
+    "location": "X5DREAM.BIN:04:54",
+    "zh": "<00>黑騎士<00>"
+  },
+  {
+    "key": "5f3d1cb596414d0c",
+    "location": "X5DREAM.BIN:04:55",
+    "zh": "<00>白騎士<00>"
+  },
+  {
+    "key": "672e567293ae6866",
+    "location": "X5DREAM.BIN:04:56",
+    "zh": "<00>聖者<00>"
+  },
+  {
+    "key": "69444a758c47702c",
+    "location": "X5DREAM.BIN:04:57",
+    "zh": "<00>指揮官<00>"
+  },
+  {
+    "key": "d6d3bfce808d52cd",
+    "location": "X5DREAM.BIN:04:5F",
+    "zh": "<00>哥布林<00>"
+  },
+  {
+    "key": "5e320ad58afeb297",
+    "location": "X5DREAM.BIN:04:60",
+    "zh": "<00>骷髏<00>"
+  },
+  {
+    "key": "9f21bb81af18dda8",
+    "location": "X5DREAM.BIN:04:61",
+    "zh": "<00>殭屍<00>"
+  },
+  {
+    "key": "70a0febb50eb8bc5",
+    "location": "X5DREAM.BIN:04:64",
+    "zh": "<00>蠕蟲<00>"
+  },
+  {
+    "key": "60763f4eb9a6904e",
+    "location": "X5DREAM.BIN:04:66",
+    "zh": "<00>刺客<00>"
+  },
+  {
+    "key": "94170353fa10d1e7",
+    "location": "X5DREAM.BIN:04:69",
+    "zh": "<00>魔像<00>"
+  },
+  {
+    "key": "049aae14e204cda6",
+    "location": "X5DREAM.BIN:04:6F",
+    "zh": "<00>蝙蝠<00>"
+  },
+  {
+    "key": "05bda86536cdfb4c",
+    "location": "X5DREAM.BIN:04:72",
+    "zh": "<00>翼 騎士<00>"
+  },
+  {
+    "key": "93ccb520961fb284",
+    "location": "X5DREAM.BIN:04:75",
+    "zh": "<00>龍 騎士<00>"
+  },
+  {
+    "key": "6d4b6566d7faee3f",
+    "location": "X5DREAM.BIN:04:77",
+    "zh": "<00>哈比<00>"
+  },
+  {
+    "key": "cb59773e76cf3816",
+    "location": "X5DREAM.BIN:04:78",
+    "zh": "<00>獅鷲<00>"
+  },
+  {
+    "key": "aaf82e17365a9ff7",
+    "location": "X5DREAM.BIN:04:79",
+    "zh": "<00>奇美拉<00>"
+  },
+  {
+    "key": "bcc3dd9782ed0280",
+    "location": "X5DREAM.BIN:04:7A",
+    "zh": "<00>魅魔<00>"
+  },
+  {
+    "key": "d23928867abe8ad5",
+    "location": "X5DREAM.BIN:04:7C",
+    "zh": "<00>狙擊手 精靈<00>"
+  },
+  {
+    "key": "b53b1b14d5348fda",
+    "location": "X5DREAM.BIN:04:80",
+    "zh": "<00>投石機<00>"
+  },
+  {
+    "key": "1889f6163c2f3c05",
+    "location": "X5DREAM.BIN:04:81",
+    "zh": "<00>帝國 魔法師<00>"
+  },
+  {
+    "key": "fdb23a1c19306404",
+    "location": "X5DREAM.BIN:04:82",
+    "zh": "<00>大師 魔法師<00>"
+  },
+  {
+    "key": "792a9ea289caf66d",
+    "location": "X5DREAM.BIN:04:85",
+    "zh": "<00>惡魔 魔法師<00>"
+  },
+  {
+    "key": "278e4ff2be8d6580",
+    "location": "X5DREAM.BIN:04:8A",
+    "zh": "<00>巫妖<00>"
+  },
+  {
+    "key": "394c6456bb4e439c",
+    "location": "X5DREAM.BIN:04:8E",
+    "zh": "<00>薩拉班德 騎士<00>"
+  },
+  {
+    "key": "dbdbbb7f26ca9e46",
+    "location": "X5DREAM.BIN:04:90",
+    "zh": "<00>殭屍<00>"
+  },
+  {
+    "key": "d2c4dcdae7c25505",
+    "location": "X5DREAM.BIN:04:91",
+    "zh": "<00>盜賊<00>"
+  },
+  {
+    "key": "5900edb402869cb0",
+    "location": "X5DREAM.BIN:04:93",
+    "zh": "<00>難民<00>"
+  },
+  {
+    "key": "c04aa31d09e35627",
+    "location": "X5DREAM.BIN:04:98",
+    "zh": "<00>阿斯皮尼亞魔法師<00>"
+  },
+  {
+    "key": "42056d21f32d681a",
+    "location": "X5DREAM.BIN:04:99",
+    "zh": "<00>暗 魔法師<00>"
+  },
+  {
+    "key": "34270a2684017288",
+    "location": "X5DREAM.BIN:04:9F",
+    "zh": "<00>阿布達克<00>"
+  },
+  {
+    "key": "6b12aa18f458a26a",
+    "location": "X5DREAM.BIN:04:A0",
+    "zh": "<00>艾爾貝瑟姆雕像<00>"
+  },
+  {
+    "key": "d5e3e9e41621c281",
+    "location": "X5DREAM.BIN:04:A8",
+    "zh": "<00>盜賊 指揮官<00>"
+  },
+  {
+    "key": "cc13ae60d144c78f",
+    "location": "X5DREAM.BIN:04:A9",
+    "zh": "<00>木桶<00>"
+  },
+  {
+    "key": "3983e29f18c873a3",
+    "location": "X5DREAM.BIN:04:AB",
+    "zh": "<00>MP 指揮官<00>"
+  },
+  {
+    "key": "0f9376665fe62d37",
+    "location": "X5DREAM.BIN:04:AD",
+    "zh": "<00>希拉夫<00>"
+  },
+  {
+    "key": "46787f11d514fe06",
+    "location": "X5DREAM.BIN:04:AE",
+    "zh": "<00>弗蘭茲<00>"
+  },
+  {
+    "key": "e64acb3b1161e2bc",
+    "location": "X5DREAM.BIN:04:AF",
+    "zh": "<00>加澤爾<00>"
+  },
+  {
+    "key": "e70bdb9eb4753867",
+    "location": "X5DREAM.BIN:04:B1",
+    "zh": "<00>毒刺蠕蟲<00>"
+  },
+  {
+    "key": "f22f53b4f6eefcf7",
+    "location": "X5DREAM.BIN:04:B2",
+    "zh": "<00>蠕蟲女王<00>"
+  },
+  {
+    "key": "8732d328c7169e30",
+    "location": "X5DREAM.BIN:04:B5",
+    "zh": "<00>法夫哈德<00>"
+  },
+  {
+    "key": "4ba63216b2cb92c7",
+    "location": "X5DREAM.BIN:04:B6",
+    "zh": "<00>菲亞雷<00>"
+  },
+  {
+    "key": "fc867fb9347d811d",
+    "location": "X5DREAM.BIN:04:BA",
+    "zh": "<00>幼小 龍<00>"
+  },
+  {
+    "key": "b5110a44b97ee390",
+    "location": "X5DREAM.BIN:04:BF",
+    "zh": "<00>巴桑達<00>"
+  },
+  {
+    "key": "3a59ace7381345ea",
+    "location": "X5DREAM.BIN:04:C4",
+    "zh": "<00>阿朗特<00>"
+  },
+  {
+    "key": "bce8e759a1afe08f",
+    "location": "X5DREAM.BIN:04:CD",
+    "zh": "<00>力量 指揮官<00>"
+  },
+  {
+    "key": "fb8d00293be7a2a0",
+    "location": "X5DREAM.BIN:04:D8",
+    "zh": "<00>必殺一擊<00>"
+  },
+  {
+    "key": "bb4c94e59e511b0b",
+    "location": "X5DREAM.BIN:04:DD",
+    "zh": "<00>幻象<00>"
+  },
+  {
+    "key": "73ff07efcd2ce6fe",
+    "location": "X5DREAM.BIN:04:DF",
+    "zh": "<00>麻痺<00>"
+  },
+  {
+    "key": "447c141cdc16ec16",
+    "location": "X5DREAM.BIN:04:E0",
+    "zh": "<00>中毒<00>"
+  },
+  {
+    "key": "bad4a3bb61548ee2",
+    "location": "X5DREAM.BIN:04:E3",
+    "zh": "<00>寒冷<00>"
+  },
+  {
+    "key": "29de28f5319638b8",
+    "location": "X5DREAM.BIN:04:FB",
+    "zh": "<00>符文 魔法<00>"
+  },
+  {
+    "key": "deeb5b729c0f8d99",
+    "location": "X5DREAM.BIN:04:FC",
+    "zh": "<00>鍊金<00>"
+  },
+  {
+    "key": "9835b1c572d9b68c",
+    "location": "X5DREAM.BIN:05:04",
+    "zh": "<00>中毒 刀刃<00>"
+  },
+  {
+    "key": "7b1b64aebfb3246c",
+    "location": "X5DREAM.BIN:05:09",
+    "zh": "<00>龍 吐息<00>"
+  },
+  {
+    "key": "292df20f121c37a6",
+    "location": "X5DREAM.BIN:05:1E",
+    "zh": "<00>漩渦<00>"
+  },
+  {
+    "key": "2d449f96c39db1f3",
+    "location": "X5DREAM.BIN:05:20",
+    "zh": "<00>薄霧 風暴<00>"
+  },
+  {
+    "key": "0a2b3f10bf8aca10",
+    "location": "X5DREAM.BIN:05:24",
+    "zh": "<00>雷電 風暴<00>"
+  },
+  {
+    "key": "2a61d0243f210a31",
+    "location": "X5DREAM.BIN:05:26",
+    "zh": "<00>龍 爪<00>"
+  },
+  {
+    "key": "e2f5ee83a3822019",
+    "location": "X5DREAM.BIN:05:27",
+    "zh": "<00>天空 爪<00>"
+  },
+  {
+    "key": "4a49e0eb70674134",
+    "location": "X5DREAM.BIN:05:28",
+    "zh": "<00>天空 龍<00>"
+  },
+  {
+    "key": "b6b96ff6167ca264",
+    "location": "X5DREAM.BIN:05:32",
+    "zh": "<00>雷電 露滴<00>"
+  },
+  {
+    "key": "60fbcd3ba06dc9cd",
+    "location": "X5DREAM.BIN:05:44",
+    "zh": "<00>審判<00>"
+  },
+  {
+    "key": "addb003fe30d4032",
+    "location": "X5DREAM.BIN:05:45",
+    "zh": "<00>啟示錄<00>"
+  },
+  {
+    "key": "5a400eeb12040f89",
+    "location": "X5DREAM.BIN:05:47",
+    "zh": "<00>神聖 沉默<00>"
+  },
+  {
+    "key": "922e64a387340349",
+    "location": "X5DREAM.BIN:05:49",
+    "zh": "<00>冰 箭<00>"
+  },
+  {
+    "key": "ee0dc6c0b4cb1ef6",
+    "location": "X5DREAM.BIN:05:4F",
+    "zh": "<00>中毒 箭<00>"
+  },
+  {
+    "key": "5eba4ab05333f4f9",
+    "location": "X5DREAM.BIN:05:50",
+    "zh": "<00>女神 魅惑<00>"
+  },
+  {
+    "key": "95c5c478f5b44124",
+    "location": "X5DREAM.BIN:05:63",
+    "zh": "<00>毀滅<00>"
+  },
+  {
+    "key": "63be3313f9ca3874",
+    "location": "X5DREAM.BIN:05:6A",
+    "zh": "<00>邪惡 風<00>"
+  },
+  {
+    "key": "e069d5500f01ff99",
+    "location": "X5DREAM.BIN:05:6C",
+    "zh": "<00>十字斬<00>"
+  },
+  {
+    "key": "3eb81b5b297d11ce",
+    "location": "X5DREAM.BIN:05:98",
+    "zh": "<00>結局 *<00>"
+  },
+  {
+    "key": "0f6060e9f9c1a538",
+    "location": "X5DREAM.BIN:05:99",
+    "zh": "<00>中央區 薩拉班德<00>"
+  },
+  {
+    "key": "01a2ada2af8ae51e",
+    "location": "X5DREAM.BIN:05:9A",
+    "zh": "<00>薩拉班德 碼頭<00>"
+  },
+  {
+    "key": "cc31964bab0df409",
+    "location": "X5DREAM.BIN:05:9B",
+    "zh": "<00>巴爾薩莫東部平原<00>"
+  },
+  {
+    "key": "bad0660b4703e7fc",
+    "location": "X5DREAM.BIN:05:9C",
+    "zh": "<00>矮人谷<00>"
+  },
+  {
+    "key": "3f3ea3514872d05c",
+    "location": "X5DREAM.BIN:05:9D",
+    "zh": "<00>矮人山丘<00>"
+  },
+  {
+    "key": "2ed9f8a2e97a6258",
+    "location": "X5DREAM.BIN:05:9F",
+    "zh": "<00>鐵路鎮 北方平原<00>"
+  },
+  {
+    "key": "f835704d02c57c3a",
+    "location": "X5DREAM.BIN:05:A2",
+    "zh": "<00>列車 車頂<00>"
+  },
+  {
+    "key": "e1bfb2d1cc6761c2",
+    "location": "X5DREAM.BIN:05:A3",
+    "zh": "<00>科諾斯墓地<00>"
+  },
+  {
+    "key": "38e7b677a356849d",
+    "location": "X5DREAM.BIN:05:A4",
+    "zh": "<00>科諾斯宅邸<00>"
+  },
+  {
+    "key": "86cb692358ea9a34",
+    "location": "X5DREAM.BIN:05:A5",
+    "zh": "<00>邊境平原<00>"
+  },
+  {
+    "key": "613aaefadb1f8638",
+    "location": "X5DREAM.BIN:05:A6",
+    "zh": "<00>巴蘭德北方高原<00>"
+  },
+  {
+    "key": "fbed82ecfabcd4df",
+    "location": "X5DREAM.BIN:05:A7",
+    "zh": "<00>吊橋<00>"
+  },
+  {
+    "key": "7649e1dddf787ad9",
+    "location": "X5DREAM.BIN:05:AC",
+    "zh": "<00>弗拉加德城堡<00>"
+  },
+  {
+    "key": "50d822b50b3b5066",
+    "location": "X5DREAM.BIN:05:AD",
+    "zh": "<00>弗拉加德北方山脊<00>"
+  },
+  {
+    "key": "521cc86339ac0aab",
+    "location": "X5DREAM.BIN:05:AE",
+    "zh": "<00>瞭望塔<00>"
+  },
+  {
+    "key": "3f1c66b0eb422ad1",
+    "location": "X5DREAM.BIN:05:AF",
+    "zh": "<00>長城<00>"
+  },
+  {
+    "key": "36e6b12849f55981",
+    "location": "X5DREAM.BIN:05:B4",
+    "zh": "<00>阿斯皮亞泰坦<00>"
+  },
+  {
+    "key": "6fc11cb83956481f",
+    "location": "X5DREAM.BIN:05:B9",
+    "zh": "<00>開場 1*<00>"
+  },
+  {
+    "key": "f1bf895bb916c7d6",
+    "location": "X5DREAM.BIN:05:BA",
+    "zh": "<00>開場 2*<00>"
+  },
+  {
+    "key": "e8bfde978b6f8e6b",
+    "location": "X5DREAM.BIN:05:BB",
+    "zh": "<00>開場 3*<00>"
+  },
+  {
+    "key": "21b1dc9680b52cfd",
+    "location": "X5DREAM.BIN:05:BD",
+    "zh": "<00>東區 薩拉班德<00>"
+  },
+  {
+    "key": "44b824148fae9065",
+    "location": "X5DREAM.BIN:05:BE",
+    "zh": "<00>西區 薩拉班德<00>"
+  },
+  {
+    "key": "ce15788d516a0e93",
+    "location": "X5DREAM.BIN:05:BF",
+    "zh": "<00>薩拉班德 教會<00>"
+  },
+  {
+    "key": "16425a51db73ac78",
+    "location": "X5DREAM.BIN:05:C0",
+    "zh": "<00>薩拉班德 酒館<00>"
+  },
+  {
+    "key": "926eb7363c1ec729",
+    "location": "X5DREAM.BIN:05:C1",
+    "zh": "<00>薩拉班德 總部<00>"
+  },
+  {
+    "key": "01274bed8d35b844",
+    "location": "X5DREAM.BIN:05:C3",
+    "zh": "<00>薩拉班德 室內 1<00>"
+  },
+  {
+    "key": "f2ddb531c0d8762f",
+    "location": "X5DREAM.BIN:05:C4",
+    "zh": "<00>薩拉班德 室內 2<00>"
+  },
+  {
+    "key": "b7d7ac7f93dfb6aa",
+    "location": "X5DREAM.BIN:05:C5",
+    "zh": "<00>薩拉班德 室內 3<00>"
+  },
+  {
+    "key": "6ffed9b9c837fb34",
+    "location": "X5DREAM.BIN:05:CD",
+    "zh": "<00>巴爾薩莫<00>"
+  },
+  {
+    "key": "86bdf74bff622eec",
+    "location": "X5DREAM.BIN:05:CE",
+    "zh": "<00>巴爾薩莫室內 1<00>"
+  },
+  {
+    "key": "d2750778b4edc810",
+    "location": "X5DREAM.BIN:05:CF",
+    "zh": "<00>巴爾薩莫室內 2<00>"
+  },
+  {
+    "key": "6d459ee527b06f04",
+    "location": "X5DREAM.BIN:05:D0",
+    "zh": "<00>巴爾薩莫室內 3<00>"
+  },
+  {
+    "key": "5341ed68f660fbae",
+    "location": "X5DREAM.BIN:05:D1",
+    "zh": "<00>巴爾薩莫室內 4<00>"
+  },
+  {
+    "key": "167451dea44b2bee",
+    "location": "X5DREAM.BIN:05:D2",
+    "zh": "<00>巴爾薩莫室內 5<00>"
+  },
+  {
+    "key": "56e8d96519677fa6",
+    "location": "X5DREAM.BIN:05:D3",
+    "zh": "<00>巴爾薩莫室內 6<00>"
+  },
+  {
+    "key": "9427c1c20e497b64",
+    "location": "X5DREAM.BIN:05:D4",
+    "zh": "<00>巴爾薩莫室內 7<00>"
+  },
+  {
+    "key": "8b3b29d7a8c5fc5f",
+    "location": "X5DREAM.BIN:05:D5",
+    "zh": "<00>巴爾薩莫室內 8<00>"
+  },
+  {
+    "key": "7607d4a67ca6f2e4",
+    "location": "X5DREAM.BIN:05:D6",
+    "zh": "<00>巴爾薩莫室內 9<00>"
+  },
+  {
+    "key": "45430f9fa302f9ab",
+    "location": "X5DREAM.BIN:05:E8",
+    "zh": "<00>科諾斯村<00>"
+  },
+  {
+    "key": "2a077480deb0c833",
+    "location": "X5DREAM.BIN:05:EA",
+    "zh": "<00>科諾斯室內<00>"
+  },
+  {
+    "key": "854baf8a45335e0e",
+    "location": "X5DREAM.BIN:05:EB",
+    "zh": "<00>科諾斯教會<00>"
+  },
+  {
+    "key": "9d90a8eaba6f6e6d",
+    "location": "X5DREAM.BIN:05:EC",
+    "zh": "<00>科諾斯總部<00>"
+  },
+  {
+    "key": "510a67162ecb7266",
+    "location": "X5DREAM.BIN:05:F5",
+    "zh": "<00>瓦加邦德<00>"
+  },
+  {
+    "key": "4b40a631ccf3a297",
+    "location": "X5DREAM.BIN:05:F9",
+    "zh": "<00>鐵路鎮<00>"
+  },
+  {
+    "key": "0b29ed3646ec6441",
+    "location": "X5DREAM.BIN:05:FA",
+    "zh": "<00>鐵路鎮 車站<00>"
+  },
+  {
+    "key": "cec698bb3741a0b7",
+    "location": "X5DREAM.BIN:05:FB",
+    "zh": "<00>鐵路鎮 總站<00>"
+  },
+  {
+    "key": "80c13958ffeab072",
+    "location": "X5DREAM.BIN:05:FC",
+    "zh": "<00>鐵路鎮 室內 1<00>"
+  },
+  {
+    "key": "5c524c51cf55625c",
+    "location": "X5DREAM.BIN:05:FD",
+    "zh": "<00>鐵路鎮 室內 2<00>"
+  },
+  {
+    "key": "804c41270d16259b",
+    "location": "X5DREAM.BIN:05:FE",
+    "zh": "<00>鐵路鎮 總部<00>"
+  },
+  {
+    "key": "e4f103b300b66ffc",
+    "location": "X5DREAM.BIN:05:FF",
+    "zh": "<00>鐵路鎮 教會<00>"
+  },
+  {
+    "key": "5748d0cc61953bee",
+    "location": "X5DREAM.BIN:06:00",
+    "zh": "<00>列車<00>"
+  },
+  {
+    "key": "eb6cd487ae681fe7",
+    "location": "X5DREAM.BIN:06:01",
+    "zh": "<00>列車：第 3 節車廂<00>"
+  },
+  {
+    "key": "d8210486029616d9",
+    "location": "X5DREAM.BIN:06:02",
+    "zh": "<00>列車：第 4 節車廂<00>"
+  },
+  {
+    "key": "396263d51a19d978",
+    "location": "X5DREAM.BIN:06:05",
+    "zh": "<00>弗拉加德室內<00>"
+  },
+  {
+    "key": "c6c9cf78167ce22d",
+    "location": "X5DREAM.BIN:06:06",
+    "zh": "<00>弗拉加德教會<00>"
+  },
+  {
+    "key": "4196d1227e2742ea",
+    "location": "X5DREAM.BIN:06:07",
+    "zh": "<00>弗拉加德總部<00>"
+  },
+  {
+    "key": "777ed0d1c2e89a39",
+    "location": "X5DREAM.BIN:06:15",
+    "zh": "<00>斯托里奇<00>"
+  },
+  {
+    "key": "e6c29f699f470d1f",
+    "location": "X5DREAM.BIN:06:29",
+    "zh": "<00>地下墓穴<00>"
+  },
+  {
+    "key": "9087b6396346ef6f",
+    "location": "X5DREAM.BIN:06:2A",
+    "zh": "<00>水壩<00>"
+  },
+  {
+    "key": "b6a1af63a5c39324",
+    "location": "X5DREAM.BIN:06:2B",
+    "zh": "<00>古代神殿 1<00>"
+  },
+  {
+    "key": "1fa11eb168074d4e",
+    "location": "X5DREAM.BIN:06:2C",
+    "zh": "<00>古代神殿 2<00>"
+  },
+  {
+    "key": "f591a3575ce9aeda",
+    "location": "X5DREAM.BIN:06:2D",
+    "zh": "<00>古代神殿 3<00>"
+  },
+  {
+    "key": "c73eaf8022059dd0",
+    "location": "X5DREAM.BIN:06:2E",
+    "zh": "<00>古代神殿 4<00>"
+  },
+  {
+    "key": "2854c06b6589db09",
+    "location": "X5DREAM.BIN:06:33",
+    "zh": "<00>完成<00>"
+  },
+  {
+    "key": "7aa0a9307a39cad0",
+    "location": "X5DREAM.BIN:06:3B",
+    "zh": "<00>要塞<00>"
+  },
+  {
+    "key": "ad5756b88b13bf69",
+    "location": "X5DREAM.BIN:06:3C",
+    "zh": "<00>內部 要塞<00>"
+  },
+  {
+    "key": "5eed7e33536aa80d",
+    "location": "X5DREAM.BIN:06:3E",
+    "zh": "<00>樹<00>"
+  },
+  {
+    "key": "e3df857c1ccd443f",
+    "location": "X5DREAM.BIN:06:40",
+    "preserve": true
+  },
+  {
+    "key": "2adbde2a8570cd13",
+    "location": "X5DREAM.BIN:06:41",
+    "preserve": true
+  },
+  {
+    "key": "6ad76fd17cdc4e8c",
+    "location": "X5DREAM.BIN:06:42",
+    "preserve": true
+  },
+  {
+    "key": "6eec3a0473c3dffd",
+    "location": "X5DREAM.BIN:06:43",
+    "preserve": true
+  },
+  {
+    "key": "425b68e917192bcd",
+    "location": "X5DREAM.BIN:06:44",
+    "preserve": true
+  },
+  {
+    "key": "380107748b426222",
+    "location": "X5DREAM.BIN:06:45",
+    "preserve": true
+  },
+  {
+    "key": "93417c592a4216e8",
+    "location": "X5DREAM.BIN:06:46",
+    "preserve": true
+  },
+  {
+    "key": "5cb22f2b0be06aee",
+    "location": "X5DREAM.BIN:06:47",
+    "preserve": true
+  },
+  {
+    "key": "e311169727cb21d6",
+    "location": "X5DREAM.BIN:06:48",
+    "preserve": true
+  },
+  {
+    "key": "ebc9426af6fed61e",
+    "location": "X5DREAM.BIN:06:49",
+    "preserve": true
+  },
+  {
+    "key": "3cd5917292f4bcca",
+    "location": "X5DREAM.BIN:06:4A",
+    "preserve": true
+  },
+  {
+    "key": "2c17c6cef383330d",
+    "location": "X5DREAM.BIN:06:4B",
+    "preserve": true
+  },
+  {
+    "key": "dfe0e2d3556c0b68",
+    "location": "X5DREAM.BIN:06:4C",
+    "preserve": true
+  },
+  {
+    "key": "0323ddec05fee2e6",
+    "location": "X5DREAM.BIN:06:4D",
+    "preserve": true
+  },
+  {
+    "key": "a4e360f7c6af8aff",
+    "location": "X5DREAM.BIN:06:4E",
+    "preserve": true
+  },
+  {
+    "key": "a80f9daebf597f50",
+    "location": "X5DREAM.BIN:06:4F",
+    "preserve": true
+  },
+  {
+    "key": "32e558b0af679be7",
+    "location": "X5DREAM.BIN:06:50",
+    "preserve": true
+  },
+  {
+    "key": "20dd525fab427994",
+    "location": "X5DREAM.BIN:06:51",
+    "preserve": true
+  },
+  {
+    "key": "06f715e91db99a81",
+    "location": "X5DREAM.BIN:06:52",
+    "preserve": true
+  },
+  {
+    "key": "0e7fbcf86f1689fe",
+    "location": "X5DREAM.BIN:06:53",
+    "preserve": true
+  },
+  {
+    "key": "3dee71a0157ab131",
+    "location": "X5DREAM.BIN:06:54",
+    "preserve": true
+  },
+  {
+    "key": "c36d81781392a842",
+    "location": "X5DREAM.BIN:06:55",
+    "preserve": true
+  },
+  {
+    "key": "02c15bb666c6e772",
+    "location": "X5DREAM.BIN:06:56",
+    "preserve": true
+  },
+  {
+    "key": "77b50bc627d7d840",
+    "location": "X5DREAM.BIN:06:57",
+    "preserve": true
+  },
+  {
+    "key": "7bb6533967f7410f",
+    "location": "X5DREAM.BIN:06:58",
+    "preserve": true
+  },
+  {
+    "key": "65ae31fd511c5e32",
+    "location": "X5DREAM.BIN:06:59",
+    "preserve": true
+  },
+  {
+    "key": "35c1b0071cd69124",
+    "location": "X5DREAM.BIN:06:5A",
+    "preserve": true
+  },
+  {
+    "key": "1e25e047f79d0aaf",
+    "location": "X5DREAM.BIN:06:5B",
+    "preserve": true
+  },
+  {
+    "key": "2f9d2999e403bd39",
+    "location": "X5DREAM.BIN:06:5C",
+    "preserve": true
+  },
+  {
+    "key": "5cbf585311422212",
+    "location": "X5DREAM.BIN:06:5D",
+    "preserve": true
+  },
+  {
+    "key": "1aa572aab7567090",
+    "location": "X5DREAM.BIN:06:5E",
+    "preserve": true
+  },
+  {
+    "key": "f9d6ff0e19ea03ed",
+    "location": "X5DREAM.BIN:06:5F",
+    "preserve": true
+  },
+  {
+    "key": "dfc80f4c0876fe66",
+    "location": "X5DREAM.BIN:06:60",
+    "preserve": true
+  },
+  {
+    "key": "4591a6b49beb35c2",
+    "location": "X5DREAM.BIN:06:61",
+    "preserve": true
+  },
+  {
+    "key": "9a7e7d7d316719ed",
+    "location": "X5DREAM.BIN:06:62",
+    "preserve": true
+  },
+  {
+    "key": "a5f5d020abdbc904",
+    "location": "X5DREAM.BIN:06:63",
+    "preserve": true
+  },
+  {
+    "key": "cffe0f5585d997c0",
+    "location": "X5DREAM.BIN:06:64",
+    "preserve": true
+  },
+  {
+    "key": "351c4ed5186bd9db",
+    "location": "X5DREAM.BIN:06:65",
+    "preserve": true
+  },
+  {
+    "key": "633d8196082527bc",
+    "location": "X5DREAM.BIN:06:66",
+    "preserve": true
+  },
+  {
+    "key": "9f15064036f8a6e8",
+    "location": "X5DREAM.BIN:06:67",
+    "preserve": true
+  },
+  {
+    "key": "0545031fb9743e92",
+    "location": "X5DREAM.BIN:06:68",
+    "preserve": true
+  },
+  {
+    "key": "21b267fcd3c77af1",
+    "location": "X5DREAM.BIN:06:69",
+    "preserve": true
+  },
+  {
+    "key": "fb57bd0ced71f154",
+    "location": "X5DREAM.BIN:06:6A",
+    "preserve": true
+  },
+  {
+    "key": "d54b87365d6a0f00",
+    "location": "X5DREAM.BIN:06:6B",
+    "preserve": true
+  },
+  {
+    "key": "e31776e6c64d35c1",
+    "location": "X5DREAM.BIN:06:6C",
+    "preserve": true
+  },
+  {
+    "key": "9d399078ff1319ed",
+    "location": "X5DREAM.BIN:06:6D",
+    "preserve": true
+  },
+  {
+    "key": "759df1838f74ec96",
+    "location": "X5DREAM.BIN:06:6E",
+    "preserve": true
+  },
+  {
+    "key": "a49e21a9d5b1f95b",
+    "location": "X5DREAM.BIN:06:6F",
+    "preserve": true
+  },
+  {
+    "key": "46e14e5ff4adf142",
+    "location": "X5DREAM.BIN:06:70",
+    "preserve": true
+  },
+  {
+    "key": "50a94c0dd201337b",
+    "location": "X5DREAM.BIN:06:71",
+    "preserve": true
+  },
+  {
+    "key": "f5b8ad39ee07f899",
+    "location": "X5DREAM.BIN:06:72",
+    "preserve": true
+  },
+  {
+    "key": "42ec8a04fc57a910",
+    "location": "X5DREAM.BIN:06:73",
+    "preserve": true
+  },
+  {
+    "key": "43dd19f0b3d229a0",
+    "location": "X5DREAM.BIN:06:74",
+    "preserve": true
+  },
+  {
+    "key": "2ec8ea1d89f330ec",
+    "location": "X5DREAM.BIN:06:75",
+    "preserve": true
+  },
+  {
+    "key": "7010e225426f15c9",
+    "location": "X5DREAM.BIN:06:76",
+    "preserve": true
+  },
+  {
+    "key": "129c0debe2e90c1a",
+    "location": "X5DREAM.BIN:06:77",
+    "preserve": true
+  },
+  {
+    "key": "ae1f4e86e12cd3fe",
+    "location": "X5DREAM.BIN:06:78",
+    "preserve": true
+  },
+  {
+    "key": "9377e71be296077c",
+    "location": "X5DREAM.BIN:06:79",
+    "preserve": true
+  },
+  {
+    "key": "d5f5e6548f8649c1",
+    "location": "X5DREAM.BIN:06:7A",
+    "preserve": true
+  },
+  {
+    "key": "bd72e036507c5ca7",
+    "location": "X5DREAM.BIN:06:7B",
+    "preserve": true
+  },
+  {
+    "key": "55c23f86082bd0f4",
+    "location": "X5DREAM.BIN:06:7C",
+    "preserve": true
+  },
+  {
+    "key": "f45006e12348939c",
+    "location": "X5DREAM.BIN:06:7D",
+    "preserve": true
+  },
+  {
+    "key": "c109dbc04d1573b4",
+    "location": "X5DREAM.BIN:06:7E",
+    "preserve": true
+  },
+  {
+    "key": "bc81232c56f0327e",
+    "location": "X5DREAM.BIN:06:7F",
+    "preserve": true
+  },
+  {
+    "key": "59d0132ad2f2b6f6",
+    "location": "X5DREAM.BIN:06:80",
+    "preserve": true
+  },
+  {
+    "key": "8bb74def7ebea53f",
+    "location": "X5DREAM.BIN:06:81",
+    "preserve": true
+  },
+  {
+    "key": "c22c8ae197be6ce3",
+    "location": "X5DREAM.BIN:06:82",
+    "preserve": true
+  },
+  {
+    "key": "034f59dfefcdf441",
+    "location": "X5DREAM.BIN:06:83",
+    "preserve": true
+  },
+  {
+    "key": "1c60c3f9cd80f503",
+    "location": "X5DREAM.BIN:06:84",
+    "preserve": true
+  },
+  {
+    "key": "88e614b15d09bfae",
+    "location": "X5DREAM.BIN:06:85",
+    "preserve": true
+  },
+  {
+    "key": "7d0169331314ff0a",
+    "location": "X5DREAM.BIN:06:86",
+    "preserve": true
+  },
+  {
+    "key": "1b89c1fa3bfd04aa",
+    "location": "X5DREAM.BIN:06:87",
+    "preserve": true
+  },
+  {
+    "key": "dc71cf99d284f730",
+    "location": "X5DREAM.BIN:06:88",
+    "preserve": true
+  },
+  {
+    "key": "3387004b9ba7d608",
+    "location": "X5DREAM.BIN:06:89",
+    "preserve": true
+  },
+  {
+    "key": "c2548a2ec0d32159",
+    "location": "X5DREAM.BIN:06:8A",
+    "preserve": true
+  },
+  {
+    "key": "dc9da66d30316697",
+    "location": "X5DREAM.BIN:06:8B",
+    "preserve": true
+  },
+  {
+    "key": "d28fff85feaff686",
+    "location": "X5DREAM.BIN:06:8C",
+    "preserve": true
+  },
+  {
+    "key": "08e725292d5e3eb4",
+    "location": "X5DREAM.BIN:06:8D",
+    "preserve": true
+  },
+  {
+    "key": "9c1e08ed2649497f",
+    "location": "X5DREAM.BIN:06:8E",
+    "preserve": true
+  },
+  {
+    "key": "8bb729fe14234537",
+    "location": "X5DREAM.BIN:06:8F",
+    "preserve": true
+  },
+  {
+    "key": "006f15179f0e7ea0",
+    "location": "X5DREAM.BIN:06:90",
+    "preserve": true
+  },
+  {
+    "key": "02049bd4844d2a23",
+    "location": "X5DREAM.BIN:06:91",
+    "preserve": true
+  },
+  {
+    "key": "c091a7af6214c4a0",
+    "location": "X5DREAM.BIN:06:92",
+    "preserve": true
+  },
+  {
+    "key": "88ea9460f19aaf6f",
+    "location": "X5DREAM.BIN:06:93",
+    "preserve": true
+  },
+  {
+    "key": "cc3ee71acf5e7901",
+    "location": "X5DREAM.BIN:06:94",
+    "preserve": true
+  },
+  {
+    "key": "d8b81e5ef60f8726",
+    "location": "X5DREAM.BIN:06:95",
+    "preserve": true
+  },
+  {
+    "key": "cdcec8749a9a3127",
+    "location": "X5DREAM.BIN:06:96",
+    "preserve": true
+  },
+  {
+    "key": "6b1552c3831f56ed",
+    "location": "X5DREAM.BIN:06:97",
+    "preserve": true
+  },
+  {
+    "key": "91e6c3a16b3e3e18",
+    "location": "X5DREAM.BIN:06:98",
+    "preserve": true
+  },
+  {
+    "key": "88e3ca3ef0a30d28",
+    "location": "X5DREAM.BIN:06:99",
+    "preserve": true
+  },
+  {
+    "key": "e1825e3bc47556ca",
+    "location": "X5DREAM.BIN:06:9A",
+    "preserve": true
+  },
+  {
+    "key": "7a8c0aa2ed4cf1ec",
+    "location": "X5DREAM.BIN:06:9B",
+    "preserve": true
+  },
+  {
+    "key": "67b90c8a61187f92",
+    "location": "X5DREAM.BIN:06:9C",
+    "preserve": true
+  },
+  {
+    "key": "62208b805683db7c",
+    "location": "X5DREAM.BIN:06:9D",
+    "preserve": true
+  },
+  {
+    "key": "d5ab77a0f4506a45",
+    "location": "X5DREAM.BIN:06:9E",
+    "preserve": true
+  },
+  {
+    "key": "f9f277ba672b329e",
+    "location": "X5DREAM.BIN:06:9F",
+    "preserve": true
+  },
+  {
+    "key": "1030110e90d1bfb7",
+    "location": "X5DREAM.BIN:06:A0",
+    "preserve": true
+  },
+  {
+    "key": "331a7e18a2e02197",
+    "location": "X5DREAM.BIN:06:A1",
+    "preserve": true
+  },
+  {
+    "key": "1140013acfb1217a",
+    "location": "X5DREAM.BIN:06:A2",
+    "preserve": true
+  },
+  {
+    "key": "4e2b2fd016f1bb2f",
+    "location": "X5DREAM.BIN:06:A3",
+    "preserve": true
+  },
+  {
+    "key": "c91ee3bc1847e243",
+    "location": "X5DREAM.BIN:06:A4",
+    "preserve": true
+  },
+  {
+    "key": "646fcf1756efdca6",
+    "location": "X5DREAM.BIN:06:A5",
+    "preserve": true
+  },
+  {
+    "key": "980f9e88ebc08424",
+    "location": "X5DREAM.BIN:06:A6",
+    "preserve": true
+  },
+  {
+    "key": "c44bd1d27d1e7a9a",
+    "location": "X5DREAM.BIN:06:A7",
+    "preserve": true
+  },
+  {
+    "key": "df961b04be61868f",
+    "location": "X5DREAM.BIN:06:A8",
+    "preserve": true
+  },
+  {
+    "key": "9aea5cb3a712ef78",
+    "location": "X5DREAM.BIN:06:A9",
+    "preserve": true
+  },
+  {
+    "key": "a8ef8fdd9b231d28",
+    "location": "X5DREAM.BIN:06:AA",
+    "preserve": true
+  },
+  {
+    "key": "db3838407590731b",
+    "location": "X5DREAM.BIN:06:AB",
+    "preserve": true
+  },
+  {
+    "key": "939d344b5712249c",
+    "location": "X5DREAM.BIN:06:AC",
+    "preserve": true
+  },
+  {
+    "key": "f05e305b78ae2749",
+    "location": "X5DREAM.BIN:06:AD",
+    "preserve": true
+  },
+  {
+    "key": "2e58243bbf4c8a4e",
+    "location": "X5DREAM.BIN:06:AE",
+    "preserve": true
+  },
+  {
+    "key": "6e846cfe408d7267",
+    "location": "X5DREAM.BIN:06:AF",
+    "preserve": true
+  },
+  {
+    "key": "9f87c2264b9bc989",
+    "location": "X5DREAM.BIN:06:B0",
+    "preserve": true
+  },
+  {
+    "key": "186c09d3674648d9",
+    "location": "X5DREAM.BIN:06:B1",
+    "preserve": true
+  },
+  {
+    "key": "ef7fe54a53af3e9f",
+    "location": "X5DREAM.BIN:06:B2",
+    "preserve": true
+  },
+  {
+    "key": "a53f6be2f4f2c2f0",
+    "location": "X5DREAM.BIN:06:B3",
+    "preserve": true
+  },
+  {
+    "key": "f42a1859c3602f23",
+    "location": "X5DREAM.BIN:06:B4",
+    "preserve": true
+  },
+  {
+    "key": "06f30332dafc8b2a",
+    "location": "X5DREAM.BIN:06:B5",
+    "preserve": true
+  },
+  {
+    "key": "8dcb7260dd226764",
+    "location": "X5DREAM.BIN:06:B6",
+    "preserve": true
+  },
+  {
+    "key": "bf55d0bf6c2413bf",
+    "location": "X5DREAM.BIN:06:B7",
+    "preserve": true
+  },
+  {
+    "key": "805ec6957ea65655",
+    "location": "X5DREAM.BIN:06:B8",
+    "preserve": true
+  },
+  {
+    "key": "7677e80a35b90a55",
+    "location": "X5DREAM.BIN:06:B9",
+    "preserve": true
+  },
+  {
+    "key": "5aed1b1e482185c7",
+    "location": "X5DREAM.BIN:06:BA",
+    "preserve": true
+  },
+  {
+    "key": "7519e5ae5b244ea5",
+    "location": "X5DREAM.BIN:06:BB",
+    "preserve": true
+  },
+  {
+    "key": "6a92ffd718d7c446",
+    "location": "X5DREAM.BIN:06:BC",
+    "preserve": true
+  },
+  {
+    "key": "2e50cc569a52e133",
+    "location": "X5DREAM.BIN:06:BD",
+    "preserve": true
+  },
+  {
+    "key": "cfa6f62268147ea1",
+    "location": "X5DREAM.BIN:06:BE",
+    "preserve": true
+  },
+  {
+    "key": "a485501ff5b213c8",
+    "location": "X5DREAM.BIN:06:BF",
+    "preserve": true
+  },
+  {
+    "key": "d0ea229593b24cf1",
+    "location": "X5DREAM.BIN:06:C0",
+    "preserve": true
+  },
+  {
+    "key": "88baa8d96249bdc2",
+    "location": "X5DREAM.BIN:06:C1",
+    "preserve": true
+  },
+  {
+    "key": "0c733c5f08b44eab",
+    "location": "X5DREAM.BIN:06:C2",
+    "preserve": true
+  },
+  {
+    "key": "6afa757106ee952f",
+    "location": "X5DREAM.BIN:06:C3",
+    "preserve": true
+  },
+  {
+    "key": "5f2bb97773fa7656",
+    "location": "X5DREAM.BIN:06:C4",
+    "preserve": true
+  },
+  {
+    "key": "7a769a47f8f3b917",
+    "location": "X5DREAM.BIN:06:C5",
+    "preserve": true
+  },
+  {
+    "key": "df272f8558f595d0",
+    "location": "X5DREAM.BIN:06:C6",
+    "preserve": true
+  },
+  {
+    "key": "dc14975457271730",
+    "location": "X5DREAM.BIN:06:C7",
+    "preserve": true
+  },
+  {
+    "key": "8f462e75fe1be153",
+    "location": "X5DREAM.BIN:06:C8",
+    "preserve": true
+  },
+  {
+    "key": "295c5e5e4465fb6d",
+    "location": "X5DREAM.BIN:06:C9",
+    "preserve": true
+  },
+  {
+    "key": "5a05fa31589cfcac",
+    "location": "X5DREAM.BIN:06:CA",
+    "preserve": true
+  },
+  {
+    "key": "fd2133f61b7fa817",
+    "location": "X5DREAM.BIN:06:CB",
+    "preserve": true
+  },
+  {
+    "key": "e4aa174c7e7ec5b8",
+    "location": "X5DREAM.BIN:06:CC",
+    "preserve": true
+  },
+  {
+    "key": "99423dc035008897",
+    "location": "X5DREAM.BIN:06:CD",
+    "preserve": true
+  },
+  {
+    "key": "3131d2a99aa689ca",
+    "location": "X5DREAM.BIN:06:CE",
+    "preserve": true
+  },
+  {
+    "key": "ce445beb26d5ed8e",
+    "location": "X5DREAM.BIN:06:CF",
+    "preserve": true
+  },
+  {
+    "key": "d4391b73a847e57d",
+    "location": "X5DREAM.BIN:06:D0",
+    "preserve": true
+  },
+  {
+    "key": "da3fd88c46a4608a",
+    "location": "X5DREAM.BIN:06:D1",
+    "preserve": true
+  },
+  {
+    "key": "e85fb5d6a5a597cc",
+    "location": "X5DREAM.BIN:06:D2",
+    "preserve": true
+  },
+  {
+    "key": "6cb247a715b08997",
+    "location": "X5DREAM.BIN:06:D3",
+    "preserve": true
+  },
+  {
+    "key": "f12be6ace277343c",
+    "location": "X5DREAM.BIN:06:D4",
+    "preserve": true
+  },
+  {
+    "key": "e9cec97d63cf0453",
+    "location": "X5DREAM.BIN:06:D5",
+    "preserve": true
+  },
+  {
+    "key": "a83963e50d2d6d47",
+    "location": "X5DREAM.BIN:06:D6",
+    "preserve": true
+  },
+  {
+    "key": "a098ca1b191cc2fe",
+    "location": "X5DREAM.BIN:06:D7",
+    "preserve": true
+  },
+  {
+    "key": "22d5529580aaa1fb",
+    "location": "X5DREAM.BIN:06:D8",
+    "preserve": true
+  },
+  {
+    "key": "da19b85bd53e542b",
+    "location": "X5DREAM.BIN:06:D9",
+    "preserve": true
+  },
+  {
+    "key": "2c9a0bb371bf00c3",
+    "location": "X5DREAM.BIN:06:DA",
+    "preserve": true
+  },
+  {
+    "key": "cfdee217a3031213",
+    "location": "X5DREAM.BIN:06:DB",
+    "preserve": true
+  },
+  {
+    "key": "74ff27b3fd69ddc2",
+    "location": "X5DREAM.BIN:06:DC",
+    "preserve": true
+  },
+  {
+    "key": "60561e8610d51b47",
+    "location": "X5DREAM.BIN:06:DD",
+    "preserve": true
+  },
+  {
+    "key": "a1daf76fcb540972",
+    "location": "X5DREAM.BIN:06:DE",
+    "preserve": true
+  },
+  {
+    "key": "8a3d34a5e6458553",
+    "location": "X5DREAM.BIN:06:DF",
+    "preserve": true
+  },
+  {
+    "key": "f7a3c90473b59b88",
+    "location": "X5DREAM.BIN:06:E1",
+    "preserve": true
+  },
+  {
+    "key": "0174a73c60945335",
+    "location": "X5DREAM.BIN:06:E2",
+    "preserve": true
+  },
+  {
+    "key": "9611b6904aa5374f",
+    "location": "X5DREAM.BIN:06:E3",
+    "preserve": true
+  },
+  {
+    "key": "c81cf5af14d0e42f",
+    "location": "X5DREAM.BIN:06:E4",
+    "preserve": true
+  },
+  {
+    "key": "e85e0ef055739857",
+    "location": "X5DREAM.BIN:06:E5",
+    "preserve": true
+  },
+  {
+    "key": "43f5a08b4d3971b0",
+    "location": "X5DREAM.BIN:06:E6",
+    "preserve": true
+  },
+  {
+    "key": "0a457e8da527bbf7",
+    "location": "X5DREAM.BIN:06:E7",
+    "preserve": true
+  },
+  {
+    "key": "2abc64244343cdfc",
+    "location": "X5DREAM.BIN:06:E8",
+    "preserve": true
+  },
+  {
+    "key": "5184d6c746a03682",
+    "location": "X5DREAM.BIN:06:E9",
+    "preserve": true
+  },
+  {
+    "key": "80e4b99e500fff19",
+    "location": "X5DREAM.BIN:06:EA",
+    "preserve": true
+  },
+  {
+    "key": "e9bbc4bc994379d7",
+    "location": "X5DREAM.BIN:06:EB",
+    "preserve": true
+  },
+  {
+    "key": "33371d074d3c26be",
+    "location": "X5DREAM.BIN:06:EC",
+    "preserve": true
+  },
+  {
+    "key": "30015074088ec288",
+    "location": "X5DREAM.BIN:06:ED",
+    "preserve": true
+  },
+  {
+    "key": "565548ad29e8ea17",
+    "location": "X5DREAM.BIN:06:EE",
+    "zh": "<00>一般武器<00>"
+  },
+  {
+    "key": "7727eac26cfd51f8",
+    "location": "X5DREAM.BIN:06:FC",
+    "zh": "<00>翼<00>"
+  },
+  {
+    "key": "bdb4c6db9848fae6",
+    "location": "X5DREAM.BIN:07:1F",
+    "zh": "<00>爪<00>"
+  },
+  {
+    "key": "9a66fe5dbe626df4",
+    "location": "X5DREAM.BIN:07:20",
+    "zh": "<00>手套<00>"
+  },
+  {
+    "key": "7aa05c87d864a0a6",
+    "location": "X5DREAM.BIN:07:2B",
+    "zh": "<00>安卡<00>"
+  },
+  {
+    "key": "a8c14b0c56c4e11f",
+    "location": "X5DREAM.BIN:07:34",
+    "zh": "<00>弩箭<00>"
+  },
+  {
+    "key": "e4d25a9b3b684839",
+    "location": "X5DREAM.BIN:07:3D",
+    "zh": "<00>喙<00>"
+  },
+  {
+    "key": "593e430b7316fda0",
+    "location": "X5DREAM.BIN:07:65",
+    "zh": "<00>寶珠飾品<00>"
+  },
+  {
+    "key": "61158f7ad3cb7b09",
+    "location": "X5DREAM.BIN:07:66",
+    "zh": "<00>戒指飾品<00>"
+  },
+  {
+    "key": "9f8f0394b9f56728",
+    "location": "X5DREAM.BIN:07:6E",
+    "zh": "<00>一般飾品<00>"
+  },
+  {
+    "key": "5468dc2fc128258f",
+    "location": "X5DREAM.BIN:07:6F",
+    "zh": "<00>不相容的周邊設備<00>"
+  },
+  {
+    "key": "c2530211a9710229",
+    "location": "X5DREAM.BIN:07:70",
+    "zh": "<00><12>使用<14><02><00>"
+  },
+  {
+    "key": "1ba8407538a3e9bb",
+    "location": "X5DREAM.BIN:07:71",
+    "zh": "<00><12>交出道具<14>給<12><02><00>"
+  },
+  {
+    "key": "e1789ce94dd3b96e",
+    "location": "X5DREAM.BIN:07:73",
+    "zh": "<00><12>收回<14><02><00>"
+  },
+  {
+    "key": "6c18759fb0005604",
+    "location": "X5DREAM.BIN:07:75",
+    "zh": "<00>不能丟棄！<02><00>"
+  },
+  {
+    "key": "cb64555bf8841996",
+    "location": "X5DREAM.BIN:07:76",
+    "zh": "<00>要丟掉<03>道具<14>嗎？<00>"
+  },
+  {
+    "key": "bac678b4f5b51f24",
+    "location": "X5DREAM.BIN:07:78",
+    "zh": "<00><12>不會使用<03>任何野外魔法<02><00>"
+  },
+  {
+    "key": "3e64159bd3068cd2",
+    "location": "X5DREAM.BIN:07:79",
+    "zh": "<00>道具<14>已裝備<03>不能交給別人<02><00>"
+  },
+  {
+    "key": "fcb89d373bc9ba24",
+    "location": "X5DREAM.BIN:07:7A",
+    "zh": "<00>道具<14>已裝備<03>不能丟棄<02><00>"
+  },
+  {
+    "key": "f0e300078fc8b4ad",
+    "location": "X5DREAM.BIN:07:7B",
+    "zh": "<00>道具<14>已經裝備<02><00>"
+  },
+  {
+    "key": "071bef72ccbf96b4",
+    "location": "X5DREAM.BIN:07:7C",
+    "zh": "<00><12>卸下<14>並裝備<14><00>"
+  },
+  {
+    "key": "04d2e4f1cdd98cad",
+    "location": "X5DREAM.BIN:07:7D",
+    "zh": "<00><12>裝備<14><00>"
+  },
+  {
+    "key": "60f3af8ca003caa1",
+    "location": "X5DREAM.BIN:07:7E",
+    "zh": "<00><12>卸下<14><02><00>"
+  },
+  {
+    "key": "d30f075817e6be4d",
+    "location": "X5DREAM.BIN:07:7F",
+    "zh": "<00>無法卸下裝備<02><00>"
+  },
+  {
+    "key": "77441760683edad5",
+    "location": "X5DREAM.BIN:07:80",
+    "zh": "<00>道具<14>遭到詛咒<03>不能交給別人<02><00>"
+  },
+  {
+    "key": "73d6c9f2550a5b52",
+    "location": "X5DREAM.BIN:07:81",
+    "zh": "<00>道具<14>遭到詛咒<03>不能<03>交易<02><00>"
+  },
+  {
+    "key": "881d85d38ff1e8e6",
+    "location": "X5DREAM.BIN:07:82",
+    "zh": "<00>道具<14>遭到詛咒<03>不能<03>丟棄<02><00>"
+  },
+  {
+    "key": "2d1dfe6663563a05",
+    "location": "X5DREAM.BIN:07:83",
+    "zh": "<00>道具<14>遭到詛咒<03>不能<03>卸下<02><00>"
+  },
+  {
+    "key": "5b41fd60868e83d3",
+    "location": "X5DREAM.BIN:07:84",
+    "zh": "<00><12>可以裝備<14>。<03>要裝備嗎？<1E><00>"
+  },
+  {
+    "key": "d1d0e1685b987935",
+    "location": "X5DREAM.BIN:07:85",
+    "zh": "<00>道具<14>目前<03>已裝備，不能交易<02><00>"
+  },
+  {
+    "key": "77da188633f8322e",
+    "location": "X5DREAM.BIN:07:86",
+    "zh": "<00><12>無法裝備<14><02><00>"
+  },
+  {
+    "key": "654c74c2cd375bda",
+    "location": "X5DREAM.BIN:07:87",
+    "zh": "<00><12>拿出<12><1C>的<14><02><00>"
+  },
+  {
+    "key": "dfe3f7613a50d658",
+    "location": "X5DREAM.BIN:07:88",
+    "zh": "<00><12>已倒下，無法使用<14><02><00>"
+  },
+  {
+    "key": "1c27c75e4dc8dff8",
+    "location": "X5DREAM.BIN:07:8B",
+    "zh": "<00>用<12><1C>的<14><03>交換<12><1C>的<14><02><00>"
+  },
+  {
+    "key": "1001661406f2a3f9",
+    "location": "X5DREAM.BIN:07:8C",
+    "zh": "<00><12>沒有道具<02><00>"
+  },
+  {
+    "key": "c9f36c5449edbc34",
+    "location": "X5DREAM.BIN:07:8D",
+    "zh": "<00>沒有人可以<03>接收道具<02><00>"
+  },
+  {
+    "key": "7c1b5fb0ec918d24",
+    "location": "X5DREAM.BIN:07:8E",
+    "zh": "<00><14>無法卸下<02><00>"
+  },
+  {
+    "key": "5274802f40c07415",
+    "location": "X5DREAM.BIN:07:8F",
+    "zh": "<00><12>收到道具<14>！<00>"
+  },
+  {
+    "key": "aa4af1e84e883bf6",
+    "location": "X5DREAM.BIN:07:92",
+    "zh": "<00><14>不能交給別人<02><00>"
+  },
+  {
+    "key": "b442bf9bb4781a44",
+    "location": "X5DREAM.BIN:07:93",
+    "zh": "<00><14>裂開了！<02><00>"
+  },
+  {
+    "key": "6ded237f6617c0ca",
+    "location": "X5DREAM.BIN:07:94",
+    "zh": "<00><14>碎裂了！<02><00>"
+  },
+  {
+    "key": "2b28692c1c57689e",
+    "location": "X5DREAM.BIN:07:95",
+    "zh": "<00><12>施展咒文<15><02><00>"
+  },
+  {
+    "key": "f054b56d2c36c042",
+    "location": "X5DREAM.BIN:07:96",
+    "zh": "<00>MP 不足<02><00>"
+  },
+  {
+    "key": "0389bdc493910f06",
+    "location": "X5DREAM.BIN:07:97",
+    "zh": "<00>咒文取消了！<02><00>"
+  },
+  {
+    "key": "3027e611550b7096",
+    "location": "X5DREAM.BIN:07:98",
+    "zh": "<00><12>魔力耗盡<03>無法使用魔法！<02><00>"
+  },
+  {
+    "key": "1cc1f05c88140ac1",
+    "location": "X5DREAM.BIN:07:99",
+    "zh": "<00><12>恢復正常<02><00>"
+  },
+  {
+    "key": "3542aee33678edba",
+    "location": "X5DREAM.BIN:07:9A",
+    "zh": "<00><12><1C>的攻擊力提升 <16>！<02><00>"
+  },
+  {
+    "key": "4760506b1508feb0",
+    "location": "X5DREAM.BIN:07:9B",
+    "zh": "<00><12><1C>的防禦力提升 <16>！<02><00>"
+  },
+  {
+    "key": "b34fa3b3f38e7d75",
+    "location": "X5DREAM.BIN:07:9C",
+    "zh": "<00><12><1C>的敏捷提升 <16>！<02><00>"
+  },
+  {
+    "key": "d18b6cb94f4377c7",
+    "location": "X5DREAM.BIN:07:9D",
+    "zh": "<00><12><1C>的移動力提升 <16>！<02><00>"
+  },
+  {
+    "key": "7691df59b7041a42",
+    "location": "X5DREAM.BIN:07:9E",
+    "zh": "<00><12><1C>的運氣提升 <16>！<02><00>"
+  },
+  {
+    "key": "8c9981f0dd36bab4",
+    "location": "X5DREAM.BIN:07:9F",
+    "zh": "<00><12><1C>的最大 HP 提升 <16>！<02><00>"
+  },
+  {
+    "key": "6c7b63b6de35b6aa",
+    "location": "X5DREAM.BIN:07:A0",
+    "zh": "<00><12><1C>的最大 MP 提升 <16>！<02><00>"
+  },
+  {
+    "key": "61a83a5b24d972c8",
+    "location": "X5DREAM.BIN:07:A1",
+    "zh": "<00><12>升到了<08><06>等級 <16><08><08>！<02><00>"
+  },
+  {
+    "key": "de24f8fb4524371f",
+    "location": "X5DREAM.BIN:07:A2",
+    "zh": "<00>學會了咒文：<08><06><15><08><08>！<02><00>"
+  },
+  {
+    "key": "595b85fdcf9fe9a0",
+    "location": "X5DREAM.BIN:07:A3",
+    "zh": "<00>咒文<08><06><15><08><08>提升至<08><06>等級 <16><08><08>！<02><00>"
+  },
+  {
+    "key": "1c0d7be21f85566f",
+    "location": "X5DREAM.BIN:07:A4",
+    "zh": "<00>但是什麼也沒發生<02><00>"
+  },
+  {
+    "key": "0c1ac5ca4ee2fefd",
+    "location": "X5DREAM.BIN:07:A5",
+    "zh": "<00><12>中毒而死<02><00>"
+  },
+  {
+    "key": "2c7d10e657d22762",
+    "location": "X5DREAM.BIN:07:A6",
+    "zh": "<00><12><1C>的隊伍全軍覆沒<02><00>"
+  },
+  {
+    "key": "2196888e6df22c7a",
+    "location": "X5DREAM.BIN:07:A7",
+    "zh": "<00><12>精疲力盡……<02><00>"
+  },
+  {
+    "key": "be9dfeeaf9d42f7c",
+    "location": "X5DREAM.BIN:07:A9",
+    "zh": "<00><11><01>打開了<03>寶箱<01><00>"
+  },
+  {
+    "key": "1dbc3cde9f5594e4",
+    "location": "X5DREAM.BIN:07:AA",
+    "zh": "<00><11><01>查看了<03>花瓶裡面<01><00>"
+  },
+  {
+    "key": "758edce94a53aa03",
+    "location": "X5DREAM.BIN:07:AB",
+    "zh": "<00><11><01>查看了<03>木桶裡面<01><00>"
+  },
+  {
+    "key": "8b0269b8748c6134",
+    "location": "X5DREAM.BIN:07:AC",
+    "zh": "<00><11><01>查看牆壁<01><00>"
+  },
+  {
+    "key": "cc95f8b22af33cbe",
+    "location": "X5DREAM.BIN:07:AD",
+    "zh": "<00><11><01>搜尋了<03>正前方<01><00>"
+  },
+  {
+    "key": "24c77a1eb5d3ced6",
+    "location": "X5DREAM.BIN:07:AE",
+    "zh": "<00><11><01>仔細查看了<03>岩石<01><00>"
+  },
+  {
+    "key": "5a8419707b2b4bdb",
+    "location": "X5DREAM.BIN:07:AF",
+    "zh": "<00><11><01>查看了<03>洞穴裡面<01><00>"
+  },
+  {
+    "key": "97e4ac8c34f8b13d",
+    "location": "X5DREAM.BIN:07:B0",
+    "zh": "<00><11><01>查看了<03>墓碑<01><00>"
+  },
+  {
+    "key": "53d04739ef482d8f",
+    "location": "X5DREAM.BIN:07:B1",
+    "zh": "<00><11><01>查看了樹木<01><00>"
+  },
+  {
+    "key": "361a444dab7b5f2d",
+    "location": "X5DREAM.BIN:07:B2",
+    "zh": "<00><11><01>窺視了<03>灌木叢<01><00>"
+  },
+  {
+    "key": "2f1505a460bec19b",
+    "location": "X5DREAM.BIN:07:B3",
+    "zh": "<00><11><01>查看了門<01><00>"
+  },
+  {
+    "key": "d94114728b22fb3f",
+    "location": "X5DREAM.BIN:07:B4",
+    "zh": "<00><11><01>查看了畫作<01><00>"
+  },
+  {
+    "key": "86d67753e94ed452",
+    "location": "X5DREAM.BIN:07:B5",
+    "zh": "<00><11><01>查看了盒子<01><00>"
+  },
+  {
+    "key": "368e6dddc7f6e7a7",
+    "location": "X5DREAM.BIN:07:B6",
+    "zh": "<00><11><01>查看了床<01><00>"
+  },
+  {
+    "key": "aa66157988a80a1d",
+    "location": "X5DREAM.BIN:07:B7",
+    "zh": "<00><11><01>查看了書櫃<01><00>"
+  },
+  {
+    "key": "b1a931a8e08ecd10",
+    "location": "X5DREAM.BIN:07:B8",
+    "zh": "<00><11><01>查看了<03>石棺<01><00>"
+  },
+  {
+    "key": "1be96241828cb12e",
+    "location": "X5DREAM.BIN:07:B9",
+    "zh": "<00><11><01>查看了壁爐<01><00>"
+  },
+  {
+    "key": "b8de54ac798ff337",
+    "location": "X5DREAM.BIN:07:BA",
+    "zh": "<00><11><01>窺視了<03>水中<01><00>"
+  },
+  {
+    "key": "5c9005aa9ae85d41",
+    "location": "X5DREAM.BIN:07:BB",
+    "zh": "<00><11><01>查看了<03>石柱<01><00>"
+  },
+  {
+    "key": "0bd13fd00f09cc97",
+    "location": "X5DREAM.BIN:07:BC",
+    "zh": "<00><11><01>查看了<03>鐘乳石<01><00>"
+  },
+  {
+    "key": "50d6c4e018c55a05",
+    "location": "X5DREAM.BIN:07:BD",
+    "zh": "<00><11><01>查看了<03>止車板<01><00>"
+  },
+  {
+    "key": "8103c4fad364211e",
+    "location": "X5DREAM.BIN:07:BE",
+    "zh": "<00><11><01>窺視了<03>噴泉<01><00>"
+  },
+  {
+    "key": "a66f66707fc74d3c",
+    "location": "X5DREAM.BIN:07:BF",
+    "zh": "<00><11><01>查看了爐子<01><00>"
+  },
+  {
+    "key": "0f251429903cd03a",
+    "location": "X5DREAM.BIN:07:C0",
+    "zh": "<00><11><01>查看了桌子<01><00>"
+  },
+  {
+    "key": "7cabe15c6abb54bb",
+    "location": "X5DREAM.BIN:07:C1",
+    "zh": "<00><11><01>查看了<03>石像<01><00>"
+  },
+  {
+    "key": "6d480a5df01a45b1",
+    "location": "X5DREAM.BIN:07:C2",
+    "zh": "<00><11><01>讀了<03>石上的文字<01><00>"
+  },
+  {
+    "key": "8e038f28e292b329",
+    "location": "X5DREAM.BIN:07:C3",
+    "zh": "<00><11><01>查看了架子<01><00>"
+  },
+  {
+    "key": "a07eae2e8b99743c",
+    "location": "X5DREAM.BIN:07:C4",
+    "zh": "<00><11><01>查看了抽屜<01><00>"
+  },
+  {
+    "key": "27d6212b1c10739f",
+    "location": "X5DREAM.BIN:07:C8",
+    "zh": "<00>寶箱是空的<02><00>"
+  },
+  {
+    "key": "3a74e396c4e54f13",
+    "location": "X5DREAM.BIN:07:C9",
+    "zh": "<00>裡面一片漆黑<02><00>"
+  },
+  {
+    "key": "58ee5cc98b73bf07",
+    "location": "X5DREAM.BIN:07:CA",
+    "zh": "<00>裡面是空的<02><00>"
+  },
+  {
+    "key": "ec47eccbbfa12e23",
+    "location": "X5DREAM.BIN:07:CB",
+    "zh": "<00>這裡<03>沒什麼特別的<02><00>"
+  },
+  {
+    "key": "19713aa54be26e62",
+    "location": "X5DREAM.BIN:07:CC",
+    "zh": "<00>什麼也沒找到……<02><00>"
+  },
+  {
+    "key": "0de3b2d8fc8605d8",
+    "location": "X5DREAM.BIN:07:CD",
+    "zh": "<00>看起來像是<03>非常堅硬的岩石<02><00>"
+  },
+  {
+    "key": "65e3beacb7aeb5ea",
+    "location": "X5DREAM.BIN:07:CE",
+    "zh": "<00>看起來裡面<03>似乎有東西……<02><00>"
+  },
+  {
+    "key": "522308110be7b7b7",
+    "location": "X5DREAM.BIN:07:CF",
+    "zh": "<00>確實是座墓碑<02><00>"
+  },
+  {
+    "key": "324a337ddb25210c",
+    "location": "X5DREAM.BIN:07:D0",
+    "zh": "<00>長著粗壯的根<02><00>"
+  },
+  {
+    "key": "9868c08d788203b4",
+    "location": "X5DREAM.BIN:07:D1",
+    "zh": "<00>什麼也沒有<02><00>"
+  },
+  {
+    "key": "ae655f56a2c68e6e",
+    "location": "X5DREAM.BIN:07:D2",
+    "zh": "<00>真是一扇華麗的門<02><00>"
+  },
+  {
+    "key": "b3cab70eb0a8f17c",
+    "location": "X5DREAM.BIN:07:D3",
+    "zh": "<00>真是一幅美麗的畫<02><00>"
+  },
+  {
+    "key": "d0fa469942aeccbf",
+    "location": "X5DREAM.BIN:07:D4",
+    "zh": "<00>裡面什麼也沒有<02><00>"
+  },
+  {
+    "key": "ae3b41a647a53808",
+    "location": "X5DREAM.BIN:07:D5",
+    "zh": "<00>上面積滿灰塵<02><00>"
+  },
+  {
+    "key": "dc31790b427c50e4",
+    "location": "X5DREAM.BIN:07:D6",
+    "zh": "<00>這些書看起來都很艱深<02><00>"
+  },
+  {
+    "key": "8cbc5816ef53afbc",
+    "location": "X5DREAM.BIN:07:D7",
+    "zh": "<00>這是一口石棺<02><00>"
+  },
+  {
+    "key": "d7832e614480a827",
+    "location": "X5DREAM.BIN:07:D8",
+    "zh": "<00>看起來很燙<02><00>"
+  },
+  {
+    "key": "b12a631acc19d8c9",
+    "location": "X5DREAM.BIN:07:D9",
+    "zh": "<00>泛起漂亮的水波<02><00>"
+  },
+  {
+    "key": "0e799d0d520cc55f",
+    "location": "X5DREAM.BIN:07:DA",
+    "zh": "<00>石柱是用石頭做的<02><00>"
+  },
+  {
+    "key": "98f0d16a6311afa5",
+    "location": "X5DREAM.BIN:07:DB",
+    "zh": "<00>摸起來涼涼的<02><00>"
+  },
+  {
+    "key": "91c9ab0a9374520f",
+    "location": "X5DREAM.BIN:07:DC",
+    "zh": "<00>看起來無法通行<02><00>"
+  },
+  {
+    "key": "1e94b35b89f445c2",
+    "location": "X5DREAM.BIN:07:DD",
+    "zh": "<00>感覺裡面<03>好像有東西……<02><00>"
+  },
+  {
+    "key": "e09b9d82ab723ca2",
+    "location": "X5DREAM.BIN:07:DF",
+    "zh": "<00>沒有可疑之處<02><00>"
+  },
+  {
+    "key": "c6c154eee3466544",
+    "location": "X5DREAM.BIN:07:E0",
+    "zh": "<00>看起來隨時<03>都會動起來<02><00>"
+  },
+  {
+    "key": "7e10e63115f1c6f1",
+    "location": "X5DREAM.BIN:07:E1",
+    "zh": "<00>這裡寫著什麼<02><00>"
+  },
+  {
+    "key": "03d523b597c521e9",
+    "location": "X5DREAM.BIN:07:E6",
+    "zh": "<00><11><01>找到了道具：<14><01><00>"
+  },
+  {
+    "key": "0cd842863f62ce2d",
+    "location": "X5DREAM.BIN:07:E7",
+    "zh": "<00><11><01>找到<16>枚金幣<02><00>"
+  },
+  {
+    "key": "9504c034acf0e13c",
+    "location": "X5DREAM.BIN:07:E8",
+    "zh": "<00><11><01>收到了道具：<14><02><00>"
+  },
+  {
+    "key": "b00b1357135cab75",
+    "location": "X5DREAM.BIN:07:E9",
+    "zh": "<00><11><01>把道具<14><03>交給<12><02><00>"
+  },
+  {
+    "key": "e192076be57040db",
+    "location": "X5DREAM.BIN:07:EA",
+    "zh": "<00>隊伍<11><01>攜帶太多，只好放棄<03><02><00>"
+  },
+  {
+    "key": "9e9d1ac673bc8f31",
+    "location": "X5DREAM.BIN:07:EB",
+    "zh": "<00><11><01>再次查看了<03>寶箱<01><00>"
+  },
+  {
+    "key": "c74ca4f2fb036b24",
+    "location": "X5DREAM.BIN:07:EC",
+    "zh": "<00>散發出<03>一股奇異的感覺<02><00>"
+  },
+  {
+    "key": "c7ac301d484e4182",
+    "location": "X5DREAM.BIN:07:ED",
+    "zh": "<00><11><01>無法<03>打開……<02><00>"
+  },
+  {
+    "key": "9e5f0876506da80f",
+    "location": "X5DREAM.BIN:07:EE",
+    "zh": "<00><11><01>搜尋了正前方<01><00>"
+  },
+  {
+    "key": "b0d62c9fb5c0478b",
+    "location": "X5DREAM.BIN:07:F0",
+    "zh": "<00>似乎上鎖了……<02><00>"
+  },
+  {
+    "key": "5dd85e5fd6f06a74",
+    "location": "X5DREAM.BIN:07:F4",
+    "zh": "<00><12>使用了<03>道具<14><06><00>"
+  },
+  {
+    "key": "6d200bc6bd035a66",
+    "location": "X5DREAM.BIN:07:F5",
+    "zh": "<00>什麼也沒發生<05><00>"
+  },
+  {
+    "key": "1c39512bb125e0e8",
+    "location": "X5DREAM.BIN:07:F7",
+    "zh": "<00>聞起來很奇怪<02><00>"
+  },
+  {
+    "key": "c636c48596d28faf",
+    "location": "X5DREAM.BIN:07:F8",
+    "zh": "<00><0C><15>啊啊！<01><0C><0B>有蟑螂！<02><00>"
+  },
+  {
+    "key": "edc9adef16615679",
+    "location": "X5DREAM.BIN:07:F9",
+    "zh": "<00>傳來抓搔聲……<02><00>"
+  },
+  {
+    "key": "486e68fb1ce11158",
+    "location": "X5DREAM.BIN:07:FA",
+    "zh": "<00>有東西！<04>……好像又在那裡<03>剛才似乎有……<06>大概是看錯了……<02><00>"
+  },
+  {
+    "key": "65f71126c247b88a",
+    "location": "X5DREAM.BIN:07:FB",
+    "zh": "<00>怎麼回事！<01>我看見了<03>不該看見的東西！<02><00>"
+  },
+  {
+    "key": "1b1b83c20d748757",
+    "location": "X5DREAM.BIN:07:FC",
+    "zh": "<00>……唉！<01>裡面只有一堆垃圾<02><00>"
+  },
+  {
+    "key": "f4fd317afc482ed6",
+    "location": "X5DREAM.BIN:07:FD",
+    "zh": "<00><0C><15>喔！<01><0C><0B>只是一隻老鼠……<02><00>"
+  },
+  {
+    "key": "ef61415ce7699651",
+    "location": "X5DREAM.BIN:07:FE",
+    "zh": "<00><0C><15>哎呀！<0F><04><0F><04><0F><04><02><0C><0B>裡面有很棒的<03>內衣！<02><00>"
+  },
+  {
+    "key": "b92574cb56f563f3",
+    "location": "X5DREAM.BIN:07:FF",
+    "zh": "<00>被緊緊關住了……<02><00>"
+  },
+  {
+    "key": "4e3d4821c2db68c5",
+    "location": "X5BTL101.BIN:07:71",
+    "zh": "<00><15> 等級 <16><00>"
+  },
+  {
+    "key": "c71728b92ba38b8b",
+    "location": "X5BTL101.BIN:07:73",
+    "zh": "<00><12>發動攻擊<00>"
+  },
+  {
+    "key": "08f3bfde30231e38",
+    "location": "X5BTL101.BIN:07:74",
+    "zh": "<00>必殺一擊！<00>"
+  },
+  {
+    "key": "1742f19ce19b561e",
+    "location": "X5BTL101.BIN:07:75",
+    "zh": "<00>造成最大傷害！<00>"
+  },
+  {
+    "key": "bc0f2f510b59b8c1",
+    "location": "X5BTL101.BIN:07:76",
+    "zh": "<00><12>反擊！<00>"
+  },
+  {
+    "key": "bd2795191d7846fe",
+    "location": "X5BTL101.BIN:07:78",
+    "zh": "<00>反擊！<00>"
+  },
+  {
+    "key": "fbef00537b91409e",
+    "location": "X5BTL101.BIN:07:79",
+    "zh": "<00><15> 等級 <16>！<00>"
+  },
+  {
+    "key": "2d179f7d72df2b2f",
+    "location": "X5BTL101.BIN:07:7A",
+    "zh": "<00>必殺<15> 等級 <16>！<00>"
+  },
+  {
+    "key": "6db65fbebf4ca74b",
+    "location": "X5BTL101.BIN:07:7B",
+    "zh": "<00><12>使用了道具：<14><00>"
+  },
+  {
+    "key": "59cb0370e9f8c118",
+    "location": "X5BTL101.BIN:07:7C",
+    "zh": "<00>道具<14>裂開了！<00>"
+  },
+  {
+    "key": "05e4de164fecc5cb",
+    "location": "X5BTL101.BIN:07:7D",
+    "zh": "<00><12>麻痺了！<00>"
+  },
+  {
+    "key": "495d014e44c73dd9",
+    "location": "X5BTL101.BIN:07:7E",
+    "zh": "<00><12>遭詛咒凍結了！<00>"
+  },
+  {
+    "key": "c288fdeb04c248a1",
+    "location": "X5BTL101.BIN:07:7F",
+    "zh": "<00><12>求饒了！<00>"
+  },
+  {
+    "key": "61da8d8bf85ac921",
+    "location": "X5BTL101.BIN:07:80",
+    "zh": "<00><12>猛然強力躍起！<00>"
+  },
+  {
+    "key": "6926cf8b9238e1c1",
+    "location": "X5BTL101.BIN:07:81",
+    "zh": "<00>噴出灼熱火焰！<00>"
+  },
+  {
+    "key": "8eb698afbc7e8908",
+    "location": "X5BTL101.BIN:07:82",
+    "zh": "<00>噴出冰冷氣息！<00>"
+  },
+  {
+    "key": "7a752992e6af1552",
+    "location": "X5BTL101.BIN:07:83",
+    "zh": "<00>噴出閃電！<00>"
+  },
+  {
+    "key": "7adc684b5164ac4d",
+    "location": "X5BTL101.BIN:07:84",
+    "zh": "<00>掀起強風！<00>"
+  },
+  {
+    "key": "7e277d03cc624265",
+    "location": "X5BTL101.BIN:07:85",
+    "zh": "<00>召喚邪靈！<00>"
+  },
+  {
+    "key": "d04e64c5e1e896d0",
+    "location": "X5BTL101.BIN:07:86",
+    "zh": "<00>掀起海嘯！<00>"
+  },
+  {
+    "key": "bb4cc346c62aa8e7",
+    "location": "X5BTL101.BIN:07:87",
+    "zh": "<00>噴出灼熱酸液！<00>"
+  },
+  {
+    "key": "fe12003a8494c73a",
+    "location": "X5BTL101.BIN:07:88",
+    "zh": "<00>召喚混沌漩渦！<00>"
+  },
+  {
+    "key": "ae125d05fda2bccf",
+    "location": "X5BTL101.BIN:07:89",
+    "zh": "<00>噴出水晶碎片！<00>"
+  },
+  {
+    "key": "31af8a8e41e55e45",
+    "location": "X5BTL101.BIN:07:8A",
+    "zh": "<00>噴出冰凍液體！<00>"
+  },
+  {
+    "key": "3562e08b0e9a66b0",
+    "location": "X5BTL101.BIN:07:8B",
+    "zh": "<00>吐出毒泡泡！<00>"
+  },
+  {
+    "key": "8186ac3b06d5fa48",
+    "location": "X5BTL101.BIN:07:8C",
+    "zh": "<00>吐出酸泡泡！<00>"
+  },
+  {
+    "key": "7b231e2d6702916e",
+    "location": "X5BTL101.BIN:07:8D",
+    "zh": "<00>噴出灼熱瀝青！<00>"
+  },
+  {
+    "key": "45d29db5aad7dd78",
+    "location": "X5BTL101.BIN:07:8E",
+    "zh": "<00>噴出煉獄火！<00>"
+  },
+  {
+    "key": "903716664d16971d",
+    "location": "X5BTL101.BIN:07:8F",
+    "zh": "<00>吐出刺骨寒氣！<00>"
+  },
+  {
+    "key": "f030873492d58b94",
+    "location": "X5BTL101.BIN:07:90",
+    "zh": "<00><12>消失了……<00>"
+  },
+  {
+    "key": "7ca8183ea20baf08",
+    "location": "X5BTL101.BIN:07:91",
+    "zh": "<00><12>受到 <16>點傷害！<00>"
+  },
+  {
+    "key": "488eee7f0c121f73",
+    "location": "X5BTL101.BIN:07:93",
+    "zh": "<00><12>受到 <16>點毒素傷害！<00>"
+  },
+  {
+    "key": "66b2c3ba8839c315",
+    "location": "X5BTL101.BIN:07:94",
+    "zh": "<00><12>受到 <16>點詛咒傷害！<00>"
+  },
+  {
+    "key": "cee8496864895ec4",
+    "location": "X5BTL101.BIN:07:95",
+    "zh": "<00><12><1C>的靈魂被吸走了！<00>"
+  },
+  {
+    "key": "3a899cf4d592a7fb",
+    "location": "X5BTL101.BIN:07:96",
+    "zh": "<00><12>掉落了寶物！<00>"
+  },
+  {
+    "key": "155a9fdf9d499cbc",
+    "location": "X5BTL101.BIN:07:97",
+    "zh": "<00><12>被徹底消滅了！<00>"
+  },
+  {
+    "key": "caae48bfdd48ec77",
+    "location": "X5BTL101.BIN:07:98",
+    "zh": "<00><12>壞掉了……<00>"
+  },
+  {
+    "key": "d11cfc1773b84838",
+    "location": "X5BTL101.BIN:07:99",
+    "zh": "<00><12><1C>的魔力被封印了！<00>"
+  },
+  {
+    "key": "734fefa75b762512",
+    "location": "X5BTL101.BIN:07:9A",
+    "zh": "<00><12>恢復了 <16>HP！<00>"
+  },
+  {
+    "key": "d3ed0cde4e6ec170",
+    "location": "X5BTL101.BIN:07:9B",
+    "zh": "<00><12>恢復了 <16>MP！<00>"
+  },
+  {
+    "key": "52bc24a141f0fc6d",
+    "location": "X5BTL101.BIN:07:9C",
+    "zh": "<00><12>復活了！<00>"
+  },
+  {
+    "key": "addbca84b9256f86",
+    "location": "X5BTL101.BIN:07:9D",
+    "zh": "<00><12>受到祝福！<00>"
+  },
+  {
+    "key": "3b0dac2919967a72",
+    "location": "X5BTL101.BIN:07:9E",
+    "zh": "<00><12>恢復正常！<00>"
+  },
+  {
+    "key": "77fc9a69082f5cb0",
+    "location": "X5BTL101.BIN:07:9F",
+    "zh": "<00><12>身上的魔法效果解除了！<00>"
+  },
+  {
+    "key": "a77e7ef33a014abf",
+    "location": "X5BTL101.BIN:07:A0",
+    "zh": "<00><12>恢復所有失去的 HP！<00>"
+  },
+  {
+    "key": "4774541f5d1bf4f8",
+    "location": "X5BTL101.BIN:07:A1",
+    "zh": "<00><12>恢復所有失去的 MP！<00>"
+  },
+  {
+    "key": "21e0784d24432249",
+    "location": "X5BTL101.BIN:07:A2",
+    "zh": "<00><12>擋下攻擊！<00>"
+  },
+  {
+    "key": "1ed1d677e698162d",
+    "location": "X5BTL101.BIN:07:A3",
+    "zh": "<00><12>閃開了！<00>"
+  },
+  {
+    "key": "1b19fe4ffa826f8a",
+    "location": "X5BTL101.BIN:07:A4",
+    "zh": "<00>對象無效<12><00>"
+  },
+  {
+    "key": "4829c9df1af772e2",
+    "location": "X5BTL101.BIN:07:A8",
+    "zh": "<00><12>遭到詛咒，無法移動！<00>"
+  },
+  {
+    "key": "73b2bf400fc42ff9",
+    "location": "X5BTL101.BIN:07:A9",
+    "zh": "<00><12><1C>的攻擊落空了！<00>"
+  },
+  {
+    "key": "0e17095694dc543c",
+    "location": "X5BTL101.BIN:07:AA",
+    "zh": "<00><12>吸取了 <16>HP！<00>"
+  },
+  {
+    "key": "b5046dc3d69a0b4a",
+    "location": "X5BTL101.BIN:07:AB",
+    "zh": "<00><16> HP 被吸走了<12>！<00>"
+  },
+  {
+    "key": "ed5f91e963731131",
+    "location": "X5BTL101.BIN:07:AC",
+    "zh": "<00><12>吸取了 <16>MP！<00>"
+  },
+  {
+    "key": "541ed67a4bcf852b",
+    "location": "X5BTL101.BIN:07:AD",
+    "zh": "<00><16> MP 被吸走了<12>！<00>"
+  },
+  {
+    "key": "493b54d6fa792737",
+    "location": "X5BTL101.BIN:07:AE",
+    "zh": "<00><12><1C>的攻擊力提升 <16>！<00>"
+  },
+  {
+    "key": "2b6b8408a5a5b1e7",
+    "location": "X5BTL101.BIN:07:AF",
+    "zh": "<00><12><1C>的防禦力提升 <16>！<00>"
+  },
+  {
+    "key": "6d42ad638155b110",
+    "location": "X5BTL101.BIN:07:B0",
+    "zh": "<00><12><1C>的敏捷提升 <16>！<00>"
+  },
+  {
+    "key": "d6cc67e66f80e7f5",
+    "location": "X5BTL101.BIN:07:B1",
+    "zh": "<00><12><1C>的移動力提升 <16>！<00>"
+  },
+  {
+    "key": "0215d816aab74e95",
+    "location": "X5BTL101.BIN:07:B2",
+    "zh": "<00><12><1C>的運氣提升 <16>！<00>"
+  },
+  {
+    "key": "c92f998fda3f1515",
+    "location": "X5BTL101.BIN:07:B3",
+    "zh": "<00><12><1C>的最大 HP 提升 <16>！<00>"
+  },
+  {
+    "key": "e2027a5e513329cb",
+    "location": "X5BTL101.BIN:07:B4",
+    "zh": "<00><12><1C>的最大 MP 提升 <16>！<00>"
+  },
+  {
+    "key": "f6a4e02110cb5c25",
+    "location": "X5BTL101.BIN:07:B5",
+    "zh": "<00><12>升級了！<00>"
+  },
+  {
+    "key": "0f2e71f4e62ad1fc",
+    "location": "X5BTL101.BIN:07:B6",
+    "zh": "<00>突破了<12><1C>的魔法屏障！<00>"
+  },
+  {
+    "key": "c70c7aafff55054f",
+    "location": "X5BTL101.BIN:07:B7",
+    "zh": "<00><12><1C>的魔法防禦提升！<00>"
+  },
+  {
+    "key": "4bb31cd3f7850748",
+    "location": "X5BTL101.BIN:07:B8",
+    "zh": "<00><12><1C>的攻擊力提升！<00>"
+  },
+  {
+    "key": "a54d54852115ef1c",
+    "location": "X5BTL101.BIN:07:B9",
+    "zh": "<00><12><1C>的防禦與敏捷提升！<00>"
+  },
+  {
+    "key": "cb2c4756ea25f049",
+    "location": "X5BTL101.BIN:07:BA",
+    "zh": "<00><12><1C>的防禦與敏捷降低！<00>"
+  },
+  {
+    "key": "aee6fb1493d525fc",
+    "location": "X5BTL101.BIN:07:BB",
+    "zh": "<00><12>睡著了！<00>"
+  },
+  {
+    "key": "da8ff77af1f44f9e",
+    "location": "X5BTL101.BIN:07:BC",
+    "zh": "<00><12>陷入混亂！<00>"
+  },
+  {
+    "key": "68f8172cc6e23d57",
+    "location": "X5BTL101.BIN:07:BD",
+    "zh": "<00><12>陷入幻象！<00>"
+  },
+  {
+    "key": "80a5e26efb781dc3",
+    "location": "X5BTL101.BIN:07:C0",
+    "zh": "<00><12>中毒了！<00>"
+  },
+  {
+    "key": "edbb02b395815cf9",
+    "location": "X5BTL101.BIN:07:C1",
+    "zh": "<00><12>遭到魅惑！<00>"
+  },
+  {
+    "key": "78fc3a76d0b3e808",
+    "location": "X5BTL101.BIN:07:C2",
+    "zh": "<00><12>正與邪靈搏鬥！<00>"
+  },
+  {
+    "key": "866b0504299e5556",
+    "location": "X5BTL101.BIN:07:C3",
+    "zh": "<00><12>遭到詛咒！<00>"
+  },
+  {
+    "key": "a749691e396402a5",
+    "location": "X5BTL101.BIN:07:C4",
+    "zh": "<00><12>正在祈禱！<00>"
+  },
+  {
+    "key": "c86cd1bb4e85cc23",
+    "location": "X5BTL101.BIN:07:C5",
+    "zh": "<00><12>陷入狂暴！<00>"
+  },
+  {
+    "key": "ee448e5c8eddf9ce",
+    "location": "X5BTL101.BIN:07:C6",
+    "zh": "<00><12><1C>的雙腳凍結了！<00>"
+  },
+  {
+    "key": "23b853bb335f964c",
+    "location": "X5BTL101.BIN:07:C7",
+    "zh": "<00>安撫效果在<12>身上消退了！<00>"
+  },
+  {
+    "key": "f595de22324536ec",
+    "location": "X5BTL101.BIN:07:C8",
+    "zh": "<00>抗性效果在<12>身上消退了！<00>"
+  },
+  {
+    "key": "548f7db8faa6450b",
+    "location": "X5BTL101.BIN:07:C9",
+    "zh": "<00>攻擊效果在<12>身上消退了！<00>"
+  },
+  {
+    "key": "96953c7b810f6c22",
+    "location": "X5BTL101.BIN:07:CA",
+    "zh": "<00>支援效果在<12>身上消退了！<00>"
+  },
+  {
+    "key": "732de8cd3f3cd2c6",
+    "location": "X5BTL101.BIN:07:CB",
+    "zh": "<00>緩速咒文在<12>身上消退了！<00>"
+  },
+  {
+    "key": "19f42d1e3fdcc8d6",
+    "location": "X5BTL101.BIN:07:CC",
+    "zh": "<00><12>醒來了！<00>"
+  },
+  {
+    "key": "36f958efe20f3f12",
+    "location": "X5BTL101.BIN:07:CD",
+    "zh": "<00><12><1C>清醒過來了！<00>"
+  },
+  {
+    "key": "59080bd38968bc5d",
+    "location": "X5BTL101.BIN:07:CE",
+    "zh": "<00><12>看穿了幻象！<00>"
+  },
+  {
+    "key": "b60b6bea58218060",
+    "location": "X5BTL101.BIN:07:CF",
+    "zh": "<00><12>現在可以使用魔法了！<00>"
+  },
+  {
+    "key": "a748f733eecb604c",
+    "location": "X5BTL101.BIN:07:D0",
+    "zh": "<00><12>不再麻痺！<00>"
+  },
+  {
+    "key": "b2b4461f19913302",
+    "location": "X5BTL101.BIN:07:D1",
+    "zh": "<00><12>不再中毒！<00>"
+  },
+  {
+    "key": "3ddc353c1b31e12e",
+    "location": "X5BTL101.BIN:07:D2",
+    "zh": "<00><12>不再受魅惑！<00>"
+  },
+  {
+    "key": "9e31e77259ea5f2c",
+    "location": "X5BTL101.BIN:07:D3",
+    "zh": "<00><12>擊敗了邪靈！<00>"
+  },
+  {
+    "key": "bccca9e086f9eb38",
+    "location": "X5BTL101.BIN:07:D4",
+    "zh": "<00><12>解除了詛咒！<00>"
+  },
+  {
+    "key": "6773fd361df9b305",
+    "location": "X5BTL101.BIN:07:D5",
+    "zh": "<00><12>停止祈禱！<00>"
+  },
+  {
+    "key": "b7504d0a4eb818f2",
+    "location": "X5BTL101.BIN:07:D6",
+    "zh": "<00><12>恢復了自制力！<00>"
+  },
+  {
+    "key": "cc02fe02625ce4f0",
+    "location": "X5BTL101.BIN:07:D7",
+    "zh": "<00><12><1C>凍結的雙腳融化了！<00>"
+  },
+  {
+    "key": "86ab193c36815124",
+    "location": "X5BTL101.BIN:07:D8",
+    "zh": "<00>安撫效果在<12>身上消退了！<06><00>"
+  },
+  {
+    "key": "80ca6ee84611e216",
+    "location": "X5BTL101.BIN:07:D9",
+    "zh": "<00>抗性效果在<12>身上消退了！<06><00>"
+  },
+  {
+    "key": "48bf31319a8afb85",
+    "location": "X5BTL101.BIN:07:DA",
+    "zh": "<00>攻擊效果在<12>身上消退了！<06><00>"
+  },
+  {
+    "key": "bf416b34cbc5a52f",
+    "location": "X5BTL101.BIN:07:DB",
+    "zh": "<00>支援效果在<12>身上消退了！<06><00>"
+  },
+  {
+    "key": "f577c85a84d9bc43",
+    "location": "X5BTL101.BIN:07:DC",
+    "zh": "<00>緩速效果在<12>身上消退了！<06><00>"
+  },
+  {
+    "key": "a7289e7dfa7bb2a4",
+    "location": "X5BTL101.BIN:07:DD",
+    "zh": "<00><12>醒來了！<06><00>"
+  },
+  {
+    "key": "e44de0c79492437e",
+    "location": "X5BTL101.BIN:07:DE",
+    "zh": "<00><12><1C>清醒過來了！<06><00>"
+  },
+  {
+    "key": "d4272872c6320066",
+    "location": "X5BTL101.BIN:07:DF",
+    "zh": "<00><12>看穿了幻象！<06><00>"
+  },
+  {
+    "key": "46252f90059a86c6",
+    "location": "X5BTL101.BIN:07:E0",
+    "zh": "<00><12>現在可以使用魔法了！<06><00>"
+  },
+  {
+    "key": "215e6f67c3f07e42",
+    "location": "X5BTL101.BIN:07:E1",
+    "zh": "<00><12>不再麻痺！<06><00>"
+  },
+  {
+    "key": "f38639cd0ab175f2",
+    "location": "X5BTL101.BIN:07:E2",
+    "zh": "<00><12>不再中毒！<06><00>"
+  },
+  {
+    "key": "f9abd6d7e4a48e96",
+    "location": "X5BTL101.BIN:07:E3",
+    "zh": "<00><12>不再受魅惑！<06><00>"
+  },
+  {
+    "key": "21325c46958e688f",
+    "location": "X5BTL101.BIN:07:E4",
+    "zh": "<00><12>擊敗了邪靈！<06><00>"
+  },
+  {
+    "key": "9d5aeda509ada147",
+    "location": "X5BTL101.BIN:07:E5",
+    "zh": "<00><12>解除了詛咒！<06><00>"
+  },
+  {
+    "key": "1cc024b249760c8e",
+    "location": "X5BTL101.BIN:07:E6",
+    "zh": "<00><12>停止祈禱！<06><00>"
+  },
+  {
+    "key": "fd097538baa8bd4f",
+    "location": "X5BTL101.BIN:07:E7",
+    "zh": "<00><12>恢復了自制力！<06><00>"
+  },
+  {
+    "key": "766d23a73531cc44",
+    "location": "X5BTL101.BIN:07:E8",
+    "zh": "<00><12><1C>凍結的雙腳融化了！<06><00>"
+  },
+  {
+    "key": "dccbef29b5552b51",
+    "location": "X5BTL101.BIN:07:E9",
+    "zh": "<00><12>恢復了 <16>HP！<06><00>"
+  },
+  {
+    "key": "bac0d9690e4a6b76",
+    "location": "X5BTL101.BIN:07:EA",
+    "zh": "<00><12>恢復了 <16>MP！<06><00>"
+  },
+  {
+    "key": "d4e7a62bed8e2953",
+    "location": "X5BTL101.BIN:07:EB",
+    "zh": "<00><12>精疲力盡……<06><00>"
+  },
+  {
+    "key": "56ca3d77df3082a4",
+    "location": "X5BTL101.BIN:07:EC",
+    "zh": "<00>毒素造成 <16>點傷害，對象：<12>！<06><00>"
+  },
+  {
+    "key": "ab5bf50636a504eb",
+    "location": "X5BTL101.BIN:07:ED",
+    "zh": "<00><12>睡著了！<06><00>"
+  },
+  {
+    "key": "1018663740a6fa1c",
+    "location": "X5BTL101.BIN:07:EE",
+    "zh": "<00>詛咒造成 <16>點傷害，對象：<12>！<06><00>"
+  },
+  {
+    "key": "20c48e04813c7242",
+    "location": "X5BTL101.BIN:07:EF",
+    "zh": "<00>獲得 <16> 點經驗值<1D><00>"
+  },
+  {
+    "key": "501ad49f29c5c6a3",
+    "location": "X5BTL101.BIN:07:F0",
+    "zh": "<00>找到 <16> 枚金幣<1D><00>"
+  },
+  {
+    "key": "bf09d68ea1e7184f",
+    "location": "X5BTL101.BIN:07:F1",
+    "zh": "<00><12>丟下了道具 <14>！<00>"
+  },
+  {
+    "key": "e03bc3b460f357fe",
+    "location": "X5BTL101.BIN:07:F2",
+    "zh": "<00><12>升到了<08><06>等級 <16><08><08>！<00>"
+  },
+  {
+    "key": "614dda39a1296fb7",
+    "location": "X5BTL101.BIN:07:F3",
+    "zh": "<00>學會了咒文：<08><06><15><08><08>！<00>"
+  },
+  {
+    "key": "b606ea9f5a4c31e0",
+    "location": "X5BTL101.BIN:07:F4",
+    "zh": "<00>咒文<08><06><15><08><08>提升至<08><06>等級 <16><08><08>！<00>"
+  },
+  {
+    "key": "ef944a5c1f417058",
+    "location": "X5BTL101.BIN:07:F5",
+    "zh": "<00>學會了特殊攻擊：<08><06><18><08><08>！<00>"
+  },
+  {
+    "key": "0d2c14ba41719c32",
+    "location": "X5BTL101.BIN:07:F6",
+    "zh": "<00><12>找到道具：<14><00>"
+  },
+  {
+    "key": "6f619b422cee8001",
+    "location": "X5BTL101.BIN:07:F7",
+    "zh": "<00>最大 HP 提升 <16>！<00>"
+  },
+  {
+    "key": "7efc427ca0f4c19c",
+    "location": "X5BTL101.BIN:07:F8",
+    "zh": "<00>最大 MP 提升 <16>！<00>"
+  },
+  {
+    "key": "34a18bf664cd627b",
+    "location": "X5BTL101.BIN:07:F9",
+    "zh": "<00>攻擊力提升 <16>！<00>"
+  },
+  {
+    "key": "c1979f3d47a54964",
+    "location": "X5BTL101.BIN:07:FA",
+    "zh": "<00>防禦力提升 <16>！<00>"
+  },
+  {
+    "key": "6457f7142a5ca121",
+    "location": "X5BTL101.BIN:07:FB",
+    "zh": "<00>敏捷提升 <16>！<00>"
+  },
+  {
+    "key": "010beba2cd419393",
+    "location": "X5BTL101.BIN:07:FC",
+    "zh": "<00>運氣提升 <16>！<00>"
+  },
+  {
+    "key": "11b1d43d7db792c8",
+    "location": "X5BTL101.BIN:07:FD",
+    "zh": "<00>你很強！！<00>"
+  },
+  {
+    "key": "90bbcef7c2a81ac8",
+    "location": "X5BTL101.BIN:07:FE",
+    "zh": "<00><16> 點<1D>額外傷害！<00>"
+  },
+  {
+    "key": "4459d7b6e443cc3a",
+    "location": "X5BTL101.BIN:07:FF",
+    "zh": "<00>與<08><06><12><08><08>的友情提升為<08><06><19><08><08>！<00>"
+  }
+]

@@ -1,0 +1,1317 @@
+[
+  {
+    "key": "f714e77d5591def8",
+    "location": "X5ASPI_1.BIN:01:F9",
+    "zh": "<00>*恢復<00>"
+  },
+  {
+    "key": "6c9a28dd5d94ef42",
+    "location": "X5ASPI_1.BIN:01:FA",
+    "zh": "<00>*治癒<00>"
+  },
+  {
+    "key": "bf5e645e1cbe8b21",
+    "location": "X5ASPI_1.BIN:01:FC",
+    "zh": "<00>*復活 1<00>"
+  },
+  {
+    "key": "2c584d9fa6cbac1e",
+    "location": "X5ASPI_1.BIN:01:FD",
+    "zh": "<00>*復活 2<00>"
+  },
+  {
+    "key": "06e6adb2a08b5851",
+    "location": "X5ASPI_1.BIN:01:FE",
+    "zh": "<00>*復活 3<00>"
+  },
+  {
+    "key": "fb3d5423d6dd585b",
+    "location": "X5ASPI_1.BIN:01:FF",
+    "zh": "<00>*等級<00>"
+  },
+  {
+    "key": "5a73de5b7df443df",
+    "location": "X5ASPI_1.BIN:02:FE",
+    "zh": "<00>刀刃：使用時施展雷電 X 級<00>"
+  },
+  {
+    "key": "838f12c5a32aad27",
+    "location": "X5ASPI_1.BIN:03:43",
+    "zh": "<00>*X 雷射<00>"
+  },
+  {
+    "key": "754e4c816930b1ce",
+    "location": "X5ASPI_1.BIN:04:3A",
+    "zh": "<00>未設定<00>"
+  },
+  {
+    "key": "174a47caf9196d73",
+    "location": "X5ASPI_1.BIN:04:53",
+    "zh": "<00>凱撒守衛<00>"
+  },
+  {
+    "key": "8475e5c63963a1ee",
+    "location": "X5ASPI_1.BIN:04:58",
+    "zh": "<00>巨人裝甲<00>"
+  },
+  {
+    "key": "4321424f518c65db",
+    "location": "X5ASPI_1.BIN:04:59",
+    "zh": "<00>蜥蜴人<00>"
+  },
+  {
+    "key": "cc05b30839fbe30b",
+    "location": "X5ASPI_1.BIN:04:5A",
+    "zh": "<00>龍人<00>"
+  },
+  {
+    "key": "7922b483491df8eb",
+    "location": "X5ASPI_1.BIN:04:5B",
+    "zh": "<00>地獄犬<00>"
+  },
+  {
+    "key": "dbef19e638ad1767",
+    "location": "X5ASPI_1.BIN:04:5C",
+    "zh": "<00>刻耳柏洛斯<00>"
+  },
+  {
+    "key": "8b8e89b176369799",
+    "location": "X5ASPI_1.BIN:04:5D",
+    "zh": "<00>食腐獸<00>"
+  },
+  {
+    "key": "5740cca52209c3a2",
+    "location": "X5ASPI_1.BIN:04:5E",
+    "zh": "<00>矮人<00>"
+  },
+  {
+    "key": "3a8c42d07680e28e",
+    "location": "X5ASPI_1.BIN:04:63",
+    "zh": "<00>黏土魔像<00>"
+  },
+  {
+    "key": "a14a4f2056959645",
+    "location": "X5ASPI_1.BIN:04:65",
+    "zh": "<00>杜拉漢<00>"
+  },
+  {
+    "key": "69fb1bb6b8420d3c",
+    "location": "X5ASPI_1.BIN:04:67",
+    "zh": "<00>九頭蛇<00>"
+  },
+  {
+    "key": "e9531c12bec00c32",
+    "location": "X5ASPI_1.BIN:04:68",
+    "zh": "<00>牛頭人<00>"
+  },
+  {
+    "key": "9cdef72fc68e2d44",
+    "location": "X5ASPI_1.BIN:04:6A",
+    "zh": "<00>狂暴力士<00>"
+  },
+  {
+    "key": "0a38447cc6bb1b99",
+    "location": "X5ASPI_1.BIN:04:6B",
+    "zh": "<00>巨型破壞者<00>"
+  },
+  {
+    "key": "e867606548b828e3",
+    "location": "X5ASPI_1.BIN:04:6C",
+    "zh": "<00>塔羅斯<00>"
+  },
+  {
+    "key": "1ec104ad6c3546fe",
+    "location": "X5ASPI_1.BIN:04:6D",
+    "zh": "<00>布羅弗<00>"
+  },
+  {
+    "key": "eb749adfce4fe71a",
+    "location": "X5ASPI_1.BIN:04:70",
+    "zh": "<00>裂斬蝙蝠<00>"
+  },
+  {
+    "key": "4fa8e352bd30073a",
+    "location": "X5ASPI_1.BIN:04:71",
+    "zh": "<00>鳥人<00>"
+  },
+  {
+    "key": "59ce31b50e2f95ac",
+    "location": "X5ASPI_1.BIN:04:73",
+    "zh": "<00>高等龍<00>"
+  },
+  {
+    "key": "55a7cd7c1fcf30ce",
+    "location": "X5ASPI_1.BIN:04:74",
+    "zh": "<00>蛇龍<00>"
+  },
+  {
+    "key": "1d459eb971929a23",
+    "location": "X5ASPI_1.BIN:04:76",
+    "zh": "<00>飛龍<00>"
+  },
+  {
+    "key": "9c31d50a04485d2f",
+    "location": "X5ASPI_1.BIN:04:7D",
+    "zh": "<00>地獄狙擊手<00>"
+  },
+  {
+    "key": "1d562cc153f0407d",
+    "location": "X5ASPI_1.BIN:04:7E",
+    "zh": "<00>巨型裝載兵<00>"
+  },
+  {
+    "key": "fb279c287ceea677",
+    "location": "X5ASPI_1.BIN:04:7F",
+    "zh": "<00>戰車<00>"
+  },
+  {
+    "key": "355e612dc9d2d159",
+    "location": "X5ASPI_1.BIN:04:83",
+    "zh": "<00>骷髏法師<00>"
+  },
+  {
+    "key": "2655ce29753c5adb",
+    "location": "X5ASPI_1.BIN:04:84",
+    "zh": "<00>死靈法師<00>"
+  },
+  {
+    "key": "5264922eb3b8ab73",
+    "location": "X5ASPI_1.BIN:04:88",
+    "zh": "<00>高階祭司<00>"
+  },
+  {
+    "key": "f293bf8f264a9262",
+    "location": "X5ASPI_1.BIN:04:8B",
+    "zh": "<00>布魯<00>"
+  },
+  {
+    "key": "f654f7e9664edd5a",
+    "location": "X5ASPI_1.BIN:04:8C",
+    "zh": "<00>德斯托尼亞士兵<00>"
+  },
+  {
+    "key": "fe4eaa1214aa20bf",
+    "location": "X5ASPI_1.BIN:04:8D",
+    "zh": "<00>阿斯皮亞士兵<00>"
+  },
+  {
+    "key": "670015743e08eddd",
+    "location": "X5ASPI_1.BIN:04:8F",
+    "zh": "<00>阿斯皮亞騎士<00>"
+  },
+  {
+    "key": "f1db748a48cdcea5",
+    "location": "X5ASPI_1.BIN:04:92",
+    "zh": "<00>吸血蝙蝠<00>"
+  },
+  {
+    "key": "6f9e0f4a9a6f551a",
+    "location": "X5ASPI_1.BIN:04:9A",
+    "zh": "<00>蒙面僧侶<00>"
+  },
+  {
+    "key": "8d9a5c9de1ee2c6a",
+    "location": "X5ASPI_1.BIN:04:9D",
+    "zh": "<00>蒙面祭司<00>"
+  },
+  {
+    "key": "db752ccc6d23998c",
+    "location": "X5ASPI_1.BIN:04:A2",
+    "zh": "<00>冒牌者<00>"
+  },
+  {
+    "key": "2d7ee3d3325c6c8d",
+    "location": "X5ASPI_1.BIN:04:AA",
+    "zh": "<00>大隊長<00>"
+  },
+  {
+    "key": "d04faf019ca4f621",
+    "location": "X5ASPI_1.BIN:04:B9",
+    "zh": "<00>拜爾索爾士兵<00>"
+  },
+  {
+    "key": "5826555ffe329c01",
+    "location": "X5ASPI_1.BIN:04:BB",
+    "zh": "<00>藍龍<00>"
+  },
+  {
+    "key": "4e40690f2ed2e622",
+    "location": "X5ASPI_1.BIN:04:BC",
+    "zh": "<00>血族<00>"
+  },
+  {
+    "key": "14e9b993a33a058c",
+    "location": "X5ASPI_1.BIN:04:C1",
+    "zh": "<00>蒙面法師<00>"
+  },
+  {
+    "key": "473ddab7b4f8e5f1",
+    "location": "X5ASPI_1.BIN:04:CE",
+    "zh": "<00>大法師<00>"
+  },
+  {
+    "key": "6e250991e17b3b20",
+    "location": "X5ASPI_1.BIN:04:E5",
+    "zh": "<00>穿透裝甲<00>"
+  },
+  {
+    "key": "5f9e753ea1a6cce3",
+    "location": "X5ASPI_1.BIN:04:E7",
+    "zh": "<00>吸血<00>"
+  },
+  {
+    "key": "ae3bfd3ea4b8ecbc",
+    "location": "X5ASPI_1.BIN:04:E8",
+    "zh": "<00>悔恨一擊<00>"
+  },
+  {
+    "key": "e57b4c6f2ac11b39",
+    "location": "X5ASPI_1.BIN:04:E9",
+    "zh": "<00>未設定<00>"
+  },
+  {
+    "key": "02dd7fb48b80efb7",
+    "location": "X5ASPI_1.BIN:04:EB",
+    "zh": "<00>暗影之刃<00>"
+  },
+  {
+    "key": "f821b73e1f4edb6e",
+    "location": "X5ASPI_1.BIN:04:EC",
+    "zh": "<00>雙重斬<00>"
+  },
+  {
+    "key": "2ba5839c4bcd4271",
+    "location": "X5ASPI_1.BIN:04:ED",
+    "zh": "<00>雷射之刃<00>"
+  },
+  {
+    "key": "7c475b4530eb1e1d",
+    "location": "X5ASPI_1.BIN:04:EE",
+    "zh": "<00>彩虹之刃<00>"
+  },
+  {
+    "key": "4afb182b1495f62f",
+    "location": "X5ASPI_1.BIN:04:EF",
+    "zh": "<00>閃光斬殺<00>"
+  },
+  {
+    "key": "25ef11c5ff6c81d9",
+    "location": "X5ASPI_1.BIN:04:F0",
+    "zh": "<00>音速波<00>"
+  },
+  {
+    "key": "f6b3bde56a59a6fa",
+    "location": "X5ASPI_1.BIN:04:F1",
+    "zh": "<00>雙重波<00>"
+  },
+  {
+    "key": "f5fc3a7f2405b9da",
+    "location": "X5ASPI_1.BIN:04:F2",
+    "zh": "<00>幻影之舞<00>"
+  },
+  {
+    "key": "a84fcfa8474bf12b",
+    "location": "X5ASPI_1.BIN:04:F3",
+    "zh": "<00>雷霆衝擊<00>"
+  },
+  {
+    "key": "fc0b97e5eba7c884",
+    "location": "X5ASPI_1.BIN:04:F4",
+    "zh": "<00>熱浪<00>"
+  },
+  {
+    "key": "0d4f6c17641e34cb",
+    "location": "X5ASPI_1.BIN:04:F5",
+    "zh": "<00>噬魂<00>"
+  },
+  {
+    "key": "971bf3e845784b7f",
+    "location": "X5ASPI_1.BIN:04:F6",
+    "zh": "<00>炫目之刃<00>"
+  },
+  {
+    "key": "91bbecbe911bdc1e",
+    "location": "X5ASPI_1.BIN:04:F7",
+    "zh": "<00>三角攻擊<00>"
+  },
+  {
+    "key": "2c810e07e1f34f99",
+    "location": "X5ASPI_1.BIN:04:F8",
+    "zh": "<00>五芒星<00>"
+  },
+  {
+    "key": "195b590f4c5d48e0",
+    "location": "X5ASPI_1.BIN:04:F9",
+    "zh": "<00>百夫長<00>"
+  },
+  {
+    "key": "c876ca2fabcdbd40",
+    "location": "X5ASPI_1.BIN:04:FA",
+    "zh": "<00>霧影佯攻<00>"
+  },
+  {
+    "key": "02e2590d6618961a",
+    "location": "X5ASPI_1.BIN:04:FD",
+    "zh": "<00>惡魔召喚<00>"
+  },
+  {
+    "key": "c0e10cb934a51167",
+    "location": "X5ASPI_1.BIN:04:FE",
+    "zh": "<00>後燃器<00>"
+  },
+  {
+    "key": "50db504af3fb0ac8",
+    "location": "X5ASPI_1.BIN:04:FF",
+    "zh": "<00>破冰者<00>"
+  },
+  {
+    "key": "4aa14d15f656c3ee",
+    "location": "X5ASPI_1.BIN:05:00",
+    "zh": "<00>次元<00>"
+  },
+  {
+    "key": "57eaf8e2fa28b5ae",
+    "location": "X5ASPI_1.BIN:05:01",
+    "zh": "<00>熔甲<00>"
+  },
+  {
+    "key": "877829b5f280fa2f",
+    "location": "X5ASPI_1.BIN:05:02",
+    "zh": "<00>光之十字<00>"
+  },
+  {
+    "key": "74882ef5be20c9d9",
+    "location": "X5ASPI_1.BIN:05:03",
+    "zh": "<00>光球<00>"
+  },
+  {
+    "key": "53af16b2bfe187bb",
+    "location": "X5ASPI_1.BIN:05:05",
+    "zh": "<00>力量之刃<00>"
+  },
+  {
+    "key": "dade668202265edf",
+    "location": "X5ASPI_1.BIN:05:06",
+    "zh": "<00>長槍衝鋒<00>"
+  },
+  {
+    "key": "dca57fc5ab471658",
+    "location": "X5ASPI_1.BIN:05:07",
+    "zh": "<00>超級衝鋒<00>"
+  },
+  {
+    "key": "f3aaf648edbcca04",
+    "location": "X5ASPI_1.BIN:05:08",
+    "zh": "<00>巨型衝鋒<00>"
+  },
+  {
+    "key": "5ec8d339cccede2e",
+    "location": "X5ASPI_1.BIN:05:0A",
+    "zh": "<00>死亡衝鋒<00>"
+  },
+  {
+    "key": "729bcfe0301894da",
+    "location": "X5ASPI_1.BIN:05:0B",
+    "zh": "<00>側風蛇擊<00>"
+  },
+  {
+    "key": "d8871dc89406c84d",
+    "location": "X5ASPI_1.BIN:05:0C",
+    "zh": "<00>能量墜落<00>"
+  },
+  {
+    "key": "f69212003ad9e5e5",
+    "location": "X5ASPI_1.BIN:05:0D",
+    "zh": "<00>雷霆墜擊<00>"
+  },
+  {
+    "key": "d339a58e05d81caf",
+    "location": "X5ASPI_1.BIN:05:0E",
+    "zh": "<00>閃光凝視<00>"
+  },
+  {
+    "key": "c561357a2a503f1f",
+    "location": "X5ASPI_1.BIN:05:0F",
+    "zh": "<00>隕石<00>"
+  },
+  {
+    "key": "76273cdb6b639135",
+    "location": "X5ASPI_1.BIN:05:11",
+    "zh": "<00>十字破擊<00>"
+  },
+  {
+    "key": "f8ea90f1db65a9a7",
+    "location": "X5ASPI_1.BIN:05:12",
+    "zh": "<00>空中之舞<00>"
+  },
+  {
+    "key": "4992202c69af4095",
+    "location": "X5ASPI_1.BIN:05:13",
+    "zh": "<00>領主突擊<00>"
+  },
+  {
+    "key": "92a3b579a55ffe8a",
+    "location": "X5ASPI_1.BIN:05:14",
+    "zh": "<00>閃電<00>"
+  },
+  {
+    "key": "52248581bbec036a",
+    "location": "X5ASPI_1.BIN:05:15",
+    "zh": "<00>死亡之門<00>"
+  },
+  {
+    "key": "249198c5aca4858a",
+    "location": "X5ASPI_1.BIN:05:16",
+    "zh": "<00>全力揮擊<00>"
+  },
+  {
+    "key": "82bcc672c599cb3c",
+    "location": "X5ASPI_1.BIN:05:17",
+    "zh": "<00>強力迴旋<00>"
+  },
+  {
+    "key": "929cdbb8136fdf17",
+    "location": "X5ASPI_1.BIN:05:18",
+    "zh": "<00>超級迴旋<00>"
+  },
+  {
+    "key": "443f2c252cbb0bf8",
+    "location": "X5ASPI_1.BIN:05:19",
+    "zh": "<00>諸神黃昏<00>"
+  },
+  {
+    "key": "60fe3bd87a286512",
+    "location": "X5ASPI_1.BIN:05:1A",
+    "zh": "<00>極限迴旋<00>"
+  },
+  {
+    "key": "f9a8603f4b778cdc",
+    "location": "X5ASPI_1.BIN:05:1B",
+    "zh": "<00>死亡迴旋<00>"
+  },
+  {
+    "key": "f847e9adcb65ae0f",
+    "location": "X5ASPI_1.BIN:05:1C",
+    "zh": "<00>強力投擲<00>"
+  },
+  {
+    "key": "f7bc5e3dfc5678a2",
+    "location": "X5ASPI_1.BIN:05:1F",
+    "zh": "<00>致命一擊<00>"
+  },
+  {
+    "key": "d819751f2e42e64c",
+    "location": "X5ASPI_1.BIN:05:21",
+    "zh": "<00>強力衝撞<00>"
+  },
+  {
+    "key": "55184ad29f91e90e",
+    "location": "X5ASPI_1.BIN:05:22",
+    "zh": "<00>震撼彈<00>"
+  },
+  {
+    "key": "95ab98e3c0583735",
+    "location": "X5ASPI_1.BIN:05:23",
+    "zh": "<00>地震<00>"
+  },
+  {
+    "key": "3f4425235f7dfb71",
+    "location": "X5ASPI_1.BIN:05:25",
+    "zh": "<00>壓力炸彈<00>"
+  },
+  {
+    "key": "1bc1a1c11702e29c",
+    "location": "X5ASPI_1.BIN:05:29",
+    "zh": "<00>風暴之牙<00>"
+  },
+  {
+    "key": "0c8a31db571ee7d4",
+    "location": "X5ASPI_1.BIN:05:2A",
+    "zh": "<00>劇毒之牙<00>"
+  },
+  {
+    "key": "2f04bff16b1cbcca",
+    "location": "X5ASPI_1.BIN:05:2B",
+    "zh": "<00>殘暴衝擊<00>"
+  },
+  {
+    "key": "ad9898d4660d5235",
+    "location": "X5ASPI_1.BIN:05:2C",
+    "zh": "<00>彈丸踵擊<00>"
+  },
+  {
+    "key": "ab653d00bedd0dc7",
+    "location": "X5ASPI_1.BIN:05:2D",
+    "zh": "<00>漩渦踢<00>"
+  },
+  {
+    "key": "965eddff7b0f3654",
+    "location": "X5ASPI_1.BIN:05:2E",
+    "zh": "<00>天舞<00>"
+  },
+  {
+    "key": "66443d566a3156c3",
+    "location": "X5ASPI_1.BIN:05:2F",
+    "zh": "<00>天火<00>"
+  },
+  {
+    "key": "63548a17f7cbdf84",
+    "location": "X5ASPI_1.BIN:05:30",
+    "zh": "<00>寶石掌<00>"
+  },
+  {
+    "key": "c96d2641b5a55821",
+    "location": "X5ASPI_1.BIN:05:31",
+    "zh": "<00>狂怒拳<00>"
+  },
+  {
+    "key": "bfdab87e7ac1eb98",
+    "location": "X5ASPI_1.BIN:05:33",
+    "zh": "<00>征服王<00>"
+  },
+  {
+    "key": "f56eb4c4127ee581",
+    "location": "X5ASPI_1.BIN:05:34",
+    "zh": "<00>幻影拳<00>"
+  },
+  {
+    "key": "bb992d55b20c5883",
+    "location": "X5ASPI_1.BIN:05:35",
+    "zh": "<00>後撤拳<00>"
+  },
+  {
+    "key": "f7ead667265aba6e",
+    "location": "X5ASPI_1.BIN:05:36",
+    "zh": "<00>雙掌擊<00>"
+  },
+  {
+    "key": "fee9e3f5a51f9b3c",
+    "location": "X5ASPI_1.BIN:05:37",
+    "zh": "<00>麻痺掌<00>"
+  },
+  {
+    "key": "1f03235762aaed16",
+    "location": "X5ASPI_1.BIN:05:38",
+    "zh": "<00>恐慌掌<00>"
+  },
+  {
+    "key": "94a8c646fca17c67",
+    "location": "X5ASPI_1.BIN:05:39",
+    "zh": "<00>第九道門<00>"
+  },
+  {
+    "key": "1b99fe21b2552efe",
+    "location": "X5ASPI_1.BIN:05:3A",
+    "zh": "<00>超越夢境<00>"
+  },
+  {
+    "key": "60ce410b607227d2",
+    "location": "X5ASPI_1.BIN:05:3B",
+    "zh": "<00>邁達斯一擊<00>"
+  },
+  {
+    "key": "d558611dee5d1c92",
+    "location": "X5ASPI_1.BIN:05:3D",
+    "zh": "<00>靈魂射擊<00>"
+  },
+  {
+    "key": "0f03e7659c3cb88a",
+    "location": "X5ASPI_1.BIN:05:3E",
+    "zh": "<00>妖精之魂<00>"
+  },
+  {
+    "key": "b80fd8f16bb122ff",
+    "location": "X5ASPI_1.BIN:05:3F",
+    "zh": "<00>靈魂爆破<00>"
+  },
+  {
+    "key": "2613c0a0b029fb40",
+    "location": "X5ASPI_1.BIN:05:40",
+    "zh": "<00>海市蜃樓<00>"
+  },
+  {
+    "key": "622397e5a31a9c52",
+    "location": "X5ASPI_1.BIN:05:41",
+    "zh": "<00>妖精之愛<00>"
+  },
+  {
+    "key": "06b00ab543589219",
+    "location": "X5ASPI_1.BIN:05:42",
+    "zh": "<00>石環<00>"
+  },
+  {
+    "key": "ef0393e392cdd498",
+    "location": "X5ASPI_1.BIN:05:43",
+    "zh": "<00>罪之封印<00>"
+  },
+  {
+    "key": "b464f627ff5b699c",
+    "location": "X5ASPI_1.BIN:05:46",
+    "zh": "<00>愚者祈禱<00>"
+  },
+  {
+    "key": "7ccd86d32fd5f180",
+    "location": "X5ASPI_1.BIN:05:48",
+    "zh": "<00>使徒降臨<00>"
+  },
+  {
+    "key": "5736150fdd3b98f8",
+    "location": "X5ASPI_1.BIN:05:4A",
+    "zh": "<00>催眠箭<00>"
+  },
+  {
+    "key": "01f1db2870590a7a",
+    "location": "X5ASPI_1.BIN:05:4B",
+    "zh": "<00>吸取之箭<00>"
+  },
+  {
+    "key": "4929fe6a05cc997f",
+    "location": "X5ASPI_1.BIN:05:4C",
+    "zh": "<00>瘋狂<00>"
+  },
+  {
+    "key": "61970d094f1cc0bb",
+    "location": "X5ASPI_1.BIN:05:4D",
+    "zh": "<00>龍狙擊<00>"
+  },
+  {
+    "key": "3bfc10fd5b296ed8",
+    "location": "X5ASPI_1.BIN:05:4E",
+    "zh": "<00>咒文病毒<00>"
+  },
+  {
+    "key": "95b8466894e74f5f",
+    "location": "X5ASPI_1.BIN:05:51",
+    "zh": "<00>雙重弩箭<00>"
+  },
+  {
+    "key": "3db9cd19999d514f",
+    "location": "X5ASPI_1.BIN:05:52",
+    "zh": "<00>狙擊弩箭<00>"
+  },
+  {
+    "key": "26af7c9919fbf91c",
+    "location": "X5ASPI_1.BIN:05:53",
+    "zh": "<00>火神弩箭<00>"
+  },
+  {
+    "key": "78e0f824279c19f4",
+    "location": "X5ASPI_1.BIN:05:54",
+    "zh": "<00>聖焰<00>"
+  },
+  {
+    "key": "7d234478ecb5aec0",
+    "location": "X5ASPI_1.BIN:05:55",
+    "zh": "<00>地獄之風<00>"
+  },
+  {
+    "key": "4d8caa2ef25d8f88",
+    "location": "X5ASPI_1.BIN:05:56",
+    "zh": "<00>麻痺針<00>"
+  },
+  {
+    "key": "39b92e96a07fb2c0",
+    "location": "X5ASPI_1.BIN:05:57",
+    "zh": "<00>眩目射擊<00>"
+  },
+  {
+    "key": "e0297160ec3c0b3e",
+    "location": "X5ASPI_1.BIN:05:58",
+    "zh": "<00>裝甲射擊<00>"
+  },
+  {
+    "key": "81f8b30958df980b",
+    "location": "X5ASPI_1.BIN:05:59",
+    "zh": "<00>爆炸<00>"
+  },
+  {
+    "key": "b960a9437ff6d96a",
+    "location": "X5ASPI_1.BIN:05:5A",
+    "zh": "<00>沙漠風暴<00>"
+  },
+  {
+    "key": "a7ef193a324572ca",
+    "location": "X5ASPI_1.BIN:05:5B",
+    "zh": "<00>行星之舞<00>"
+  },
+  {
+    "key": "1b4fda538d570474",
+    "location": "X5ASPI_1.BIN:05:5C",
+    "zh": "<00>施瓦茨希爾特<00>"
+  },
+  {
+    "key": "0f60c0708099131c",
+    "location": "X5ASPI_1.BIN:05:5D",
+    "zh": "<00>蝴蝶之舞<00>"
+  },
+  {
+    "key": "126de397ca20a8f2",
+    "location": "X5ASPI_1.BIN:05:5E",
+    "zh": "<00>飯綱落<00>"
+  },
+  {
+    "key": "42ff715f09aadb26",
+    "location": "X5ASPI_1.BIN:05:5F",
+    "zh": "<00>薄霧<00>"
+  },
+  {
+    "key": "33b42ce77ae3c2cb",
+    "location": "X5ASPI_1.BIN:05:60",
+    "zh": "<00>鎌鼬<00>"
+  },
+  {
+    "key": "c5a6a156649d0522",
+    "location": "X5ASPI_1.BIN:05:61",
+    "zh": "<00>鬼百足<00>"
+  },
+  {
+    "key": "e7062864786aedb3",
+    "location": "X5ASPI_1.BIN:05:62",
+    "zh": "<00>海座頭<00>"
+  },
+  {
+    "key": "8355336d61f538bb",
+    "location": "X5ASPI_1.BIN:05:64",
+    "zh": "<00>哈迪斯之路<00>"
+  },
+  {
+    "key": "946afc3579756dc0",
+    "location": "X5ASPI_1.BIN:05:65",
+    "zh": "<00>暗影織網<00>"
+  },
+  {
+    "key": "cad2c1ffe57650d4",
+    "location": "X5ASPI_1.BIN:05:66",
+    "zh": "<00>暗黑渡鴉<00>"
+  },
+  {
+    "key": "cb38a6586086555a",
+    "location": "X5ASPI_1.BIN:05:67",
+    "zh": "<00>惡魔圓陣<00>"
+  },
+  {
+    "key": "98c14fa8eed08b80",
+    "location": "X5ASPI_1.BIN:05:68",
+    "zh": "<00>雷霆陣<00>"
+  },
+  {
+    "key": "93addecc4995ed34",
+    "location": "X5ASPI_1.BIN:05:69",
+    "zh": "<00>混沌大釜<00>"
+  },
+  {
+    "key": "be9a3ee88c088d23",
+    "location": "X5ASPI_1.BIN:05:6B",
+    "zh": "<00>龍捲風<00>"
+  },
+  {
+    "key": "c307d53231edd45f",
+    "location": "X5ASPI_1.BIN:05:6D",
+    "zh": "<00>血腥旋轉<00>"
+  },
+  {
+    "key": "58c1401fa5d72838",
+    "location": "X5ASPI_1.BIN:05:6E",
+    "zh": "<00>超級爆破<00>"
+  },
+  {
+    "key": "054d49d66f846d2f",
+    "location": "X5ASPI_1.BIN:05:6F",
+    "zh": "<00>地獄俯衝<00>"
+  },
+  {
+    "key": "2eca3c34b9f94a60",
+    "location": "X5ASPI_1.BIN:05:70",
+    "zh": "<00>倒數歸零<00>"
+  },
+  {
+    "key": "a7c5cf0adddf8759",
+    "location": "X5ASPI_1.BIN:05:71",
+    "zh": "<00>火箭拳<00>"
+  },
+  {
+    "key": "caa8a9bdcf3b3ff7",
+    "location": "X5ASPI_1.BIN:05:72",
+    "zh": "<00>增幅拳<00>"
+  },
+  {
+    "key": "c57d1cbb2b442e7a",
+    "location": "X5ASPI_1.BIN:05:73",
+    "zh": "<00>新星射擊<00>"
+  },
+  {
+    "key": "7f751b3aa5bbe22f",
+    "location": "X5ASPI_1.BIN:05:74",
+    "zh": "<00>鑽頭粉碎<00>"
+  },
+  {
+    "key": "79a66da71575b5e6",
+    "location": "X5ASPI_1.BIN:05:75",
+    "zh": "<00>鐵鎚投擲<00>"
+  },
+  {
+    "key": "c8002a104fe16ad2",
+    "location": "X5ASPI_1.BIN:05:76",
+    "zh": "<00>格式塔<00>"
+  },
+  {
+    "key": "20b90a46b4060666",
+    "location": "X5ASPI_1.BIN:05:77",
+    "zh": "<00>企鵝踢<00>"
+  },
+  {
+    "key": "f3d8615ced5b4613",
+    "location": "X5ASPI_1.BIN:05:78",
+    "zh": "<00>企鵝臀擊<00>"
+  },
+  {
+    "key": "1c51f92d279070db",
+    "location": "X5ASPI_1.BIN:05:79",
+    "zh": "<00>火山<00>"
+  },
+  {
+    "key": "5b2ba470c77cbc2a",
+    "location": "X5ASPI_1.BIN:05:7A",
+    "zh": "<00>強力斬<00>"
+  },
+  {
+    "key": "4f409fde2045b71b",
+    "location": "X5ASPI_1.BIN:05:7B",
+    "zh": "<00>衝上雲霄<00>"
+  },
+  {
+    "key": "9bb9f6289e438c66",
+    "location": "X5ASPI_1.BIN:05:7C",
+    "zh": "<00>鷹擊<00>"
+  },
+  {
+    "key": "77be6578d38c9a39",
+    "location": "X5ASPI_1.BIN:05:7D",
+    "zh": "<00>強力假動作<00>"
+  },
+  {
+    "key": "ad0f854f2ce17222",
+    "location": "X5ASPI_1.BIN:05:7E",
+    "zh": "<00>二重假動作<00>"
+  },
+  {
+    "key": "1e26a66b0120e223",
+    "location": "X5ASPI_1.BIN:05:7F",
+    "zh": "<00>死亡之舞<00>"
+  },
+  {
+    "key": "7077c83cb736feb0",
+    "location": "X5ASPI_1.BIN:05:80",
+    "zh": "<00>狼牙<00>"
+  },
+  {
+    "key": "f9ebb5981cdb44a9",
+    "location": "X5ASPI_1.BIN:05:81",
+    "zh": "<00>狼突擊<00>"
+  },
+  {
+    "key": "aad10f50e19e48a5",
+    "location": "X5ASPI_1.BIN:05:82",
+    "zh": "<00>螺旋鑽擊<00>"
+  },
+  {
+    "key": "5927671449a5eec0",
+    "location": "X5ASPI_1.BIN:05:83",
+    "zh": "<00>狂野重擊<00>"
+  },
+  {
+    "key": "d1d4881470fa0609",
+    "location": "X5ASPI_1.BIN:05:84",
+    "zh": "<00>靈魂雷電<00>"
+  },
+  {
+    "key": "03761b8db67c4b50",
+    "location": "X5ASPI_1.BIN:05:85",
+    "zh": "<00>死亡驅動<00>"
+  },
+  {
+    "key": "a8f490dcc5da80c9",
+    "location": "X5ASPI_1.BIN:05:87",
+    "zh": "<00>星爆<00>"
+  },
+  {
+    "key": "894f599c7cbf1e08",
+    "location": "X5ASPI_1.BIN:05:88",
+    "zh": "<00>疾路衝鋒<00>"
+  },
+  {
+    "key": "a68d48ca6ded4e43",
+    "location": "X5ASPI_1.BIN:05:89",
+    "zh": "<00>烈焰之尾<00>"
+  },
+  {
+    "key": "8ac714d6c85b63e9",
+    "location": "X5ASPI_1.BIN:05:8B",
+    "zh": "<00>支配光束<00>"
+  },
+  {
+    "key": "b04358a87ec50dde",
+    "location": "X5ASPI_1.BIN:05:8C",
+    "zh": "<00>雷霆重擊<00>"
+  },
+  {
+    "key": "295dfdfb8028be04",
+    "location": "X5ASPI_1.BIN:05:8D",
+    "zh": "<00>光子狂怒<00>"
+  },
+  {
+    "key": "1ee3245f6767812e",
+    "location": "X5ASPI_1.BIN:05:8F",
+    "zh": "<00>空牙<00>"
+  },
+  {
+    "key": "730afa7a176111b1",
+    "location": "X5ASPI_1.BIN:05:90",
+    "zh": "<00>狂野突擊<00>"
+  },
+  {
+    "key": "514c53f77bd7bda6",
+    "location": "X5ASPI_1.BIN:05:91",
+    "zh": "<00>靈魂粉碎<00>"
+  },
+  {
+    "key": "a13ed0acd3e3b476",
+    "location": "X5ASPI_1.BIN:05:92",
+    "zh": "<00>靈魂之槍<00>"
+  },
+  {
+    "key": "cb60ddf42ac68bb8",
+    "location": "X5ASPI_1.BIN:05:93",
+    "zh": "<00>（測量測試）<00>"
+  },
+  {
+    "key": "73f57701b3f091d6",
+    "location": "X5ASPI_1.BIN:05:94",
+    "zh": "<00>（商店測試）<00>"
+  },
+  {
+    "key": "6fcdfe2951e4a902",
+    "location": "X5ASPI_1.BIN:05:95",
+    "zh": "<00>開場動畫 *<00>"
+  },
+  {
+    "key": "82905d13d3963ffa",
+    "location": "X5ASPI_1.BIN:05:96",
+    "zh": "<00>標誌畫面 *<00>"
+  },
+  {
+    "key": "23780ee3916c91de",
+    "location": "X5ASPI_1.BIN:05:97",
+    "zh": "<00>沉睡的智者<00>"
+  },
+  {
+    "key": "8e967821f6b1f152",
+    "location": "X5ASPI_1.BIN:05:9E",
+    "zh": "<00>鐵路鎮貨艙<00>"
+  },
+  {
+    "key": "a6904479dd368ee2",
+    "location": "X5ASPI_1.BIN:05:A0",
+    "zh": "<00>鐵路切換點<00>"
+  },
+  {
+    "key": "a9b27462e0afb20a",
+    "location": "X5ASPI_1.BIN:05:A1",
+    "zh": "<00>列車內<00>"
+  },
+  {
+    "key": "29dceeb69d88a52b",
+    "location": "X5ASPI_1.BIN:05:A8",
+    "zh": "<00>阿斯皮亞西平原<00>"
+  },
+  {
+    "key": "4c6ef42974576154",
+    "location": "X5ASPI_1.BIN:05:A9",
+    "zh": "<00>斯托里奇南方沙漠<00>"
+  },
+  {
+    "key": "148f29f58d246881",
+    "location": "X5ASPI_1.BIN:05:AA",
+    "zh": "<00>山中通道<00>"
+  },
+  {
+    "key": "9a72d03614257dae",
+    "location": "X5ASPI_1.BIN:05:AB",
+    "zh": "<00>阿斯皮亞東平原<00>"
+  },
+  {
+    "key": "42a5febe0c6a78e6",
+    "location": "X5ASPI_1.BIN:05:B0",
+    "zh": "<00>馬洛里北方沼澤<00>"
+  },
+  {
+    "key": "842a099ddab8262f",
+    "location": "X5ASPI_1.BIN:05:B1",
+    "zh": "<00>馬洛里庭院<00>"
+  },
+  {
+    "key": "1ce93ce4716f898d",
+    "location": "X5ASPI_1.BIN:05:B2",
+    "zh": "<00>阿斯皮亞北平原<00>"
+  },
+  {
+    "key": "c385108a911423e3",
+    "location": "X5ASPI_1.BIN:05:B3",
+    "zh": "<00>阿斯皮亞地下墓穴<00>"
+  },
+  {
+    "key": "cd1a943dc1f77f37",
+    "location": "X5ASPI_1.BIN:05:B5",
+    "zh": "<00>阿斯皮亞攻防戰<00>"
+  },
+  {
+    "key": "9e618d8950d5c199",
+    "location": "X5ASPI_1.BIN:05:B6",
+    "zh": "<00>未使用戰鬥<00>"
+  },
+  {
+    "key": "fbe137c5e790bd74",
+    "location": "X5ASPI_1.BIN:05:B7",
+    "zh": "<00>FSS列車車頂<00>"
+  },
+  {
+    "key": "7f3dd952ec045dfe",
+    "location": "X5ASPI_1.BIN:05:B8",
+    "zh": "<00>FSS吊橋<00>"
+  },
+  {
+    "key": "ae329b39e365cbb7",
+    "location": "X5ASPI_1.BIN:05:C2",
+    "zh": "<00>薩拉班德商店<00>"
+  },
+  {
+    "key": "23f9fbbdd670c4c4",
+    "location": "X5ASPI_1.BIN:05:D7",
+    "zh": "<00>巴爾薩莫教堂<00>"
+  },
+  {
+    "key": "797cf83c541d47fe",
+    "location": "X5ASPI_1.BIN:05:D8",
+    "zh": "<00>巴爾薩莫總部<00>"
+  },
+  {
+    "key": "ba7c69f7cbbb73e2",
+    "location": "X5ASPI_1.BIN:05:DB",
+    "zh": "<00>賽加爾谷列車<00>"
+  },
+  {
+    "key": "681cc0baf8fae113",
+    "location": "X5ASPI_1.BIN:05:E0",
+    "zh": "<00>邊境平原<00>"
+  },
+  {
+    "key": "7dfc056a91f86c71",
+    "location": "X5ASPI_1.BIN:05:F0",
+    "zh": "<00>科諾斯宅邸 2樓<00>"
+  },
+  {
+    "key": "2ee82bdc623ac814",
+    "location": "X5ASPI_1.BIN:05:F1",
+    "zh": "<00>宅邸研究區<00>"
+  },
+  {
+    "key": "2adf05e190971ded",
+    "location": "X5ASPI_1.BIN:05:F2",
+    "zh": "<00>宅邸廚房<00>"
+  },
+  {
+    "key": "b6ab4da83681c1c9",
+    "location": "X5ASPI_1.BIN:05:F3",
+    "zh": "<00>橋上戰鬥<00>"
+  },
+  {
+    "key": "5150a741437333e4",
+    "location": "X5ASPI_1.BIN:05:F4",
+    "zh": "<00>越過邊境<00>"
+  },
+  {
+    "key": "f2c61fd973f38e07",
+    "location": "X5ASPI_1.BIN:05:F7",
+    "zh": "<00>瓦加邦德帳篷<00>"
+  },
+  {
+    "key": "ffd2d8356373337e",
+    "location": "X5ASPI_1.BIN:05:F8",
+    "zh": "<00>瓦加邦德總部<00>"
+  },
+  {
+    "key": "9b092d99fc3794f7",
+    "location": "X5ASPI_1.BIN:06:03",
+    "zh": "<00>前往山谷的列車<00>"
+  },
+  {
+    "key": "10a9a63e9a6d16fa",
+    "location": "X5ASPI_1.BIN:06:0C",
+    "zh": "<00>阿斯皮亞城堡城牆<00>"
+  },
+  {
+    "key": "9c4f98b3f02191af",
+    "location": "X5ASPI_1.BIN:06:0D",
+    "zh": "<00>阿斯皮亞城堡護城河<00>"
+  },
+  {
+    "key": "cdef7de314753d9d",
+    "location": "X5ASPI_1.BIN:06:0E",
+    "zh": "<00>阿斯皮亞村<00>"
+  },
+  {
+    "key": "24a421db27529db4",
+    "location": "X5ASPI_1.BIN:06:0F",
+    "zh": "<00>阿斯皮亞城堡<00>"
+  },
+  {
+    "key": "f1c6e0d67858f4d7",
+    "location": "X5ASPI_1.BIN:06:10",
+    "zh": "<00>阿斯皮亞屋頂<00>"
+  },
+  {
+    "key": "81e99ac8471925ac",
+    "location": "X5ASPI_1.BIN:06:11",
+    "zh": "<00>阿斯皮亞室內 1<00>"
+  },
+  {
+    "key": "b0bfdc2bb7200611",
+    "location": "X5ASPI_1.BIN:06:12",
+    "zh": "<00>阿斯皮亞室內 2<00>"
+  },
+  {
+    "key": "77f6dac2b47ebba9",
+    "location": "X5ASPI_1.BIN:06:13",
+    "zh": "<00>阿斯皮亞總部<00>"
+  },
+  {
+    "key": "f8fc8e5d7abb2531",
+    "location": "X5ASPI_1.BIN:06:14",
+    "zh": "<00>阿斯皮亞教堂<00>"
+  },
+  {
+    "key": "3ac16d2610532016",
+    "location": "X5ASPI_1.BIN:06:16",
+    "zh": "<00>斯托里奇室內<00>"
+  },
+  {
+    "key": "2d31a0c7b331c1d6",
+    "location": "X5ASPI_1.BIN:06:17",
+    "zh": "<00>斯托里奇總部<00>"
+  },
+  {
+    "key": "8b4eb54a6baeb120",
+    "location": "X5ASPI_1.BIN:06:18",
+    "zh": "<00>斯托里奇教堂<00>"
+  },
+  {
+    "key": "64273ddf08545a91",
+    "location": "X5ASPI_1.BIN:06:1B",
+    "zh": "<00>瞭望城<00>"
+  },
+  {
+    "key": "77a0d89085f416a4",
+    "location": "X5ASPI_1.BIN:06:1C",
+    "zh": "<00>瞭望城室內<00>"
+  },
+  {
+    "key": "5abe2d48e4a345fd",
+    "location": "X5ASPI_1.BIN:06:1D",
+    "zh": "<00>瞭望城總部<00>"
+  },
+  {
+    "key": "3280979e75a8fe88",
+    "location": "X5ASPI_1.BIN:06:1E",
+    "zh": "<00>瞭望城教堂<00>"
+  },
+  {
+    "key": "8f85545cd212f3d1",
+    "location": "X5ASPI_1.BIN:06:21",
+    "zh": "<00>馬洛里城堡<00>"
+  },
+  {
+    "key": "1d52443354c28f41",
+    "location": "X5ASPI_1.BIN:06:24",
+    "zh": "<00>馬洛里室內<00>"
+  },
+  {
+    "key": "290132301abb56b4",
+    "location": "X5ASPI_1.BIN:06:26",
+    "zh": "<00>馬洛里酒館<00>"
+  },
+  {
+    "key": "8caf9167f6f9526c",
+    "location": "X5ASPI_1.BIN:06:27",
+    "zh": "<00>馬洛里總部<00>"
+  },
+  {
+    "key": "1adc977e869d03b9",
+    "location": "X5ASPI_1.BIN:06:28",
+    "zh": "<00>馬洛里教堂<00>"
+  },
+  {
+    "key": "03bb5506668be5c7",
+    "location": "X5ASPI_1.BIN:06:2F",
+    "zh": "<00>*神殿 1<00>"
+  },
+  {
+    "key": "6a3135ce02d755aa",
+    "location": "X5ASPI_1.BIN:06:30",
+    "zh": "<00>*神殿 2<00>"
+  },
+  {
+    "key": "64514aa7a5c2c132",
+    "location": "X5ASPI_1.BIN:06:31",
+    "zh": "<00>*神殿 3<00>"
+  },
+  {
+    "key": "d53897bf30aa7c35",
+    "location": "X5ASPI_1.BIN:06:32",
+    "zh": "<00>*神殿 4<00>"
+  },
+  {
+    "key": "ba6083f4edf0899c",
+    "location": "X5ASPI_1.BIN:06:34",
+    "zh": "<00>*矮人山丘遺跡<00>"
+  },
+  {
+    "key": "1d18bd02fbbf3b61",
+    "location": "X5ASPI_1.BIN:06:35",
+    "zh": "<00>*藍色遺跡<00>"
+  },
+  {
+    "key": "d50f141e59fd3767",
+    "location": "X5ASPI_1.BIN:06:36",
+    "zh": "<00>*高原遺跡<00>"
+  },
+  {
+    "key": "2af9db49db0fbea6",
+    "location": "X5ASPI_1.BIN:06:37",
+    "zh": "<00>*瞭望城遺跡<00>"
+  },
+  {
+    "key": "1edae86a46e5d3cc",
+    "location": "X5ASPI_1.BIN:06:38",
+    "zh": "<00>瞭望城遺跡<00>"
+  },
+  {
+    "key": "91daccd4df6c6206",
+    "location": "X5ASPI_1.BIN:06:39",
+    "zh": "<00>*地下墓穴遺跡<00>"
+  },
+  {
+    "key": "a48cacf9b69cc8bc",
+    "location": "X5ASPI_1.BIN:06:3A",
+    "zh": "<00>船上<00>"
+  },
+  {
+    "key": "cb0a730060f2cbd6",
+    "location": "X5ASPI_1.BIN:06:3D",
+    "zh": "<00>地面上的圖片<00>"
+  },
+  {
+    "key": "c35ccbceb8a536ec",
+    "location": "X5ASPI_1.BIN:06:3F",
+    "zh": "<00>波浪<00>"
+  }
+]

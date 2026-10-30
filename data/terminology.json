@@ -1,0 +1,3781 @@
+{
+  "schema_version": 1,
+  "language": "zh-TW",
+  "status_note": "本字典是本專案採用的統一譯名，不代表 Sega 或其他版本的官方譯名。專名譯法以現有譯文為優先；缺少既有譯法者標為暫定，待確認。",
+  "entries": [
+    {
+      "english": "Produn",
+      "approved_zh_tw": "普羅登",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "BTL199 等輔助場景提及的共和國將軍，暫定音譯；不改角色 ID。"
+    },
+    {
+      "english": "Cut Flowers",
+      "approved_zh_tw": "鮮花",
+      "aliases": [
+        "Cut Flower"
+      ],
+      "adjectival_forms": [],
+      "type": "item",
+      "notes": "開場贈花用道具。2026-10-30 使用者回報 B30 名稱仍為英文；字典修正只作用於後續編譯，不改道具 ID 或存檔。"
+    },
+    {
+      "english": "Kyon-shi",
+      "approved_zh_tw": "殭屍",
+      "aliases": [
+        "kyon-shi"
+      ],
+      "adjectival_forms": [],
+      "type": "creature",
+      "notes": "科諾斯受操控村民的原文稱呼。劇情明說並非真正死亡，翻譯須保留可救援的差異。"
+    },
+    {
+      "english": "Ancient Hall of Shrines",
+      "approved_zh_tw": "古代聖殿",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "INKA 試煉入口告示與入場三段對話，和 BTL127 Ancient Holy Palace 版本近乎逐字相同，暫共用譯名；實際入口路徑仍待遊玩驗證。"
+    },
+    {
+      "english": "calling whistle",
+      "approved_zh_tw": "召集哨",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "item",
+      "notes": "INKA 水壩分隊退回集合點時使用的哨子，暫定意譯。"
+    },
+    {
+      "english": "Holy Road",
+      "approved_zh_tw": "聖道",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "瓦加邦德對話提及通往艾爾貝瑟姆的跨水道路，暫定意譯。"
+    },
+    {
+      "english": "JJ",
+      "approved_zh_tw": "傑傑",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "瓦加邦德對話中自我介紹的居民，暫定音譯。"
+    },
+    {
+      "english": "Fiderit",
+      "approved_zh_tw": "費德里特",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "阿斯皮亞收尾對話說話者，專案暫定音譯。"
+    },
+    {
+      "english": "Anafect",
+      "approved_zh_tw": "阿納費克特",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "第二章鐵道戰後過場提及的村莊，專案暫定音譯。"
+    },
+    {
+      "english": "Headland",
+      "approved_zh_tw": "海德蘭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "阿斯皮亞居民與文獻提及的地名，專案暫定音譯。"
+    },
+    {
+      "english": "Negate Cane",
+      "approved_zh_tw": "消魔法杖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "item",
+      "notes": "終章回顧提及的法杖，專案暫定意譯；避免沿用草譯「取消法杖」。"
+    },
+    {
+      "english": "Yasha",
+      "approved_zh_tw": "夜叉",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "阿斯皮亞戰後劇情忍者名，暫定譯名。"
+    },
+    {
+      "english": "Penn",
+      "approved_zh_tw": "潘恩",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "阿斯皮亞文獻提及的角色名；玩家可改名欄位仍依原有政策保留。"
+    },
+    {
+      "english": "Titan",
+      "approved_zh_tw": "巨神",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "creature",
+      "notes": "阿斯皮亞最後戰役兵器，暫定譯名。"
+    },
+    {
+      "english": "Titan Warrior",
+      "approved_zh_tw": "巨神兵",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "creature",
+      "notes": "與 Titan 共指最後戰役兵器的完整稱呼，暫定。"
+    },
+    {
+      "english": "Ancient Holy Palace",
+      "approved_zh_tw": "古代聖殿",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "選修試煉入口的原文稱呼；攻略稱 Ancient Dungeon。"
+    },
+    {
+      "english": "Braff",
+      "approved_zh_tw": "布拉夫",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "第 23～26 戰整合新增暫定音譯，待覆核。"
+    },
+    {
+      "english": "Wilmer",
+      "approved_zh_tw": "威爾默",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "第 25 戰新增暫定音譯，待覆核。"
+    },
+    {
+      "english": "Algernon",
+      "approved_zh_tw": "阿爾傑農",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "馬洛里劇情新增暫定音譯，待覆核。"
+    },
+    {
+      "english": "Margaret",
+      "approved_zh_tw": "瑪格麗特",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "沿用弗拉加德劇情暫定譯名。"
+    },
+    {
+      "english": "Golem",
+      "approved_zh_tw": "魔像",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "creature",
+      "notes": "長城劇情與 UI 統一用語。"
+    },
+    {
+      "english": "Sting Worm",
+      "approved_zh_tw": "毒刺蠕蟲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "creature",
+      "notes": "第 24 戰劇情與 UI 統一用語，暫定。"
+    },
+    {
+      "english": "Queen Worm",
+      "approved_zh_tw": "蠕蟲女王",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "creature",
+      "notes": "第 24 戰劇情與 UI 統一用語，暫定。"
+    },
+    {
+      "english": "Franz",
+      "approved_zh_tw": "弗蘭茲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "沿用第十五戰譯名；補漏時統一，待覆核。"
+    },
+    {
+      "english": "Innovator",
+      "approved_zh_tw": "創新者",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "group",
+      "notes": "沿用宅邸文獻譯名，補漏時統一，待覆核。"
+    },
+    {
+      "english": "Demon Gate",
+      "approved_zh_tw": "惡魔之門",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "沿用第十五戰譯名，補漏時統一，待覆核。"
+    },
+    {
+      "english": "Switching Point",
+      "approved_zh_tw": "切換點",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "鐵路劇情地點，沿用既有章節標籤，待覆核。"
+    },
+    {
+      "english": "Empire",
+      "approved_zh_tw": "帝國",
+      "aliases": [
+        "the Empire"
+      ],
+      "adjectival_forms": [
+        {
+          "english": "Imperial",
+          "zh_tw": "帝國的"
+        },
+        {
+          "english": "Imperial Army",
+          "zh_tw": "帝國軍"
+        },
+        {
+          "english": "Imperial soldier",
+          "zh_tw": "帝國士兵"
+        }
+      ],
+      "type": "faction",
+      "notes": "政體/陣營名；依現有敘事譯文統一。"
+    },
+    {
+      "english": "Republic",
+      "approved_zh_tw": "共和國",
+      "aliases": [
+        "the Republic"
+      ],
+      "adjectival_forms": [
+        {
+          "english": "Republican",
+          "zh_tw": "共和國的"
+        },
+        {
+          "english": "Republican Army",
+          "zh_tw": "共和國軍"
+        },
+        {
+          "english": "Republican soldier",
+          "zh_tw": "共和國士兵"
+        }
+      ],
+      "type": "faction",
+      "notes": "政體/陣營名；避免把 Republican 當作英文殘留。"
+    },
+    {
+      "english": "Gabriel",
+      "approved_zh_tw": "加百列",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "既有翻譯採用；開場重要人物。"
+    },
+    {
+      "english": "Fey",
+      "approved_zh_tw": "菲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "既有翻譯採用；開場人物。"
+    },
+    {
+      "english": "Synbios",
+      "approved_zh_tw": "辛比歐斯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "既有翻譯採用；主角。"
+    },
+    {
+      "english": "Dantares",
+      "approved_zh_tw": "丹塔雷斯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "既有翻譯採用。"
+    },
+    {
+      "english": "Masqurin",
+      "approved_zh_tw": "瑪絲裘琳",
+      "aliases": [
+        "Masquilin"
+      ],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "既有翻譯採用；攻略中可見 Masquilin 拼法，遊戲文本名為 Masqurin。"
+    },
+    {
+      "english": "Grace",
+      "approved_zh_tw": "葛蕾絲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "既有翻譯採用。"
+    },
+    {
+      "english": "Medion",
+      "approved_zh_tw": "梅迪恩",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "既有翻譯採用。"
+    },
+    {
+      "english": "Julian",
+      "approved_zh_tw": "朱利安",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "既有翻譯採用。"
+    },
+    {
+      "english": "Benetram",
+      "approved_zh_tw": "貝內特拉姆",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "既有翻譯採用。"
+    },
+    {
+      "english": "Tybalt",
+      "approved_zh_tw": "泰伯特",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "沿用 opening.json 譯法；未確認官方譯名。"
+    },
+    {
+      "english": "Brutus",
+      "approved_zh_tw": "布魯圖斯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "沿用 opening.json 譯法；未確認官方譯名。"
+    },
+    {
+      "english": "Edmund",
+      "approved_zh_tw": "艾德蒙",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "暫定音譯；既有 UI 字串仍保留英文，未確認官方譯名。"
+    },
+    {
+      "english": "Conrad",
+      "approved_zh_tw": "康拉德",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "沿用 opening.json 譯法；UI 名稱欄仍有英文。"
+    },
+    {
+      "english": "Varlant",
+      "approved_zh_tw": "瓦蘭特",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "沿用 opening.json 譯法；未確認官方譯名。"
+    },
+    {
+      "english": "Garvin",
+      "approved_zh_tw": "加爾文",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "沿用 Saraband.json 譯法；未確認官方譯名。"
+    },
+    {
+      "english": "Domaric",
+      "approved_zh_tw": "多馬里克",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "沿用 Saraband.json 譯法；未確認官方譯名。"
+    },
+    {
+      "english": "Bulzome",
+      "approved_zh_tw": "布爾佐姆",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "依既有 opening 譯文及專案既定用名。"
+    },
+    {
+      "english": "Yogurt",
+      "approved_zh_tw": "優格",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "沿用既有戰鬥訊息譯法；未確認官方譯名。"
+    },
+    {
+      "english": "Saraband",
+      "approved_zh_tw": "薩拉班德",
+      "aliases": [],
+      "adjectival_forms": [
+        {
+          "english": "Saraband Guard",
+          "zh_tw": "薩拉班德衛兵"
+        },
+        {
+          "english": "Saraband HQ",
+          "zh_tw": "薩拉班德總部"
+        }
+      ],
+      "type": "place",
+      "notes": "既有地名譯法。"
+    },
+    {
+      "english": "Elbesem",
+      "approved_zh_tw": "艾爾貝瑟姆",
+      "aliases": [],
+      "adjectival_forms": [
+        {
+          "english": "Elbesem Orb",
+          "zh_tw": "艾爾貝瑟姆寶珠"
+        },
+        {
+          "english": "Elbesem Statue",
+          "zh_tw": "艾爾貝瑟姆雕像"
+        }
+      ],
+      "type": "place",
+      "notes": "既有地名譯法；UI 道具標籤仍留英文。"
+    },
+    {
+      "english": "Barrand",
+      "approved_zh_tw": "巴蘭德",
+      "aliases": [],
+      "adjectival_forms": [
+        {
+          "english": "Barrand North Plateau",
+          "zh_tw": "巴蘭德北方高原"
+        }
+      ],
+      "type": "place",
+      "notes": "沿用 opening.json 譯法；未確認官方譯名。"
+    },
+    {
+      "english": "Balsamo",
+      "approved_zh_tw": "巴爾薩莫",
+      "aliases": [],
+      "adjectival_forms": [
+        {
+          "english": "Balsamo East Plains",
+          "zh_tw": "巴爾薩莫東部平原"
+        },
+        {
+          "english": "Balsamo HQ",
+          "zh_tw": "巴爾薩莫總部"
+        }
+      ],
+      "type": "place",
+      "notes": "沿用 opening.json 譯法；UI 地點名稱欄仍有多筆英文。"
+    },
+    {
+      "english": "Flagard",
+      "approved_zh_tw": "弗拉加德",
+      "aliases": [],
+      "adjectival_forms": [
+        {
+          "english": "Flagard Castle",
+          "zh_tw": "弗拉加德城堡"
+        },
+        {
+          "english": "Flagard North Ridge",
+          "zh_tw": "弗拉加德北方山脊"
+        }
+      ],
+      "type": "place",
+      "notes": "暫定音譯；UI 地點名稱欄仍保留英文，未確認官方譯名。"
+    },
+    {
+      "english": "Aspinia",
+      "approved_zh_tw": "阿斯皮尼亞",
+      "aliases": [],
+      "adjectival_forms": [
+        {
+          "english": "Aspinia Mage",
+          "zh_tw": "阿斯皮尼亞魔法師"
+        }
+      ],
+      "type": "place",
+      "notes": "暫定音譯；既有 UI 字串仍保留英文，未確認官方譯名。"
+    },
+    {
+      "english": "Destonia",
+      "approved_zh_tw": "德斯托尼亞",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "沿用 Saraband.json 譯法。"
+    },
+    {
+      "english": "Mageron",
+      "approved_zh_tw": "馬傑隆",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "暫定音譯；Saraband.json 中保留英文，未確認官方譯名。"
+    },
+    {
+      "english": "Arrawnt",
+      "approved_zh_tw": "阿朗特",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "暫定音譯；Saraband.json 中保留英文，未確認官方譯名。"
+    },
+    {
+      "english": "Spiriel",
+      "approved_zh_tw": "斯皮莉爾",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "暫定音譯；Saraband.json 中保留英文，未確認官方譯名。"
+    },
+    {
+      "english": "Garosh",
+      "approved_zh_tw": "加羅許",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "暫定音譯；Saraband.json 中保留英文，未確認官方譯名。"
+    },
+    {
+      "english": "Quonus",
+      "approved_zh_tw": "科諾斯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "暫定音譯；待劇情覆核。"
+    },
+    {
+      "english": "Crewart",
+      "approved_zh_tw": "克魯沃特",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "暫定音譯；待劇情覆核。"
+    },
+    {
+      "english": "Grantack",
+      "approved_zh_tw": "葛蘭塔克",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "暫定音譯；待劇情覆核。"
+    },
+    {
+      "english": "Railhead",
+      "approved_zh_tw": "鐵路鎮",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "M3 依英文劇情明稱 town 改為鐵路鎮；仍屬暫定意譯，待覆核。"
+    },
+    {
+      "english": "Aspia",
+      "approved_zh_tw": "阿斯皮亞",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "暫定音譯；與 Aspinia 區分，待劇情覆核。"
+    },
+    {
+      "english": "Toby",
+      "approved_zh_tw": "托比",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "巴爾薩莫與第四戰反覆出現；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Duncan",
+      "approved_zh_tw": "鄧肯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "巴爾薩莫劇情人物；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Dwarf Hill",
+      "approved_zh_tw": "矮人山丘",
+      "aliases": [
+        "Dwarf's Hill"
+      ],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "第四戰地名；暫定意譯，待覆核。"
+    },
+    {
+      "english": "Dwarf Valley",
+      "approved_zh_tw": "矮人谷",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "第四戰地名；暫定意譯，待覆核。"
+    },
+    {
+      "english": "Fiale",
+      "approved_zh_tw": "菲亞雷",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "巴爾薩莫旅店劇情人物；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Dessheren",
+      "approved_zh_tw": "德謝倫",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "巴爾薩莫旅店劇情人物；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Basanda",
+      "approved_zh_tw": "巴桑達",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "巴爾薩莫旅店劇情人物；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Goriate",
+      "approved_zh_tw": "戈利亞特",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "巴爾薩莫旅店劇情人物；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Dusty village",
+      "approved_zh_tw": "塵土村",
+      "aliases": [
+        "Dusty Village"
+      ],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "巴爾薩莫對話提及的山賊村落；暫定意譯，待覆核。"
+    },
+    {
+      "english": "Shiraf",
+      "approved_zh_tw": "希拉夫",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "塵土村山賊首領；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Fafhard",
+      "approved_zh_tw": "法夫哈德",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "巴爾薩莫對話提及的人物；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Garzel",
+      "approved_zh_tw": "加澤爾",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "Railhead、Balsamo 相關劇情將軍；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Baersol",
+      "approved_zh_tw": "拜爾索爾",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "faction",
+      "notes": "M4 劇情軍隊／勢力名稱；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Storich",
+      "approved_zh_tw": "斯托里奇",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "M4 劇情地名；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Vagabond",
+      "approved_zh_tw": "瓦加邦德",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "大寫專名，指地名或商隊；與小寫 vagabonds「流浪者」區分；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Great Wall",
+      "approved_zh_tw": "長城",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "M4 劇情地名意譯；暫定，待覆核。"
+    },
+    {
+      "english": "Vandals",
+      "approved_zh_tw": "凡達爾族",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "group",
+      "notes": "古代超自然族群；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Enrich",
+      "approved_zh_tw": "恩里奇",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "西方國名；暫定音譯，待覆核。"
+    },
+    {
+      "english": "Thousand Year Kingdom",
+      "approved_zh_tw": "千年王國",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "傳說／國名；暫定意譯，待覆核。"
+    },
+    {
+      "english": "Seagate",
+      "approved_zh_tw": "海門號",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ship",
+      "notes": "M6 切換點對話中的船名；專案暫定譯名，待覆核。"
+    },
+    {
+      "english": "Galm",
+      "approved_zh_tw": "蓋爾姆",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "M9 劇情中的凡達爾族專名；專案暫定音譯，待覆核。"
+    },
+    {
+      "english": "Abdark",
+      "approved_zh_tw": "阿布達克",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "M9 第十二戰角色名；專案暫定音譯，待覆核。"
+    },
+    {
+      "english": "Palsis",
+      "approved_zh_tw": "帕爾西斯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "M12 劇情中的公爵；專案暫定音譯，待覆核。"
+    },
+    {
+      "english": "Lookover",
+      "approved_zh_tw": "瞭望城",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "M12 劇情目的地；專案暫定意譯，待覆核。"
+    },
+    {
+      "english": "Tristus",
+      "approved_zh_tw": "特里斯托斯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "person",
+      "notes": "M13 劇情中的馬洛里領主；專案暫定音譯，待覆核。"
+    },
+    {
+      "english": "Momochi",
+      "approved_zh_tw": "百地",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "group",
+      "notes": "M13 劇情中的忍者一族；專案暫定譯名，待覆核。"
+    },
+    {
+      "english": "Walcuray",
+      "approved_zh_tw": "瓦爾庫雷",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "creature",
+      "notes": "M13 劇情中的專名；專案暫定音譯，待覆核。"
+    },
+    {
+      "english": "Malorie",
+      "approved_zh_tw": "馬洛里",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "place",
+      "notes": "M12–M13 劇情地名；專案暫定音譯，待覆核。"
+    },
+    {
+      "english": "Bernard",
+      "approved_zh_tw": "伯納德",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Zero",
+      "approved_zh_tw": "傑洛",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Gracia",
+      "approved_zh_tw": "格拉西亞",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Rogan",
+      "approved_zh_tw": "羅根",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Honesty",
+      "approved_zh_tw": "歐妮絲蒂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Jane",
+      "approved_zh_tw": "珍恩",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Vandal",
+      "approved_zh_tw": "凡達爾",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "None",
+      "approved_zh_tw": "無",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Gold",
+      "approved_zh_tw": "金幣",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Swordsman",
+      "approved_zh_tw": "劍士",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Magician",
+      "approved_zh_tw": "魔法師",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Birdsoldier",
+      "approved_zh_tw": "鳥人士兵",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Ranger",
+      "approved_zh_tw": "遊俠",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Penguin",
+      "approved_zh_tw": "企鵝",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Reserve",
+      "approved_zh_tw": "後備",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Hero",
+      "approved_zh_tw": "英雄",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Cavalier",
+      "approved_zh_tw": "重騎士",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Gladiator",
+      "approved_zh_tw": "鬥士",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Cleric",
+      "approved_zh_tw": "司祭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Master Monk",
+      "approved_zh_tw": "武僧大師",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Birdknight",
+      "approved_zh_tw": "鳥人騎士",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Bow Knight",
+      "approved_zh_tw": "弓騎士",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Dynamo",
+      "approved_zh_tw": "電能企鵝",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Steam Knight",
+      "approved_zh_tw": "蒸汽騎士",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Wolf Baron",
+      "approved_zh_tw": "狼男爵",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Light Apostle",
+      "approved_zh_tw": "光之使徒",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Paladin",
+      "approved_zh_tw": "聖騎士",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Berserker",
+      "approved_zh_tw": "狂戰士",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Sorcerer",
+      "approved_zh_tw": "咒術師",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Summoner",
+      "approved_zh_tw": "召喚師",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Soul Steal",
+      "approved_zh_tw": "奪魂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Inferno",
+      "approved_zh_tw": "煉獄",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Pacify",
+      "approved_zh_tw": "安撫",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Tsunami",
+      "approved_zh_tw": "海嘯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Chant",
+      "approved_zh_tw": "吟唱",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Bubble Breath",
+      "approved_zh_tw": "泡沫吐息",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Holy Cane",
+      "approved_zh_tw": "神聖手杖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Blood Cane",
+      "approved_zh_tw": "鮮血手杖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Epee",
+      "approved_zh_tw": "重刺劍",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Foil",
+      "approved_zh_tw": "花劍",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Steel Ninjato",
+      "approved_zh_tw": "鋼忍刀",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Poleaxe",
+      "approved_zh_tw": "長柄斧",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Power Hatchet",
+      "approved_zh_tw": "力量手斧",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Battle Hatchet",
+      "approved_zh_tw": "戰鬥手斧",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Flail",
+      "approved_zh_tw": "連枷",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Talisman Rod",
+      "approved_zh_tw": "護符法杖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Buster Shot",
+      "approved_zh_tw": "破壞砲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Running Ring",
+      "approved_zh_tw": "疾行戒指",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Artemis Pin",
+      "approved_zh_tw": "阿提米絲胸針",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Apollo Pin",
+      "approved_zh_tw": "阿波羅胸針",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Light of Hope",
+      "approved_zh_tw": "希望之光",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Running Pepper",
+      "approved_zh_tw": "疾行胡椒",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Killer Hatchet",
+      "approved_zh_tw": "殺手手斧",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Pyra's Wand",
+      "approved_zh_tw": "派拉魔杖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Blessed Ankh",
+      "approved_zh_tw": "祝福安卡",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Moonlight Arrow",
+      "approved_zh_tw": "月光箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Breaker Arrow",
+      "approved_zh_tw": "破壞箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Canterella",
+      "approved_zh_tw": "坎特蕾拉",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Moogie Arrow",
+      "approved_zh_tw": "穆吉箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Flame Quarrel",
+      "approved_zh_tw": "火焰弩箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Sonic Quarrel",
+      "approved_zh_tw": "音速弩箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Needle Quarrel",
+      "approved_zh_tw": "針刺弩箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Magnum Shell",
+      "approved_zh_tw": "巨威砲彈",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Storm Shot",
+      "approved_zh_tw": "風暴砲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Meteor Shot",
+      "approved_zh_tw": "流星砲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Pulsar Shot",
+      "approved_zh_tw": "脈衝砲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Wind Cutter",
+      "approved_zh_tw": "斬風",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Bone Eater",
+      "approved_zh_tw": "噬骨",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Rumbling Sea",
+      "approved_zh_tw": "怒海",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Kusanagi",
+      "approved_zh_tw": "草薙",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Muramasa",
+      "approved_zh_tw": "村正",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Cross Shuriken",
+      "approved_zh_tw": "十字手裏劍",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Fox Shuriken",
+      "approved_zh_tw": "狐手裏劍",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Shaken",
+      "approved_zh_tw": "車劍",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Octagon Star",
+      "approved_zh_tw": "八角星",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Metal Wing",
+      "approved_zh_tw": "金屬翼",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Sylph Wing",
+      "approved_zh_tw": "風精靈翼",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Sonic Wing",
+      "approved_zh_tw": "音速翼",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Cosmic Wing",
+      "approved_zh_tw": "宇宙翼",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Zero Wing",
+      "approved_zh_tw": "零式翼",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Stealth Wing",
+      "approved_zh_tw": "隱形翼",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Spin Anchor",
+      "approved_zh_tw": "旋轉錨",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Crash Anchor",
+      "approved_zh_tw": "粉碎錨",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Gravity Anchor",
+      "approved_zh_tw": "重力錨",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Chicken Feed",
+      "approved_zh_tw": "雞飼料",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Volcanon Wand",
+      "approved_zh_tw": "沃爾卡農魔杖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Large Egg",
+      "approved_zh_tw": "大蛋",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Ship Key",
+      "approved_zh_tw": "船鑰匙",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Statue Gem",
+      "approved_zh_tw": "神像寶石",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Mitra Ankh",
+      "approved_zh_tw": "密特拉安卡",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Divine Cane",
+      "approved_zh_tw": "神授手杖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Blue Ruins Map",
+      "approved_zh_tw": "藍色遺跡地圖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Plateau Map",
+      "approved_zh_tw": "高原地圖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Desert Map",
+      "approved_zh_tw": "沙漠地圖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Tower Map",
+      "approved_zh_tw": "塔樓地圖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Penguin Beak",
+      "approved_zh_tw": "企鵝嘴",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Remove",
+      "approved_zh_tw": "卸下",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Healing Rain",
+      "approved_zh_tw": "治癒甘霖",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Eric",
+      "approved_zh_tw": "艾瑞克",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Tyrin",
+      "approved_zh_tw": "泰林",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Karna",
+      "approved_zh_tw": "卡娜",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Randolf",
+      "approved_zh_tw": "蘭道夫",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Dailu",
+      "approved_zh_tw": "代魯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Sorrow",
+      "approved_zh_tw": "索羅",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Baldric Strait",
+      "approved_zh_tw": "巴爾德里克海峽",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Destonian Sea",
+      "approved_zh_tw": "德斯托尼亞海",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "Salisbury steak",
+      "approved_zh_tw": "漢堡排",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_or_story_term",
+      "notes": "2026-10-30 R1 測試期間補翻採用的專案譯法；新專名暫定，不改角色、道具或存檔 ID。實際選單寬度待測。"
+    },
+    {
+      "english": "*Restore",
+      "approved_zh_tw": "*恢復",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Cure",
+      "approved_zh_tw": "*治癒",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Raise 1",
+      "approved_zh_tw": "*復活 1",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Raise 2",
+      "approved_zh_tw": "*復活 2",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Raise 3",
+      "approved_zh_tw": "*復活 3",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Level",
+      "approved_zh_tw": "*等級",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Blade - Spark Lx if used",
+      "approved_zh_tw": "刀刃：使用時施展雷電 X 級",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*X-Laser",
+      "approved_zh_tw": "*X 雷射",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "NOT SET",
+      "approved_zh_tw": "未設定",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Kaiser Guard",
+      "approved_zh_tw": "凱撒守衛",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Giant Armour",
+      "approved_zh_tw": "巨人裝甲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Lizardman",
+      "approved_zh_tw": "蜥蜴人",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Dragonewt",
+      "approved_zh_tw": "龍人",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Hell Hound",
+      "approved_zh_tw": "地獄犬",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Cerberus",
+      "approved_zh_tw": "刻耳柏洛斯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Scaven",
+      "approved_zh_tw": "食腐獸",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。用途或原名含義尚需結合實際場景覆核，譯名暫定。"
+    },
+    {
+      "english": "Dwarf",
+      "approved_zh_tw": "矮人",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Clay Golem",
+      "approved_zh_tw": "黏土魔像",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Durahan",
+      "approved_zh_tw": "杜拉漢",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Hydra",
+      "approved_zh_tw": "九頭蛇",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Minotaur",
+      "approved_zh_tw": "牛頭人",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Mad Muscle",
+      "approved_zh_tw": "狂暴力士",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Giga Breaker",
+      "approved_zh_tw": "巨型破壞者",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Taros",
+      "approved_zh_tw": "塔羅斯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Brover",
+      "approved_zh_tw": "布羅弗",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。用途或原名含義尚需結合實際場景覆核，譯名暫定。"
+    },
+    {
+      "english": "Slash Bat",
+      "approved_zh_tw": "裂斬蝙蝠",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Birdman",
+      "approved_zh_tw": "鳥人",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Arch Dragon",
+      "approved_zh_tw": "高等龍",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Wyrm",
+      "approved_zh_tw": "蛇龍",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Wyvern",
+      "approved_zh_tw": "飛龍",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Hell Sniper",
+      "approved_zh_tw": "地獄狙擊手",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Mega Loader",
+      "approved_zh_tw": "巨型裝載兵",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Chariot",
+      "approved_zh_tw": "戰車",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Skull Mage",
+      "approved_zh_tw": "骷髏法師",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Necromancer",
+      "approved_zh_tw": "死靈法師",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "High Priest",
+      "approved_zh_tw": "高階祭司",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Blue",
+      "approved_zh_tw": "布魯",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。用途或原名含義尚需結合實際場景覆核，譯名暫定。"
+    },
+    {
+      "english": "Destonia Soldier",
+      "approved_zh_tw": "德斯托尼亞士兵",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Soldier",
+      "approved_zh_tw": "阿斯皮亞士兵",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Knight",
+      "approved_zh_tw": "阿斯皮亞騎士",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Vampire Bat",
+      "approved_zh_tw": "吸血蝙蝠",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Masked Monk",
+      "approved_zh_tw": "蒙面僧侶",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Masked Priest",
+      "approved_zh_tw": "蒙面祭司",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Impostor",
+      "approved_zh_tw": "冒牌者",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Battalion Leader",
+      "approved_zh_tw": "大隊長",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Baersol Soldier",
+      "approved_zh_tw": "拜爾索爾士兵",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Blue Dragon",
+      "approved_zh_tw": "藍龍",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Blood Born",
+      "approved_zh_tw": "血族",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Masked Mage",
+      "approved_zh_tw": "蒙面法師",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "High Wizard",
+      "approved_zh_tw": "大法師",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Penetrate Armour",
+      "approved_zh_tw": "穿透裝甲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Blood Sucker",
+      "approved_zh_tw": "吸血",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Regret Hit",
+      "approved_zh_tw": "悔恨一擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Not Set",
+      "approved_zh_tw": "未設定",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Shadow Edge",
+      "approved_zh_tw": "暗影之刃",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Twin Slash",
+      "approved_zh_tw": "雙重斬",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Laser Edge",
+      "approved_zh_tw": "雷射之刃",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Rainbow Edge",
+      "approved_zh_tw": "彩虹之刃",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Flash Kill",
+      "approved_zh_tw": "閃光斬殺",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Sonic Wave",
+      "approved_zh_tw": "音速波",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Twin Wave",
+      "approved_zh_tw": "雙重波",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Mirage Dance",
+      "approved_zh_tw": "幻影之舞",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Thunder Shock",
+      "approved_zh_tw": "雷霆衝擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Heat Wave",
+      "approved_zh_tw": "熱浪",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Soul Eater",
+      "approved_zh_tw": "噬魂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Dazzle Edge",
+      "approved_zh_tw": "炫目之刃",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Triangle",
+      "approved_zh_tw": "三角攻擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Pentagram",
+      "approved_zh_tw": "五芒星",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Centurion",
+      "approved_zh_tw": "百夫長",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Mist Feint",
+      "approved_zh_tw": "霧影佯攻",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Demon Call",
+      "approved_zh_tw": "惡魔召喚",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "After Burner",
+      "approved_zh_tw": "後燃器",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Ice Breaker",
+      "approved_zh_tw": "破冰者",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Dimension",
+      "approved_zh_tw": "次元",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Melt Armour",
+      "approved_zh_tw": "熔甲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Light Cross",
+      "approved_zh_tw": "光之十字",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Light Sphere",
+      "approved_zh_tw": "光球",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Force Edge",
+      "approved_zh_tw": "力量之刃",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Lance Charge",
+      "approved_zh_tw": "長槍衝鋒",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Super Charge",
+      "approved_zh_tw": "超級衝鋒",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Mega Charge",
+      "approved_zh_tw": "巨型衝鋒",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Death Charge",
+      "approved_zh_tw": "死亡衝鋒",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Side Winder",
+      "approved_zh_tw": "側風蛇擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Energy Fall",
+      "approved_zh_tw": "能量墜落",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Thunder Fall",
+      "approved_zh_tw": "雷霆墜擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Flash Gazer",
+      "approved_zh_tw": "閃光凝視",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Meteor",
+      "approved_zh_tw": "隕石",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Cross Break",
+      "approved_zh_tw": "十字破擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Air Dance",
+      "approved_zh_tw": "空中之舞",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Lord Rush",
+      "approved_zh_tw": "領主突擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Lightning",
+      "approved_zh_tw": "閃電",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Death Gate",
+      "approved_zh_tw": "死亡之門",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Full Swing",
+      "approved_zh_tw": "全力揮擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Power Wheel",
+      "approved_zh_tw": "強力迴旋",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Mega Wheel",
+      "approved_zh_tw": "超級迴旋",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Ragnarok",
+      "approved_zh_tw": "諸神黃昏",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Giga Wheel",
+      "approved_zh_tw": "極限迴旋",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Death Wheel",
+      "approved_zh_tw": "死亡迴旋",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Power Throw",
+      "approved_zh_tw": "強力投擲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Fatal Strike",
+      "approved_zh_tw": "致命一擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Power Crash",
+      "approved_zh_tw": "強力衝撞",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Stun Bomb",
+      "approved_zh_tw": "震撼彈",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Earthquake",
+      "approved_zh_tw": "地震",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Pressure Bomb",
+      "approved_zh_tw": "壓力炸彈",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Storm Fang",
+      "approved_zh_tw": "風暴之牙",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Venom Fang",
+      "approved_zh_tw": "劇毒之牙",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Brutal Shock",
+      "approved_zh_tw": "殘暴衝擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Bullet Heel",
+      "approved_zh_tw": "彈丸踵擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Vortex Kick",
+      "approved_zh_tw": "漩渦踢",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Sky Dance",
+      "approved_zh_tw": "天舞",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Heavenly Fire",
+      "approved_zh_tw": "天火",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Jewel Palm",
+      "approved_zh_tw": "寶石掌",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Fist O' Fury",
+      "approved_zh_tw": "狂怒拳",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Conquer King",
+      "approved_zh_tw": "征服王",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Mirage Fist",
+      "approved_zh_tw": "幻影拳",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Backstep Fist",
+      "approved_zh_tw": "後撤拳",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Double Palm",
+      "approved_zh_tw": "雙掌擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Stun Palm",
+      "approved_zh_tw": "麻痺掌",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Panic Palm",
+      "approved_zh_tw": "恐慌掌",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Ninth Gate",
+      "approved_zh_tw": "第九道門",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Meta Dream",
+      "approved_zh_tw": "超越夢境",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Midas Strike",
+      "approved_zh_tw": "邁達斯一擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Soul Shot",
+      "approved_zh_tw": "靈魂射擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Fairy Soul",
+      "approved_zh_tw": "妖精之魂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Soul Blast",
+      "approved_zh_tw": "靈魂爆破",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Fata Morgana",
+      "approved_zh_tw": "海市蜃樓",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Fairy Lover",
+      "approved_zh_tw": "妖精之愛",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Stone Circle",
+      "approved_zh_tw": "石環",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Seal of Sin",
+      "approved_zh_tw": "罪之封印",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Fool Prayer",
+      "approved_zh_tw": "愚者祈禱",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Apostle Descent",
+      "approved_zh_tw": "使徒降臨",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Hypno Arrow",
+      "approved_zh_tw": "催眠箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Drain Arrow",
+      "approved_zh_tw": "吸取之箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Lunatic",
+      "approved_zh_tw": "瘋狂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Dragon Snipe",
+      "approved_zh_tw": "龍狙擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Spell Virus",
+      "approved_zh_tw": "咒文病毒",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Double Bolt",
+      "approved_zh_tw": "雙重弩箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Sniper Bolt",
+      "approved_zh_tw": "狙擊弩箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Vulcan Bolt",
+      "approved_zh_tw": "火神弩箭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Saint Flame",
+      "approved_zh_tw": "聖焰",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Hell Wind",
+      "approved_zh_tw": "地獄之風",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Stun Needle",
+      "approved_zh_tw": "麻痺針",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Dazzle Shot",
+      "approved_zh_tw": "眩目射擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Armour Shot",
+      "approved_zh_tw": "裝甲射擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Explode",
+      "approved_zh_tw": "爆炸",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Desert Storm",
+      "approved_zh_tw": "沙漠風暴",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Planet Dance",
+      "approved_zh_tw": "行星之舞",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Schwarchshilt",
+      "approved_zh_tw": "施瓦茨希爾特",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。用途或原名含義尚需結合實際場景覆核，譯名暫定。"
+    },
+    {
+      "english": "Butterfly Dance",
+      "approved_zh_tw": "蝴蝶之舞",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Izuna Drop",
+      "approved_zh_tw": "飯綱落",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Fine Mist",
+      "approved_zh_tw": "薄霧",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Kamaitachi",
+      "approved_zh_tw": "鎌鼬",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Oni Hyakusoku",
+      "approved_zh_tw": "鬼百足",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Umi Zato",
+      "approved_zh_tw": "海座頭",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Road to Hades",
+      "approved_zh_tw": "哈迪斯之路",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Shadow Loom",
+      "approved_zh_tw": "暗影織網",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Dark Raven",
+      "approved_zh_tw": "暗黑渡鴉",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Demon Circle",
+      "approved_zh_tw": "惡魔圓陣",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Thunder Array",
+      "approved_zh_tw": "雷霆陣",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Chaos Cauldron",
+      "approved_zh_tw": "混沌大釜",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Twister",
+      "approved_zh_tw": "龍捲風",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Bloody Spin",
+      "approved_zh_tw": "血腥旋轉",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Hyper Boom",
+      "approved_zh_tw": "超級爆破",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Hell Dive",
+      "approved_zh_tw": "地獄俯衝",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "T Minus Zero",
+      "approved_zh_tw": "倒數歸零",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Rocket Punch",
+      "approved_zh_tw": "火箭拳",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Boost Punch",
+      "approved_zh_tw": "增幅拳",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Nova Shot",
+      "approved_zh_tw": "新星射擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Drill Smash",
+      "approved_zh_tw": "鑽頭粉碎",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Hammer Throw",
+      "approved_zh_tw": "鐵鎚投擲",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Gestalt",
+      "approved_zh_tw": "格式塔",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Penguin Kick",
+      "approved_zh_tw": "企鵝踢",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Penguin Butt",
+      "approved_zh_tw": "企鵝臀擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Volcano",
+      "approved_zh_tw": "火山",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Power Slash",
+      "approved_zh_tw": "強力斬",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Sky High",
+      "approved_zh_tw": "衝上雲霄",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Eagle Dive",
+      "approved_zh_tw": "鷹擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Power Feint",
+      "approved_zh_tw": "強力假動作",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Double Feint",
+      "approved_zh_tw": "二重假動作",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Danse Macabre",
+      "approved_zh_tw": "死亡之舞",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Wolf Fang",
+      "approved_zh_tw": "狼牙",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Wolf Rush",
+      "approved_zh_tw": "狼突擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Cork Screw",
+      "approved_zh_tw": "螺旋鑽擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Wild Blow",
+      "approved_zh_tw": "狂野重擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Soul Spark",
+      "approved_zh_tw": "靈魂雷電",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Death Drive",
+      "approved_zh_tw": "死亡驅動",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Star Bomb",
+      "approved_zh_tw": "星爆",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Road Rush",
+      "approved_zh_tw": "疾路衝鋒",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Flame Tail",
+      "approved_zh_tw": "烈焰之尾",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Dominion Ray",
+      "approved_zh_tw": "支配光束",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Thunder Blow",
+      "approved_zh_tw": "雷霆重擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Photon Rage",
+      "approved_zh_tw": "光子狂怒",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Air Fang",
+      "approved_zh_tw": "空牙",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Wild Rush",
+      "approved_zh_tw": "狂野突擊",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Soul Smash",
+      "approved_zh_tw": "靈魂粉碎",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Soul Gun",
+      "approved_zh_tw": "靈魂之槍",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "(Measurement Test)",
+      "approved_zh_tw": "（測量測試）",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "(Store Test)",
+      "approved_zh_tw": "（商店測試）",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "OP Movie *",
+      "approved_zh_tw": "開場動畫 *",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Logo Screen *",
+      "approved_zh_tw": "標誌畫面 *",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Sleepy Wise Man",
+      "approved_zh_tw": "沉睡的智者",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Railhead Cargo Hold",
+      "approved_zh_tw": "鐵路鎮貨艙",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Railway Switching Point",
+      "approved_zh_tw": "鐵路切換點",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aboard Train",
+      "approved_zh_tw": "列車內",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia West Plain",
+      "approved_zh_tw": "阿斯皮亞西平原",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Storich South Desert",
+      "approved_zh_tw": "斯托里奇南方沙漠",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Mountain Passage",
+      "approved_zh_tw": "山中通道",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia East Plain",
+      "approved_zh_tw": "阿斯皮亞東平原",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Malorie North Marsh",
+      "approved_zh_tw": "馬洛里北方沼澤",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Malorie Courtyard",
+      "approved_zh_tw": "馬洛里庭院",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia North Plain",
+      "approved_zh_tw": "阿斯皮亞北平原",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Catacombs",
+      "approved_zh_tw": "阿斯皮亞地下墓穴",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Battle for Aspia",
+      "approved_zh_tw": "阿斯皮亞攻防戰",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Unused Battles",
+      "approved_zh_tw": "未使用戰鬥",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Roof of FSS Train",
+      "approved_zh_tw": "FSS列車車頂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。FSS 縮寫保留以供來源比對，未推測全名。"
+    },
+    {
+      "english": "FSS Suspension Bridge",
+      "approved_zh_tw": "FSS吊橋",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。FSS 縮寫保留以供來源比對，未推測全名。"
+    },
+    {
+      "english": "Saraband Shop",
+      "approved_zh_tw": "薩拉班德商店",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Balsamo Church",
+      "approved_zh_tw": "巴爾薩莫教堂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Balsamo HQ",
+      "approved_zh_tw": "巴爾薩莫總部",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Segale Valley Train",
+      "approved_zh_tw": "賽加爾谷列車",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Border Plains",
+      "approved_zh_tw": "邊境平原",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Quonus Mansion 2F",
+      "approved_zh_tw": "科諾斯宅邸 2樓",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Mansion Research",
+      "approved_zh_tw": "宅邸研究區",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Mansion Kitchen",
+      "approved_zh_tw": "宅邸廚房",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Bridge Battle",
+      "approved_zh_tw": "橋上戰鬥",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Over the border",
+      "approved_zh_tw": "越過邊境",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Vagabond Tent",
+      "approved_zh_tw": "瓦加邦德帳篷",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Vagabond HQ",
+      "approved_zh_tw": "瓦加邦德總部",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Train to Valley",
+      "approved_zh_tw": "前往山谷的列車",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Castle Wall",
+      "approved_zh_tw": "阿斯皮亞城堡城牆",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Castle Moat",
+      "approved_zh_tw": "阿斯皮亞城堡護城河",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Village",
+      "approved_zh_tw": "阿斯皮亞村",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Castle",
+      "approved_zh_tw": "阿斯皮亞城堡",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Roof",
+      "approved_zh_tw": "阿斯皮亞屋頂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Indoors 1",
+      "approved_zh_tw": "阿斯皮亞室內 1",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Indoors 2",
+      "approved_zh_tw": "阿斯皮亞室內 2",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia HQ",
+      "approved_zh_tw": "阿斯皮亞總部",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aspia Church",
+      "approved_zh_tw": "阿斯皮亞教堂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Storich Indoors",
+      "approved_zh_tw": "斯托里奇室內",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Storich HQ",
+      "approved_zh_tw": "斯托里奇總部",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Storich Church",
+      "approved_zh_tw": "斯托里奇教堂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Lookover Village",
+      "approved_zh_tw": "瞭望城",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Lookover Indoors",
+      "approved_zh_tw": "瞭望城室內",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Lookover HQ",
+      "approved_zh_tw": "瞭望城總部",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Lookover Church",
+      "approved_zh_tw": "瞭望城教堂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Malorie Castle",
+      "approved_zh_tw": "馬洛里城堡",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Malorie Indoors",
+      "approved_zh_tw": "馬洛里室內",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Malorie Tavern",
+      "approved_zh_tw": "馬洛里酒館",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Malorie HQ",
+      "approved_zh_tw": "馬洛里總部",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Malorie Church",
+      "approved_zh_tw": "馬洛里教堂",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Shrine 1",
+      "approved_zh_tw": "*神殿 1",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Shrine 2",
+      "approved_zh_tw": "*神殿 2",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Shrine 3",
+      "approved_zh_tw": "*神殿 3",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Shrine 4",
+      "approved_zh_tw": "*神殿 4",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Dwarf Hill Ruins",
+      "approved_zh_tw": "*矮人山丘遺跡",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Blue Ruins",
+      "approved_zh_tw": "*藍色遺跡",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Plateau Ruins",
+      "approved_zh_tw": "*高原遺跡",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Lookover Ruins",
+      "approved_zh_tw": "*瞭望城遺跡",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Lookover Ruins",
+      "approved_zh_tw": "瞭望城遺跡",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "*Catacomb Ruins",
+      "approved_zh_tw": "*地下墓穴遺跡",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Aboard Ship",
+      "approved_zh_tw": "船上",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    },
+    {
+      "english": "Picture above ground",
+      "approved_zh_tw": "地面上的圖片",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。用途或原名含義尚需結合實際場景覆核，譯名暫定。"
+    },
+    {
+      "english": "Wave",
+      "approved_zh_tw": "波浪",
+      "aliases": [],
+      "adjectival_forms": [],
+      "type": "ui_label",
+      "notes": "2026-10-30 R1 測試期間補翻之介面名稱；專案譯法，不改遊戲 ID。"
+    }
+  ]
+}
